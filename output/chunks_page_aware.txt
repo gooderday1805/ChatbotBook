@@ -1,0 +1,3978 @@
+================================================================================
+CHUNKS - Page-Aware
+================================================================================
+
+Total chunks: 133
+
+Average size: 1006 chars
+Min size: 11 chars
+Max size: 1835 chars
+
+================================================================================
+
+================================================================================
+CHUNK 1/133
+================================================================================
+Page: 1
+Size: 77 chars
+Type: full_page
+
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+TOÁN 6 TẬP MỘT
+69
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+02728
+
+================================================================================
+CHUNK 2/133
+================================================================================
+Page: 2
+Size: 179 chars
+Type: full_page
+
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+PHAN ĐUC CHÍNH (Tổng Chủ biên)
+TÔN THÂN (Chủ biên)
+VŨ HƯU BÌNH
+PHẠM QUÁ ĐỨC - TRÂN LUẬN
+TOÁN 6 TẬP MỘT
+(Tái bản lần thứ chín)
+XUẤT BẢN GIÁO DỤC VIỆT NAM
+NHÀ
+
+================================================================================
+CHUNK 3/133
+================================================================================
+Page: 3
+Size: 669 chars
+Type: full_page
+
+Chủ trách xuất bản
+Chủ tịch HĐQT kiêm Tổng Giám đốc
+NGÔ TRẦN ÁI
+Phó Giám đốc kiêm Giám đốc xuất bản
+NGUYỄN QUÝ THAO
+Biên tập lần đầu
+LƯƠNG BÍCH LƯU
+PHẠM THỊ BẠCH NGỌC
+Biên tập tái bản
+DUONG VŨ KHÁNH THUẬN
+Biên tập kỹ thuật
+NGUYỄN LIÊN HƯƠNG
+TRẦN THANH HÀNG
+Trình bày bìa và minh họa
+BÙI QUANG TUẤN
+Sửa bản in
+DƯƠNG VŨ KHÁNH THUẬN
+Chế bản
+CÔNG TY CỔ PHẨN THẾT KẾ VÀ PHÁT HÀNH SÁCH GIÁO DỤC
+Bản thuộc Nhà xuất bản Giáo dục Việt Nam
+Bộ Giáo dục và Đào tạo
+TOÁN 6 TẬP MỘT
+Mã số 2H601T1
+In 25.000 cuốn, (Q418), khổ 17 x 24 cm.
+In tại Công ty cổ phần In Diên Hồng - Hà Nội.
+Số in 78/11.
+Số XB 01-2011/CXBI40 1235/GD
+In xong và nộp lưu chiểu 01 tháng 2011.
+Tổng số 1878 trang.
+
+================================================================================
+CHUNK 4/133
+================================================================================
+Page: 4
+Size: 11 chars
+Type: full_page
+
+PHẦN SỐ HỌC
+
+================================================================================
+CHUNK 5/133
+================================================================================
+Page: 5
+Size: 730 chars
+Type: full_page
+
+CHƯƠNG 1 - ÔN TẬP VÀ BỔ TÚC VỀ SỐ TỰ NHIÊN
+Các kiến thức về số tự nhiên là chìa khóa để mở cửa vào thế giới các con số.
+Trong chương I, bên cạnh việc ôn tập và hệ thống hóa các nội dung về số tự nhiên đã học ở bậc Tiểu học, còn thêm nhiều nội dung mới: phép nâng lên lũy thừa, số nguyên tố và hợp số, ước chung và bội chung.
+Những kiến thức nền và quan trọng này sẽ mang đến cho ta nhiều hiểu biết mới mẻ và thú vị.
+1. Tập hợp. Phần tử của tập hợp
+Hãy làm quen với tập hợp và các kí hiệu €, #.
+1. Các ví dụ
+Khái niệm tập hợp gặp trong toán học và cả trong đời sống.
+Chẳng hạn:
+Tập hợp các đồ vật (sách, bút) đặt trên bàn (h.1).
+Hình: Tập hợp các học sinh của lớp 6A.
+Tập hợp các số tự nhiên nhỏ hơn 4.
+Tập hợp các chữ cái a, b, c.
+
+================================================================================
+CHUNK 6/133
+================================================================================
+Page: 6
+Size: 1175 chars
+Type: full_page
+
+2. Cách viết. Các kí hiệu
+Người ta thường đặt tên tập hợp bằng chữ cái in hoa.
+Gọi A là tập hợp các số tự nhiên nhỏ hơn 4.
+Gọi B là tập hợp các chữ cái a, b, c.
+Ta viết:
+A = {0; 1; 2; 3} hay A = {1; 3; 2; 0}
+B = {a, b, c} hay B = {b, a, c}
+Các số 0, 1, 2, 3 là các phần tử của tập hợp A.
+Các chữ cái a, b, c là các phần tử của tập hợp B.
+Kí hiệu ∈ là thuộc hoặc là phần tử của; ∉ là không thuộc hoặc không là phần tử của.
+Chú ý: Các phần tử của một tập hợp được viết trong hai dấu ngoặc nhọn, cách nhau bởi dấu; (nếu có tử là số) hoặc dấu, (nếu có tử là chữ).
+Mỗi phần tử được liệt kê một lần, thứ tự liệt kê tuỳ ý.
+Để viết tập hợp A nói trên, ngoài cách viết liệt kê tất cả các phần tử của tập hợp đó, ta còn có thể viết:
+A = {x ∈ N | x < 4}, trong đó N là tập hợp các số tự nhiên.
+Trong cách viết này, ta đã chỉ ra tính chất đặc trưng cho các phần tử x của tập hợp A, đó là x ∈ N và x < 4.
+Để viết một tập hợp, thường có hai cách:
+- Liệt kê các phần tử của tập hợp.
+- Chỉ ra tính chất đặc trưng cho các phần tử của tập hợp đó.
+Người ta còn minh họa tập hợp bằng một vòng kín như ở hình 2, trong đó mỗi phần tử của tập hợp được biểu diễn bởi một điểm chấm bên trong vòng đó.
+
+================================================================================
+CHUNK 7/133
+================================================================================
+Page: 7
+Size: 537 chars
+Type: full_page
+
+Hình 2: Phân hiệu: phần tử, bằng vòng trong
+Viết tập hợp D các số tự nhiên nhỏ hơn 7, rồi điền kí hiệu thích hợp vào ô vuông:
+10 ∈ D; 22 ∉ D.
+Viết tập hợp các chữ cái trong từ "NHA TRANG".
+Bài tập:
+Viết tập hợp A các số tự nhiên lớn hơn 8 và nhỏ hơn 14 hai cách, sau đó điền kí hiệu thích hợp vào ô vuông:
+12 ∈ A; 16 ∉ A; 2 ∈ A.
+2. Viết tập hợp các chữ cái trong từ "TOÁN HỌC".
+Cho hai tập hợp:
+A = {a, b}
+B = {b, x, y}
+Điền kí hiệu thích hợp vào ô vuông:
+x ∉ A; y ∉ B; b ∈ A; b ∈ B.
+Nhìn các hình 3, 4 và 5, viết các tập hợp A, B, M, H.
+
+================================================================================
+CHUNK 8/133
+================================================================================
+Page: 8
+Size: 603 chars
+Type: full_page
+
+Một năm gồm bốn quý.
+Viết tập hợp A các quý hai trong năm.
+b) Viết tập hợp B các tháng (duong lịch) có 30 ngày.
+5.2. Tập hợp các số tự nhiên
+Có gì khác nhau giữa hai tập hợp N và N'?
+Tập hợp N và tập hợp N'
+Các số 0, 1, 2, 3, ... là các số tự nhiên.
+Tập hợp các số tự nhiên được kí hiệu là N.
+N = {0; 1; 2; 3; ...}.
+Các số 0, 1, 2, 3, ... là các phần tử của tập hợp N.
+Chúng được biểu diễn trên một tia số như ở hình 6.
+Mỗi số tự nhiên được biểu diễn bởi một điểm trên tia số.
+Điểm biểu diễn số tự nhiên a trên tia số là điểm a.
+Tập hợp các số tự nhiên khác 0 được kí hiệu là N'.
+N' = {1; 2; 3; 4; ...}.
+
+================================================================================
+CHUNK 9/133
+================================================================================
+Page: 9
+Size: 763 chars
+Type: full_page
+
+2. Thứ tự trong tập hợp số tự nhiên
+a) Trong hai số tự nhiên khác nhau, có một số nhỏ hơn số kia.
+Khi số a nhỏ hơn số b, ta viết a < b hoặc b > a.
+Trong hai điểm trên tia số (tia số nằm ngang, chiều mũi tên ở tia số đi từ trái sang phải), điểm ở bên trái biểu diễn số nhỏ hơn, điểm ở bên phải biểu diễn số lớn hơn.
+Ví dụ:
+7 < 10 và 10 < 12 nên 7 < 12.
+b) Nếu a < b và b < c thì a < c.
+c) Mỗi số tự nhiên có một số liền sau nhất, chẳng hạn số tự nhiên liền sau số 2 là số 3.
+Số 2 là số liền trước số 3, số 2 và số 3 là hai số tự nhiên liên tiếp.
+Hai số tự nhiên liên tiếp thì hơn kém nhau một đơn vị.
+d) Số 0 là số tự nhiên nhỏ nhất.
+Tập hợp các số tự nhiên có vô số phần tử.
+Điền vào chỗ trống để ba số ở mỗi dòng là ba số tự nhiên liên tiếp dẫn đến:
+28, 100, ...
+
+================================================================================
+CHUNK 10/133
+================================================================================
+Page: 10
+Size: 826 chars
+Type: full_page
+
+b) Viết số tự nhiên liên tiếp mỗi số 35; 1000; b (với b ∈ N*).
+7. Viết các tập hợp sau cách liệt kê các phần tử:
+a) A = {x ∈ N | 12 < x < 16};
+b) B = {x ∈ N | x < 5};
+c) C = {x ∈ N | 13 < x < 15}.
+8. Viết tập A các số tự nhiên lớn hơn 5 hai cách.
+Biểu diễn trên tia số các phần tử của tập hợp A.
+Điền vào chỗ trống để hai số ở mỗi dòng là hai số tự nhiên liên tiếp tăng dẫn đến:
+10.
+Điền vào chỗ trống để ba số ở mỗi dòng là ba số tự nhiên liên tiếp giảm dẫn đến:
+4600, 53.
+3. Số và chữ số
+Để ghi số ba trăm mười hai, ta viết 312.
+Với mười chữ số sau, ta ghi mọi số tự nhiên:
+Chữ số: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
+Đọc: không, một, hai, ba, bốn, năm, sáu, bảy, tám, chín.
+Một số tự nhiên có thể có một, hai, ba, ... chữ số.
+Ví dụ:
+7 là số có một chữ số.
+53 là số có hai chữ số.
+312 là số có ba chữ số.
+5415 là số có bốn chữ số.
+
+================================================================================
+CHUNK 11/133
+================================================================================
+Page: 11
+Size: 1181 chars
+Type: full_page
+
+các nhóm chữ số IV (số 4), IX (số 9) và các chữ số I, V, X làm các thành phần, người ta viết các số La Mã từ 1 đến 10 như sau:
+I II III IV V VI VII VIII IX X
+1 2 3 4 5 6 7 8 9 10
+Nếu thêm vào bên trái mỗi số trên một chữ số X ta được các số La Mã từ 11 đến 20. Hai chữ số X ta được các số La Mã từ 21 đến 30. Cụ thể:
+XI XII XIII XIV XV XVI XVII XVIII XIX XX
+11 12 13 14 15 16 17 18 19 20
+XXI XXII XXIII XXIV XXV XXVI XXVII XXVIII XXIX XXX
+21 22 23 24 25 26 27 28 29 30
+Cách ghi số trong hệ La Mã không thuận tiện như cách ghi số trong hệ thập phân.
+**Bài 11**
+a) Viết số tự nhiên có số chục là 135, chữ số đơn vị là 7.
+b) Điền vào bảng:
+
+| Số đã cho | Chữ số hàng trăm | Chữ số hàng chục |
+|---|---|---|
+| 1425 |  |  |
+| 2307 |  |  |
+
+**12.** Viết tập hợp các chữ số của số 2000.
+**13.**
+a) Viết số tự nhiên nhỏ nhất có bốn chữ số.
+b) Viết số tự nhiên nhỏ nhất có bốn chữ số khác nhau.
+**14.** Với ba chữ số 0, 1, 2, hãy viết tất cả các số tự nhiên có ba chữ số mà các chữ số khác nhau.
+**15.**
+a) Đọc các số La Mã sau: XIV, XXVI, XV
+b) Viết các số sau sang số La Mã: 17, 25
+c) Cho chín que diêm được sắp xếp như trên hình 8, chuyển chỗ một que diêm để được kết quả đúng.
+
+(Hình 8)
+
+================================================================================
+CHUNK 12/133
+================================================================================
+Page: 12
+Size: 1064 chars
+Type: full_page
+
+**Có thể em chưa biết**
+Ngay từ đầu thế kỉ VII, Ấn Độ đã viết các chữ số 0, 1, ..., 9 gần như dạng hiện chúng ta đang dùng. Người A Rập học được cách viết của người Ấn Độ và truyền bá nó vào châu Âu. Vì thế các chữ số viết như hiện nay thường là chữ số A Rập (h.9).
+
+(Hình 9: 1 2 3 4 5 6 7 8 9 0)
+
+La Mã là một đế quốc mạnh tồn tại từ thế kỉ III trước Công nguyên đến thế kỉ V sau Công nguyên, bao gồm nhiều lãnh thổ quanh Địa Trung Hải. Trung tâm lớn nhất của đế quốc La Mã là thành phố La Mã, hiện nay là Rô-ma, thủ đô I-ta-li-a.
+Trong các chữ số La Mã, không có kí hiệu để chỉ số 0. Các kí hiệu I, V có hình ảnh của ngón tay bàn tay (h.10).
+
+(Hình 10)
+
+Trong hệ La Mã có bảy chữ số:
+
+| Kí hiệu | I | V | X | L | C | D | M |
+|---|---|---|---|---|---|---|---|
+| Giá trị tương ứng trong hệ thập phân | 1 | 5 | 10 | 50 | 100 | 500 | 1000 |
+
+Do mỗi chữ số La Mã không viết liền nhau quá ba lần nên có sáu số đặc biệt (trong các số này, chữ số có giá trị nhỏ đứng trước chữ số có giá trị lớn làm giảm giá trị của chữ số có giá trị lớn):
+IV XL XC CD CM
+4 40 90 400 900
+
+================================================================================
+CHUNK 13/133
+================================================================================
+Page: 13
+Size: 1240 chars
+Type: full_page
+
+Các nhóm chữ số IV, IX, XL, XC, CD, CM và bảy chữ số I, V, X, L, C, D, M là các thành phần để tạo số La Mã. Giá trị của số La Mã là tổng các thành phần của nó. Lưu ý trong cách ghi số La Mã, kể từ trái sang phải, người ta ghi các thành phần từ lớn đến nhỏ.
+Ví dụ:
+XVIII = X + V + I + I + I = 10 + 5 + 1 + 1 + 1 = 18
+XXIV = X + X + IV = 10 + 10 + 4 = 24.
+Số 46 viết trong hệ La Mã là XLVI, số 2002 viết trong hệ La Mã là MMII, còn số 1999 viết trong hệ La Mã khá phức tạp: MCMXCIX.
+
+**§4. Số phần tử của một tập hợp. Tập hợp con**
+Một tập hợp có thể có bao nhiêu phần tử?
+
+**1. Số phần tử của một tập hợp**
+Cho các tập hợp:
+$A = \{5\}$
+$B = \{x, y\}$
+$C = \{1; 2; 3; ... ; 100\}$
+$N = \{0; 1; 2; 3; ...\}$
+
+Ta nói: Tập hợp A có một phần tử, tập hợp B có hai phần tử, tập hợp C có 100 phần tử, tập hợp N có vô số phần tử.
+Các tập hợp sau có bao nhiêu phần tử?
+$D = \{0\}$, $E = \{bút, thước\}$, $H = \{x \in N | x < 10\}$.
+
+**?2** Tìm số tự nhiên $x$ mà $x + 5 = 2$.
+
+**Chú ý:** Tập hợp không có phần tử nào gọi là tập hợp rỗng. Tập hợp rỗng được kí hiệu là $\emptyset$.
+Ví dụ: Tập hợp các số tự nhiên $x$ sao cho $x + 5 = 2$ là tập hợp rỗng.
+Một tập hợp có thể có một phần tử, có nhiều phần tử, có vô số phần tử, có thể không có phần tử nào.
+
+================================================================================
+CHUNK 14/133
+================================================================================
+Page: 14
+Size: 1629 chars
+Type: full_page
+
+**2. Tập hợp con**
+Ví dụ:
+Cho hai tập hợp $E = \{x; y\}$ và $F = \{x, y, c, d\}$ (h.11).
+Ta thấy mọi phần tử của tập hợp E đều thuộc tập hợp F, ta gọi tập hợp E là tập hợp con của tập hợp F.
+
+(Hình 11)
+
+Nếu mọi phần tử của tập hợp A đều thuộc tập hợp B thì tập hợp A là tập hợp con của tập hợp B.
+Ta kí hiệu $A \subset B$ và đọc là: A là tập hợp con của tập hợp B hoặc A được chứa trong B, hoặc B chứa A.
+Ví dụ: Tập hợp D các học sinh nữ trong một lớp là tập hợp con của tập hợp H các học sinh trong lớp đó, ta viết $D \subset H$.
+
+**?3** Cho ba tập hợp $M = \{1; 5\}$, $A = \{1; 3; 5\}$, $B = \{5; 1; 3\}$. Dùng kí hiệu $\subset$ để thể hiện quan hệ giữa hai trong ba tập hợp trên.
+
+**Chú ý:** Nếu $A \subset B$ và $B \subset A$ thì ta nói A và B là hai tập hợp bằng nhau, kí hiệu $A = B$.
+
+**Bài tập**
+**16.** Mỗi tập sau có bao nhiêu phần tử?
+a) Tập hợp A các số tự nhiên $x$ mà $x - 8 = 12$.
+b) Tập hợp B các số tự nhiên $x$ mà $x + 7 = 7$.
+c) Tập hợp C các số tự nhiên $x$ mà $x . 0 = 0$.
+d) Tập hợp D các số tự nhiên $x$ mà $x . 0 = 3$.
+
+**17.** Viết các tập hợp sau và cho biết mỗi tập hợp có bao nhiêu phần tử?
+a) Tập hợp A các số tự nhiên không vượt quá 20.
+b) Tập hợp B các số tự nhiên lớn hơn 5 nhưng nhỏ hơn 6.
+
+**18.** Cho $A = \{\emptyset\}$. Có thể nói A là tập hợp rỗng hay không?
+
+**19.** Viết tập hợp A các số tự nhiên nhỏ hơn 10, tập hợp B các số tự nhiên nhỏ hơn 5, rồi dùng kí hiệu $\subset$ để thể hiện quan hệ giữa hai tập hợp trên.
+
+**20.** Cho tập hợp $A = \{15; 24\}$. Điền kí hiệu $\in$, $\notin$ hoặc $\subset$ vào ô vuông cho đúng:
+a) $15 \square A$;
+b) $\{15\} \square A$;
+c) $\{15; 24\} \square A$.
+
+================================================================================
+CHUNK 15/133
+================================================================================
+Page: 15
+Size: 1835 chars
+Type: full_page
+
+**Luyện tập**
+**21.** Tập hợp $A = \{8; 9; 10; ... ; 20\}$ có $20 - 8 + 1 = 13$ (phần tử).
+Tổng quát: Tập hợp các số tự nhiên từ $a$ đến $b$ có $b - a + 1$ phần tử.
+Hãy tính số phần tử của tập hợp sau: $B = \{10; 11; 12; ... ; 99\}$.
+
+**22.** Số chẵn là số tự nhiên có chữ số tận cùng là 0, 2, 4, 6, 8; số lẻ là số tự nhiên có chữ số tận cùng là 1, 3, 5, 7, 9. Hai số chẵn (hoặc lẻ) liên tiếp thì hơn kém nhau 2 đơn vị.
+a) Viết tập hợp C các số chẵn nhỏ hơn 10.
+b) Viết tập hợp L các số lẻ lớn hơn 10 nhỏ hơn 20.
+c) Viết tập hợp A ba số chẵn liên tiếp, trong đó số nhỏ nhất là 18.
+d) Viết tập hợp B bốn số lẻ liên tiếp, trong đó số lớn nhất là 31.
+
+**23.** Tập hợp $C = \{8; 10; 12; ... ; 30\}$ có $(30 - 8) : 2 + 1 = 12$ (phần tử).
+Tổng quát: Tập hợp các số chẵn từ số chẵn $a$ đến số chẵn $b$ có $(b - a) : 2 + 1$ phần tử.
+Tập hợp các số lẻ từ số lẻ $m$ đến số lẻ $n$ có $(n - m) : 2 + 1$ phần tử.
+Hãy tính số phần tử của các tập hợp sau:
+$D = \{21; 23; 25; ... ; 99\}$
+$E = \{32; 34; 36; ... ; 96\}$.
+
+**24.** Cho A là tập hợp các số tự nhiên nhỏ hơn 10, B là tập hợp các số chẵn, N là tập hợp các số tự nhiên khác 0. Dùng kí hiệu $\subset$ để thể hiện quan hệ của mỗi tập hợp trên với tập hợp N các số tự nhiên.
+
+**25.** Cho bảng sau (theo Niên giám năm 1999):
+
+| Nước        | Diện tích (nghìn km²) |
+|-------------|-----------------------|
+| Bru-náy     | 6                    |
+| Mi-an-ma    | 677                  |
+| Cam-pu-chia | 181                  |
+| Phi-líp-pin  | 300                  |
+| In-đô-nê-xi-a | 1919                 |
+| Thái Lan     | 513                  |
+| Lào         | 237                  |
+| Việt Nam     | 331                  |
+| Ma-lai-xi-a  | 330                  |
+| Xin-ga-po   | 1                    |
+
+Viết tập hợp A bốn nước có diện tích lớn nhất, viết tập hợp B ba nước có diện tích nhỏ nhất.
+
+================================================================================
+CHUNK 16/133
+================================================================================
+Page: 16
+Size: 1410 chars
+Type: full_page
+
+**§5. Phép cộng và phép nhân**
+Phép cộng và phép nhân các số tự nhiên có tính chất gì giống nhau?
+
+**1. Tổng và tích hai số tự nhiên**
+Ở Tiểu học ta đã biết:
+Phép cộng hai số tự nhiên bất kì cho ta một số tự nhiên duy nhất gọi là **tổng** của chúng; phép nhân hai số tự nhiên bất kì cho ta một số tự nhiên duy nhất gọi là **tích** của chúng.
+Người ta dùng dấu "+" để chỉ phép cộng; dùng dấu "*" hoặc "." để chỉ phép nhân.
+
+(Số hạng) + (Số hạng) = (Tổng)
+(Thừa số) . (Thừa số) = (Tích)
+
+Trong một tích mà các thừa số đều là chữ hoặc chỉ có một thừa số là số, ta có thể không cần viết dấu nhân giữa các thừa số.
+Ví dụ: $a.b = ab$, $4.x.y = 4xy$
+
+**?1** Điền vào chỗ trống:
+
+| a | b | a + b | a . b |
+|---|---|---|---|
+| 12 | 21 |  |  |
+| 5 | 48 |  |  |
+| 15 |  |  |  |
+
+**?2** Điền vào chỗ trống:
+a) Tích của một số với số 0 thì bằng ...
+b) Nếu tích của hai thừa số bằng 0 thì có ít nhất một thừa số bằng ...
+
+**2. Tính chất của phép cộng và phép nhân số tự nhiên**
+Ở Tiểu học ta đã biết các tính chất sau của phép cộng và phép nhân:
+
+| Phép tính | Tính chất |
+|---|---|
+| Cộng | Giao hoán | $a + b = b + a$ |
+| Nhân | Giao hoán | $a . b = b . a$ |
+| Cộng | Kết hợp | $(a + b) + c = a + (b + c)$ |
+| Nhân | Kết hợp | $(a . b) . c = a . (b . c)$ |
+| Cộng | Cộng với số 0 | $a + 0 = 0 + a = a$ |
+| Nhân | Nhân với số 1 | $a . 1 = 1 . a = a$ |
+|  | Phân phối của phép nhân đối với phép cộng | $a(b + c) = ab + ac$ |
+
+================================================================================
+CHUNK 17/133
+================================================================================
+Page: 17
+Size: 1410 chars
+Type: full_page
+
+**§5. Phép cộng và phép nhân**
+Phép cộng và phép nhân các số tự nhiên có tính chất gì giống nhau?
+
+**1. Tổng và tích hai số tự nhiên**
+Ở Tiểu học ta đã biết:
+Phép cộng hai số tự nhiên bất kì cho ta một số tự nhiên duy nhất gọi là **tổng** của chúng; phép nhân hai số tự nhiên bất kì cho ta một số tự nhiên duy nhất gọi là **tích** của chúng.
+Người ta dùng dấu "+" để chỉ phép cộng; dùng dấu "*" hoặc "." để chỉ phép nhân.
+
+(Số hạng) + (Số hạng) = (Tổng)
+(Thừa số) . (Thừa số) = (Tích)
+
+Trong một tích mà các thừa số đều là chữ hoặc chỉ có một thừa số là số, ta có thể không cần viết dấu nhân giữa các thừa số.
+Ví dụ: $a.b = ab$, $4.x.y = 4xy$
+
+**?1** Điền vào chỗ trống:
+
+| a | b | a + b | a . b |
+|---|---|---|---|
+| 12 | 21 |  |  |
+| 5 | 48 |  |  |
+| 15 |  |  |  |
+
+**?2** Điền vào chỗ trống:
+a) Tích của một số với số 0 thì bằng ...
+b) Nếu tích của hai thừa số bằng 0 thì có ít nhất một thừa số bằng ...
+
+**2. Tính chất của phép cộng và phép nhân số tự nhiên**
+Ở Tiểu học ta đã biết các tính chất sau của phép cộng và phép nhân:
+
+| Phép tính | Tính chất |
+|---|---|
+| Cộng | Giao hoán | $a + b = b + a$ |
+| Nhân | Giao hoán | $a . b = b . a$ |
+| Cộng | Kết hợp | $(a + b) + c = a + (b + c)$ |
+| Nhân | Kết hợp | $(a . b) . c = a . (b . c)$ |
+| Cộng | Cộng với số 0 | $a + 0 = 0 + a = a$ |
+| Nhân | Nhân với số 1 | $a . 1 = 1 . a = a$ |
+|  | Phân phối của phép nhân đối với phép cộng | $a(b + c) = ab + ac$ |
+
+================================================================================
+CHUNK 18/133
+================================================================================
+Page: 18
+Size: 1214 chars
+Type: full_page
+
+Ta có thể phát biểu bằng lời các tính chất trên như sau:
+a) Tính chất giao hoán
+~ Khi đổi chỗ các số hạng trong một tổng thì tổng không đổi.
+~ Khi đổi chỗ các thừa số trong một tích thì tích không đổi.
+b) Tính chất kết hợp
+~ Muốn cộng một tổng hai số với một số thứ ba, ta có thể cộng số thứ nhất với tổng của số thứ hai và số thứ ba.
+~ Muốn nhân một tích hai số với một số thứ ba, ta có thể nhân số thứ nhất với tích của số thứ hai và số thứ ba.
+c) Tính chất phân phối của phép nhân đối với phép cộng
+~ Muốn nhân một số với một tổng, ta có thể nhân số đó với từng số hạng của tổng rồi cộng các kết quả lại.
+
+**?3** Tính nhanh:
+a) $46 + 17 + 54$;
+b) $4 . 37 . 25$;
+c) $36 + 87 + 64$.
+
+**Bài tập**
+**26.** Cho các số liệu về quãng đường: Hà Nội - Vĩnh Yên 54km, Vĩnh Yên - Việt Trì 19km, Việt Trì - Yên Bái 82km. Tính quãng đường một ô tô đi từ Hà Nội lên Yên Bái qua Vĩnh Yên và Việt Trì.
+
+**27.** Áp dụng các tính chất của phép cộng và phép nhân để tính nhanh:
+a) $86 + 357 + 14$;
+b) $72 + 69 + 128$;
+c) $25 . 5 . 4 . 27 . 2$;
+d) $28 . 64 + 28 . 36$.
+
+**28.** Trên hình 12, hồ chỉ 9 giờ 18 phút, hai kim hồ chia mặt hồ thành hai phần; mỗi phần có sáu số. Tính tổng các số ở mỗi phần, em có nhận xét gì?
+
+(Hình 12)
+
+================================================================================
+CHUNK 19/133
+================================================================================
+Page: 19
+Size: 1070 chars
+Type: full_page
+
+**29.** Điền vào chỗ trống trong bảng thanh toán sau:
+
+| Loại thứ tự | Số lượng (quyển) | Giá đơn vị (đồng) | Số tiền (đồng) |
+|---|---|---|---|
+| 1 | Vở loại 1 | 35 | 2000 |  |
+| 2 | Vở loại 2 | 42 | 1500 |  |
+| 3 | Vở loại 3 | 38 | 1200 |  |
+|  | **Cộng** |  |  |
+
+**30.** Tìm số tự nhiên $x$, biết:
+a) $(x - 34) . 15 = 0$;
+b) $18 : (x - 16) = 18$.
+
+**Luyện tập**
+**31.** Tính nhanh:
+a) $135 + 360 + 65 + 40$;
+b) $463 + 318 + 137 + 22$;
+c) $20 + 21 + 22 + ... + 29 + 30$.
+
+**32.** Có thể tính nhanh $97 + 19$ cách áp dụng tính chất kết hợp của phép cộng:
+$97 + 19 = 97 + (3 + 16) = (97 + 3) + 16 = 100 + 16 = 116$.
+Hãy tính nhanh các tổng sau bằng cách làm tương tự như trên:
+a) $996 + 45$;
+b) $37 + 198$.
+
+**33.** Cho dãy số sau: 1, 1, 2, 3, 5, 8, ...
+Trong dãy số trên, mỗi số (kể từ số thứ ba) bằng tổng của hai số liền trước. Hãy viết tiếp bốn số nữa của dãy số.
+
+**34.** Sử dụng máy tính bỏ túi
+Các bài tập về máy tính bỏ túi trong cuốn sách này được trình bày theo cách sử dụng máy tính bỏ túi SHARP EL-340. Nhiều loại máy tính bỏ túi khác được sử dụng tương tự.
+
+================================================================================
+CHUNK 20/133
+================================================================================
+Page: 20
+Size: 1089 chars
+Type: full_page
+
+a) Giới thiệu một số nút (phím) trong máy tính bỏ túi (h.13)
+
+(Hình 13: SHARP EL-340, ON/C, OFF, các nút số từ 0 đến 9, +, =, CE)
+
+*   Nút mở máy: ON/C
+*   Nút tắt máy: OFF
+*   Các nút số từ 0 đến 9
+*   Nút "+": Nút dấu cộng
+*   Nút "=": Nút dấu bằng cho phép ra kết quả trên màn hình hiện số
+*   Nút xoá (xoá số vừa đưa vào bị nhầm): CE
+
+b) Cộng hai hay nhiều số
+
+| Phép tính | Nút ấn | Kết quả |
+|---|---|---|
+| 13 + 28 | 13 + 28 = | 41 |
+| 214 + 37 + 9 | 214 + 37 + 9 = | 260 |
+| 1364 + 4578 |  |  |
+| 6453 + 1469 |  |  |
+| 5421 + 1469 |  |  |
+| 3124 + 1469 |  |  |
+| 1534 + 217 + 217 + 217 |  |  |
+
+**Có thể em chưa biết**
+
+**CẬU BÉ GIỎI TÍNH TOÁN**
+Nhà toán học Đức Gau-xơ (Gauss), người được mệnh danh là vua của các nhà toán học, sinh ra trong một gia đình thợ sửa nước kiêm nghề làm vườn. Ngay từ thuở mới lên ba, thiên tài toán học của Gau-xơ đã lộ rõ. Người ta kể rằng trong khi cha đọc bản thanh toán tiền, Gau-xơ đã gọi cha và nói: "Cha đã tính sai, phải thế này mới đúng". Mọi người không tin, nhưng khi kiểm tra lại thì Gau-xơ tính đúng. Gau-xơ đã biết tính trước khi đi học.
+
+================================================================================
+CHUNK 21/133
+================================================================================
+Page: 21
+Size: 1558 chars
+Type: full_page
+
+Bảy tuổi Gau-xo đến trường; Lúc đầu chẳng có gì đặc biệt nhưng khi bắt đầu học môn Số học thì cậu tỏ ra rất tài năng. Một ẩn thị giáo ra cho cả lớp bài toán tìm tất cả các số tự nhiên từ 1 đến 100. Thầy vừa đọc và phân tích đầu bài thì Gau-xo đã trả lời. Em giải xong rồi. Thầy không tin, cho cậu đã giải sai vì đây là một bài toán khó, không thể nhanh như thế được. Nhưng sau khi kiểm tra, thầy vô cùng ngạc nhiên, chẳng những đáp số đúng mà cách giải còn cực kỳ độc đáo. Gau-xo đã tính 1 + 2 + 3 + ... + 99 + 100. Gau-xo (Gauss; 1777-1855) như thế nào? Gau-xo nhận thấy cặp hai số đầu và cuối, cũng như từng cặp hai số cách đều số đầu và số cuối đều có tổng là 101. Có 50 cặp như thế, do đó kết quả là 101 * 50 = 5050. Một cách khác tính trên S = 1 + 2 + 3 + ... + 99 + 100. S = 100 + 99 + ... + 3 + 2 + 1. Nên 2S = 101 + 101 + ... + 101 (100 số hạng). Do đó S = 101 * 100 / 2 = 5050. Như vậy để tính các số tự nhiên liên tiếp, chỉ cần lấy số đầu cộng số cuối, nhân với số số hạng rồi chia cho 2 tắc trên đối với các số tự nhiên cách đều, chẳng hạn các số chẵn liên tiếp, các số lẻ liên tiếp. Chẳng hạn 101 + 103 + 105 + ... + 197 + 199 (50 số). (101 + 199) * 50 / 2 = 7500.
+
+Luyện tập 2
+35. Tìm các tích mà không cần tính kết quả của mỗi tích: 15 * 2 * 6 : 4 * 4 * 9; 5 * 3 * 12; 8 * 18; 15 * 3 * 4; 8 * 2 * 9.
+36. Có thể tính nhẩm tích 45 * 6 cách áp tính chất kết hợp của phép nhân: 45 * 6 = 45 * (2 * 3) = (45 * 2) * 3 = 90 * 3 = 270. Áp dụng tính chất phân phối của phép nhân đối với phép cộng: 45 * 6 = (40 + 5) * 6 = 40 * 6 + 5 * 6 = 240 + 30 = 270.
+
+================================================================================
+CHUNK 22/133
+================================================================================
+Page: 22
+Size: 509 chars
+Type: full_page
+
+Tính nhẩm cách áp dụng tính chất kết hợp của phép nhân: 15 * 4; 25 * 12; 125 * 16.
+b) Hãy tính nhẩm cách áp dụng tính chất phân phối của phép nhân đối với phép cộng: 25 * 12; 34 * 11; 47 * 10.
+37. Áp dụng tính chất a(b - c) = ab - ac để tính nhẩm. Ví dụ: 13 * 99 = 13 * (100 - 1) = 1300 - 13 = 1287. Hãy tính: 16 * 19; 46 * 99; 35 * 98.
+38. Sử dụng máy tính bỏ túi. Nút dấu nhân. Phép tính. Nút ấn. Kết quả: 42 * 37; 46 * 7; 58 * 50; 876.
+Dùng máy tính bỏ túi để tính: 375 * 376; 624 * 625; 13 * 81; 215 * 39.
+
+================================================================================
+CHUNK 23/133
+================================================================================
+Page: 23
+Size: 624 chars
+Type: full_page
+
+39. Đố: Số 142857 có tính chất rất đặc biệt. Hãy nhân nó với mỗi số 2, 3, 4, 5, 6, em sẽ tìm được tính chất đặc biệt ấy.
+40. Bình Ngô đại cáo ra đời năm nào? Năm abcd, Nguyễn Trãi viết Bình Ngô đại cáo kết thắng lợi của cuộc chiến do Lê Lợi lãnh đạo chống quân Minh. Biết ab là ngày trong hai tuần lễ, còn cd gấp đôi ab. Tính xem năm abcd là năm nào?
+41. Phép trừ và phép chia. Phép cộng và phép nhân luôn thực hiện được trong tập hợp số tự nhiên. Còn phép trừ và phép chia?
+Phép trừ hai số tự nhiên. Người ta dùng dấu "-" để chỉ phép trừ. 6 - 2 (Số bị trừ) = (Số trừ) = (Hiệu).
+20. Hãy bằng bằng tổng tổng kháng chống ràng.
+
+================================================================================
+CHUNK 24/133
+================================================================================
+Page: 24
+Size: 899 chars
+Type: full_page
+
+Với hai số tự nhiên 5 và 2, có số tự nhiên x mà 2 + x = 5 (vì 2 + 3 = 5). Tuy nhiên, với hai số tự nhiên 5 và 6 không có số tự nhiên x nào để 6 + x = 5. Cho hai số tự nhiên a và b, nếu có số tự nhiên x sao cho b + x = a thì ta có phép trừ a - b = x. Ta có thể tìm được hiệu nhờ tính số. Hình 14 cho thấy 5 - 2 = 3; hình 15 cho thấy 7 - 3 = 4. Hình 16 cho thấy không có hiệu 5 - 6 trong phạm vi số tự nhiên.
+Điển vào chỗ:
+a) a - a = ?;
+b) a - 0 = ?;
+c) Điều kiện để có hiệu a - b là?
+
+Phép chia hết và phép chia có dư. Với hai số tự nhiên 12 và 3, có số tự nhiên x mà 3 * x = 12 (vì 3 * 4 = 12). Tuy nhiên, với hai số tự nhiên 12 và 5 không có số tự nhiên x nào để 5 * x = 12. Cho hai số tự nhiên a và b, trong đó b ≠ 0, nếu có số tự nhiên x sao cho b * x = a thì ta nói a chia hết cho b và ta có phép chia hết a : b = x. Người ta dùng dấu "/" để chỉ phép chia.
+b (Số bị chia) / (Số chia) = (Thương).
+
+================================================================================
+CHUNK 25/133
+================================================================================
+Page: 25
+Size: 150 chars
+Type: full_page
+
+22. Điển vào chỗ:
+a) 0 : a = (a + 0);
+b) a : a = (a ≠ 0);
+c) a : 1 = ?
+Xét hai phép chia sau:
+12 : 3 = 4;
+14 : 3 = ?
+Tuy nhiên, dùng trống dùng trống.
+
+================================================================================
+CHUNK 26/133
+================================================================================
+Page: 26
+Size: 551 chars
+Type: full_page
+
+Phép chia 12 cho 3 là phép chia hết. 12 chia cho 3 được 4.
+Phép chia 14 cho 3 là phép chia có dư. 14 chia cho 3 được 4 dư 2. Ta có 14 = 3 * 4 + 2.
+(Số bị chia) = (Số chia) * (Thương) + (Số dư).
+Cho hai số tự nhiên a và b, trong đó b ≠ 0, ta luôn tìm được hai số tự nhiên q và r duy nhất sao cho a = b * q + r, trong đó 0 ≤ r < b. Nếu r = 0 thì ta có phép chia hết. Nếu r ≠ 0 thì ta có phép chia có dư.
+23. Điền vào:
+Số bị chia. Số chia. Thương. Số dư.
+600. 17. 35. 5.
+1312. 32. 41. 0.
+15. 13. 1. 2.
+Có 50 cặp như thế, do đó kết quả là 101 * 50 = 5050.
+
+================================================================================
+CHUNK 27/133
+================================================================================
+Page: 27
+Size: 929 chars
+Type: full_page
+
+44. Tìm số tự nhiên x, biết:
+a) x : 13 = 41;
+b) 1428 : x = 14;
+c) x : 17 = 0;
+d) 7x - 8 = 713;
+e) 8(x - 3) = 0;
+g) 0 : x = 0.
+45. Điền vào ô để:
+a = b * q + r với 0 ≤ r < b:
+392. 278. 357. 420.
+28. 13. 21. 14.
+25. 12. 10.
+46. a) Trong phép chia cho 2, số dư có thể 0 hoặc 1. Trong mỗi phép chia cho 3, cho 4, cho 5, số dư có thể bao nhiêu?
+b) Của số chia hết cho 2 là 2k, dạng của số chia cho 2 dư 1 là 2k + 1 với k ∈ N. Viết dạng của số chia hết cho 3, số chia cho 3 dư 1, số chia cho 3 dư 2.
+Luyện tập 1
+47. Tìm số tự nhiên x, biết:
+a) (x - 35) - 120 = 0;
+b) 124 + (18 - x) = 217;
+c) 156 - (x + 61) = 82.
+48. Tính nhẩm cách thêm vào số này, bớt đi ở số hạng kia một số thích hợp.
+Ví dụ: 57 + 96 = (57 - 4) + (96 + 4) = 53 + 100 = 153. Hãy tính nhẩm: 35 + 98; 46 + 29.
+49. Tính nhẩm cách thêm vào số bị trừ và số trừ một số thích hợp.
+Ví dụ: 135 - 98 = (135 + 2) - (98 + 2) = 137 - 100 = 37. Hãy tính nhẩm: 321 - 96; 1354 - 997.
+
+================================================================================
+CHUNK 28/133
+================================================================================
+Page: 28
+Size: 1175 chars
+Type: full_page
+
+50. Sử dụng máy tính bỏ túi:
+Nút dấu trừ. Phép tính. Nút ấn. Kết quả:
+35 - 16. 3. 5. 19.
+45 - 28 + 14. 31.
+52 - 27 - 12. 5. 2. 13.
+24. Bằng bằng tổng tổng quát quát bằng bằng cùng bằng cùng bằng.
+Tính bỏ túi để tính:
+425 - 257. 91 - 56; 82 - 56; 73 - 56; 652 - 46 - 46 - 46.
+51. Đó. Điền số thích hợp vào ô vuông ở 2 hình ken sao cho các số ở mỗi côt, ở mỗi chéo đều nhau.
+
+Luyện tập 2
+52. a) Tính nhẩm cách nhân thừa số này, chia thừa số kia cho một số thích hợp:
+14 * 50. 16 : 25.
+b) Tính nhẩm cách nhân cả số bị chia và số chia với một số thích hợp:
+2100 : 50. 1400 : 25.
+c) Tính nhẩm cách áp dụng tính chất (a + b) : c = a : c + b : c (trường hợp chia hết):
+132 : 12; 96 : 8.
+53. Bạn Tam mua được nhiều nhất bao nhiêu quyển vở nếu:
+a) Tam chỉ mua vở loại I?
+b) Tam mua vở loại II?
+54. Một tàu hỏa cần chở 1000 khách du lịch. Biết mỗi toa có 12 khoang, mỗi khoang có 8 chỗ ngồi. Cần ít nhất may toa để chở hết số khách du lịch?
+55. Sử dụng máy tính bỏ túi:
+Nút dấu chia. Phép tính. Nút ấn. Kết quả:
+608 : 32. 19.
+Dùng máy tính bỏ túi:
+Tính vận tốc của một ô tô biết trong 6 giờ ô tô đi được 288 km.
+Tính chiều dài đường hình chữ nhật có diện tích 1530 m², chiều rộng 34 m.
+
+================================================================================
+CHUNK 29/133
+================================================================================
+Page: 29
+Size: 985 chars
+Type: full_page
+
+Có thể em chưa biết:
+Câu chuyện về lịch. Hoàng đế La Mã Ju-lo Xê-da cho áp dụng lịch mang tên ông từ năm 45 trước Công nguyên. Lịch này quy định một năm có 365 ngày và cứ bốn năm có một năm 366 ngày. Năm có 366 ngày là năm nhuận. Năm có số chỉ năm chia hết cho 4 là năm nhuận, chẳng hạn năm 2004 là năm nhuận vì số 2004 chia hết cho 4.
+Cách tính bổn năm có một năm nhuận làm cho đến năm 1582, lịch bị chậm đi 10 ngày so với ngày thực tế. Vì thế, năm 1582, hoàng Grê-goa XIII quy định những năm có số chỉ năm chia hết cho 100 mà chia hết cho 400 không là năm nhuận, và ngày tiếp theo ngày 4-10-1582 là ngày 15-10-1582.
+Theo lịch đó (ta gọi là lịch mới), các năm sau là năm nhuận: 1700, 1800, 1900, 2100.
+Sau năm 1582, nước Nga vẫn trì lịch cũ nên đến năm 1917, lịch Nga đã chậm 13 ngày so với lịch mới (đã chậm 10 ngày, lại chậm thêm 3 ngày nữa do đã tính các năm 1700, 1800, 1900 là năm nhuận). Cách mạng Mười Nga nổ ra ngày 25-10-1917 theo lịch Nga và là ngày 7-11-1917 theo lịch mới.
+
+================================================================================
+CHUNK 30/133
+================================================================================
+Page: 30
+Size: 915 chars
+Type: full_page
+
+57. Luỹ thừa với số mũ tự nhiên. Nhân hai luỹ thừa cùng cơ số:
+a + a + a + a = a * 4.
+a * a * a * a = ?
+Luỹ thừa với số mũ tự nhiên. Người ta viết gọn 2 * 2 * 2 thành 2³.
+a * a * a * a thành a⁴.
+Ta gọi 2³, a⁴ là một luỹ thừa, đọc là a mũ bốn hoặc luỹ thừa bậc bốn của a.
+Ta có định nghĩa:
+Luỹ thừa bậc n của a là tích của n thừa số nhau, mỗi thừa số a.
+aⁿ = a * a * ... * a (n ≠ 0).
+n thừa số gọi là cơ số, n gọi là số mũ.
+Phép nhân nhiều thừa số nhau gọi là phép nâng lên luỹ thừa.
+26. Chú ý:
+a² còn được gọi là a bình phương (hay bình phương của a).
+a³ còn được gọi là a lập phương (hay lập phương của a).
+2. Nhân hai luỹ thừa cùng cơ số:
+Ví dụ: Viết tích của hai luỹ thừa sau thành một luỹ thừa:
+2³ * 2²; a⁴ * a³.
+Ta có:
+2³ * 2² = (2 * 2 * 2) * (2 * 2) = 2⁵ (= 2³ + 2).
+a⁴ * a³ = (a * a * a * a) * (a * a * a) = a⁷ (= a⁴ + 3).
+m * a
+Chú ý: Khi nhân hai luỹ thừa cùng cơ số, ta giữ nguyên cơ số và cộng các số mũ.
+
+================================================================================
+CHUNK 31/133
+================================================================================
+Page: 31
+Size: 1105 chars
+Type: full_page
+
+64. Viết kết quả phép tính dưới dạng một lũy thừa:
+a) $2^2 . 2^4$
+b) $10^2 . 10^1 . 10^5$
+c) $x . x^5$
+d) $a^3 . a^2 . a^4$
+
+65. Không tính, em hãy cho biết số nào lớn hơn trong hai số sau?
+a) $2^3$ và $3^2$
+b) $2^4$ và $4^2$
+c) $3^2$ và $5^2$
+d) $1^2$ và $100$.
+
+66. Đố:
+Ta biết $11^2 = 121$
+$111^2 = 12321$.
+Hãy dự đoán $1111^2$ bằng bao nhiêu? Kiểm tra lại dự đoán đó.
+
+§8. Chia hai lũy thừa cùng cơ số
+$a^{10} : a^2 = ?$
+Ví dụ: Ta đã biết $5^3 . 5^4 = 5^7$. Hãy suy ra $5^7 : 5^3 = ? ; 5^7 : 5^4 = ?$
+Ta đã biết $a^4 . a^5 = a^9$
+Do đó: $a^9 : a^5 = a^4 (= a^{9-5}) ; a^9 : a^4 = a^5 (= a^{9-4})$ với $a \neq 0$.
+Tổng quát:
+Với $m > n$ ta có $a^m : a^n = a^{m-n}$ ($a \neq 0$).
+Trường hợp $m = n$, ta có: $a^m : a^m = 1$ với $a \neq 0$ (vì số bị chia bằng số chia), chẳng hạn $5^4 : 5^4 = 1$.
+Ta quy ước $a^0 = 1$ ($a \neq 0$).
+Tổng quát:
+$\frac{a^m}{a^n} = a^{m-n}$ ($a \neq 0; m \geq n$)
+
+Chú ý: Khi chia hai lũy thừa cùng cơ số (khác 0), ta giữ nguyên cơ số và trừ các số mũ.
+Ví dụ:
+a) $2^9 : 2^2 = 2^{9-2} = 2^7$
+b) $\frac{10^8}{10^2} = 10^{8-2} = 10^6$
+c) $2^5 : 2^5 = 1$
+$1111^2$ bằng bao nhiêu?
+
+================================================================================
+CHUNK 32/133
+================================================================================
+Page: 32
+Size: 1089 chars
+Type: full_page
+
+72. Viết thương của hai lũy thừa sau dưới dạng một lũy thừa:
+a) $7^8 : 7^4$
+b) $x^6 : x^3$ ($x \neq 0$)
+c) $a^4 : a^4$ ($a \neq 0$)
+
+Chú ý: Mọi số tự nhiên đều viết được dưới dạng tổng các lũy thừa của 10.
+Ví dụ: $2475 = 2 . 1000 + 4 . 100 + 7 . 10 + 5 = 2 . 10^3 + 4 . 10^2 + 7 . 10 + 5 . 10^0$ (để ý $2 . 10^3$ là hai lũy thừa của 10 vì $2 . 10^3 = 10^3 + 10^3$ cũng vậy đối với các số $4 . 10^2 , 7 . 10, 5 . 10^0$)
+
+?3 Viết các số 538, $\overline{abcd}$ dưới dạng các lũy thừa của 10.
+
+Bài tập
+67. Viết kết quả mỗi phép tính sau dưới dạng một lũy thừa:
+a) $3^8 : 3^4$
+b) $10^8 : 10^2$
+c) $a^n : a$ ($a \neq 0$)
+
+68. Tính bằng hai cách:
+Cách 1: Tính số bị chia, tính số chia rồi tính thương.
+Cách 2: Chia hai lũy thừa cùng cơ số rồi tính kết quả.
+a) $2^{10} : 2^8$
+b) $4^6 : 4^3$
+c) $8^5 : 8^4$
+d) $7^4 : 7^4$
+
+69. Điền chữ Đ (đúng) hoặc chữ S (sai) vào ô vuông:
+a) $3^3 . 3^4 = 3^{12}$
+b) $5^5 : 5 = 5^5$
+c) $2^3 . 4^2 = 8^6$
+
+70. Viết các số: 987, 2564, $\overline{abcde}$ dưới dạng các lũy thừa của 10.
+
+71. Tìm số tự nhiên c, biết với mọi $n \in N$ ta có:
+a) $c^n = 1$
+b) $c^n = 0$.
+
+================================================================================
+CHUNK 33/133
+================================================================================
+Page: 33
+Size: 1365 chars
+Type: full_page
+
+72. Số chính phương là số bình phương của một số tự nhiên (ví dụ 0, 1, 4, 9, 16, ...). Mỗi tổng sau có là một số chính phương không?
+a) $1^3 + 2^3$
+b) $1^3 + 2^3 + 3^3$
+c) $1^3 + 2^3 + 3^3 + 4^3$.
+
+§9. Thứ tự thực hiện các phép tính
+Khi tính toán, cần chú ý đến thứ tự thực hiện các phép tính.
+
+1. Nhắc lại về biểu thức
+Các số được nối với nhau bởi dấu các phép tính (cộng, trừ, nhân, chia, nâng lên lũy thừa) làm thành một biểu thức, chẳng hạn: $5 + 3 - 2 ; 12 : 6 . 2 ; 4^2$ là các biểu thức.
+
+Chú ý:
+a) Mỗi số được coi là một biểu thức.
+b) Trong biểu thức có thể có các dấu ngoặc để chỉ thứ tự thực hiện các phép tính.
+
+2. Thứ tự thực hiện các phép tính trong biểu thức
+a) Đối với biểu thức không có dấu ngoặc
+Nếu chỉ có phép cộng, trừ hoặc chỉ có phép nhân, chia, ta thực hiện phép tính theo thứ tự từ trái sang phải.
+Ví dụ: $48 - 32 + 8 = 16 + 8 = 24 ; 60 : 2 . 5 = 30 . 5 = 150$.
+Nếu có các phép tính cộng, trừ, nhân, chia, nâng lên lũy thừa, ta thực hiện phép tính nâng lên lũy thừa trước, rồi đến nhân và chia, cuối cùng đến cộng và trừ.
+Ví dụ: $4 . 3^2 - 5 . 6 = 4 . 9 - 5 . 6 = 36 - 30 = 6$.
+
+b) Đối với biểu thức có dấu ngoặc
+Nếu biểu thức có các dấu ngoặc (ngoặc tròn (), ngoặc vuông []; ngoặc nhọn {}), ta thực hiện phép tính trong dấu ngoặc tròn trước, rồi thực hiện phép tính trong dấu ngoặc vuông, cuối cùng thực hiện phép tính trong dấu ngoặc nhọn.
+
+================================================================================
+CHUNK 34/133
+================================================================================
+Page: 34
+Size: 1092 chars
+Type: full_page
+
+Ví dụ: $100 : \{2 . [5^2 - (35 - 8)]\} = 100 : \{2 . [5^2 - 27]\} = 100 : \{2 . 25\} = 100 : 50 = 2$
+
+Tính:
+a) $6^2 : 4 . 3 + 2 . 5^2$
+b) $2 . (5 . 4^2 - 18) : 2^2$
+
+Tìm số tự nhiên x, biết:
+a) $(6x - 39) : 3 = 201$
+b) $23 + 3x = 5^6 : 5^3$.
+
+1. Thứ tự thực hiện các phép tính đối với biểu thức không có dấu ngoặc:
+Lũy thừa $\rightarrow$ Nhân và chia $\rightarrow$ Cộng và trừ.
+
+2. Thứ tự thực hiện các phép tính đối với biểu thức có dấu ngoặc:
+() $\rightarrow$ [] $\rightarrow$ {}.
+
+Bài tập
+73. Thực hiện phép tính:
+a) $5 . 4^2 - 18 : 3^2$
+b) $3^3 . 18 - 3^3 . 12$
+c) $39 . 213 + 87 . 39$
+d) $80 - [130 - (12 - 4)^2]$
+
+74. Tìm số tự nhiên x, biết:
+a) $541 + (218 - x) = 735$
+b) $5(x + 35) = 515$
+c) $96 - 3(x + 1) = 42$
+d) $12x - 33 = 3^2 . 3^3$
+
+75. Điền số thích hợp vào ô vuông:
+a) $\boxed{ } + 3 = 60$
+b) $\boxed{ } - 7 = 12$
+
+76. Đố: Trang đố Nga bốn chữ số 2 với dấu phép tính và dấu ngoặc (nếu cần) viết dãy tính có kết quả lần lượt 0, 1, 2, 3, 4. Em hãy giúp Nga làm điều đó.
+
+Luyện tập
+77. Thực hiện phép tính:
+a) $27 . 75 + 25 . 27 - 150$
+b) $12 : \{390 : [500 - (125 + 35 . 7)]\}$
+
+================================================================================
+CHUNK 35/133
+================================================================================
+Page: 35
+Size: 1495 chars
+Type: full_page
+
+78. Tính giá trị của biểu thức:
+$12000 - (1500 . 2 + 1800 . 3 + 1800 : 2 : 3)$
+
+79. Đố: Điền vào chỗ trống của bài toán sau sao cho để giải bài toán đó, ta tính giá trị của biểu thức nêu trong bài 78.
+An mua hai ... giá ... một chiếc, mua ba ... giá ... một quyển, mua một quyển sách và một gói phong bì. Biết số tiền mua ba ... bằng số tiền mua hai ..., số tiền phải trả là 12 000 đồng. Tính giá một gói phong bì.
+
+80. Điền vào ô vuông các dấu thích hợp (=, <, >):
+$120 \boxed{ } 10^{12} - 0^{12}$
+$(1 + 2)^2 \boxed{ } 1^2 + 2^2$
+$3 . 2^5 \boxed{ } 3^2 - 12$
+$(1 + 2)^2 \boxed{ } 1^2 + 2^2$
+$3^2 \boxed{ } 1 + 3 + 5$
+$3^3 \boxed{ } 6^2 - 3^2$
+$(2 + 3)^2 \boxed{ } 2^2 + 3^2$
+$4^3 \boxed{ } 1^3 + 6^2$
+
+81. Sử dụng máy tính bỏ túi
+Để thêm số vào nội bộ nhớ: ta ấn nút M+
+Để bớt số ở nội dung bộ nhớ, ta ấn nút M-
+Để gọi lại nội dung đã ghi trong bộ nhớ, ta ấn nút MR (hoặc RM, R-CM)
+
+| Biểu thức | Nút ấn | Kết quả |
+|---|---|---|
+| (8 - 2) . 3 | 8 - 2 = x 3 = | 18 |
+| 3 . (8 - 2) | 3 x ( 8 - 2 ) = | 18 |
+| 2 . 6 + 3 . 5 | 2 x 6 = M+ 3 x 5 = M+ MR | 27 |
+| 98 - 2 . 37 | 98 = M+ 2 x 37 = M- MR | 24 |
+
+Chú ý: Khi sử dụng các nút M+, M- trên màn hình xuất hiện chữ M. Sau khi đã sử dụng nút MR để tìm kết quả của phép tính, muốn chuyển sang phép tính mới, để xoá chữ M đó, ta ấn nút OFF.
+
+Dùng máy tính bỏ túi để tính:
+(274 + 318) . 6
+29 + 14 . 35
+49 . 62 - 32 . 51
+
+82. Đố: Cộng đồng các dân tộc Việt Nam có bao nhiêu dân tộc? Tính giá trị của biểu thức $3^4 - 3^3$ em sẽ tìm được câu trả lời.
+
+================================================================================
+CHUNK 36/133
+================================================================================
+Page: 36
+Size: 1285 chars
+Type: full_page
+
+§10. Tính chất chia hết của một tổng
+Có những trường hợp không tính tổng hai số mà vẫn xác định được tổng đó có chia hết hay không chia hết cho một số nào đó.
+
+1. Nhắc lại về quan hệ chia hết
+Ta đã biết (§6): Số tự nhiên a chia hết cho số tự nhiên b khác 0 nếu có số tự nhiên k sao cho a = b . k.
+Kí hiệu a chia hết cho b là a $\vdots$ b
+Nếu a không chia hết cho b, ta kí hiệu a $\not\vdots$ b
+
+2. Tính chất 1
+?1
+a) Viết hai số chia hết cho 6. Tổng của chúng có chia hết cho 6 không?
+b) Viết hai số chia hết cho 7. Tổng của chúng có chia hết cho 7 không?
+
+Nếu a $\vdots$ m và b $\vdots$ m thì (a + b) $\vdots$ m.
+a $\vdots$ m và b $\vdots$ m $\Rightarrow$ (a + b) $\vdots$ m
+(Kí hiệu $\Rightarrow$ là suy ra (hoặc kéo theo)).
+Trong cách viết để cho gọn trong sách không ghi a, b, m $\in$ N, m $\neq$ 0.
+Ta có thể viết a + b $\vdots$ m hoặc (a + b) $\vdots$ m đều đúng.
+
+Chú ý:
+a) Tính chất 1 đối với một hiệu (a $\geq$ b):
+a $\vdots$ m và b $\vdots$ m $\Rightarrow$ (a - b) $\vdots$ m
+
+b) Tính chất 1 đối với một tổng có nhiều số hạng:
+a $\vdots$ m, b $\vdots$ m và c $\vdots$ m $\Rightarrow$ (a + b + c) $\vdots$ m.
+Nếu tất cả các số hạng của một tổng đều chia hết cho một số thì tổng chia hết cho số đó.
+a $\vdots$ m, b $\vdots$ m và c $\vdots$ m $\Rightarrow$ (a + b + c) $\vdots$ m
+
+================================================================================
+CHUNK 37/133
+================================================================================
+Page: 37
+Size: 1454 chars
+Type: full_page
+
+3. Tính chất 2
+?2
+a) Viết hai số trong đó có một số không chia hết cho 4, số còn lại chia hết cho 4. Tổng của chúng có chia hết cho 4 không?
+b) Viết hai số trong đó có một số chia hết cho 5, số còn lại không chia hết cho 5. Tổng của chúng có chia hết cho 5 không?
+
+Nếu a $\not\vdots$ m và b $\vdots$ m $\Rightarrow$ (a + b) $\not\vdots$ m
+
+Chú ý:
+a) Tính chất 2 đối với một hiệu (a $\geq$ b):
+a $\not\vdots$ m và b $\vdots$ m $\Rightarrow$ (a - b) $\not\vdots$ m
+a $\vdots$ m và b $\not\vdots$ m $\Rightarrow$ (a - b) $\not\vdots$ m.
+
+b) Tính chất 2 đúng đối với một tổng có nhiều số hạng, trong đó chỉ có một số hạng không chia hết cho m, các số hạng còn lại đều chia hết cho m:
+a $\not\vdots$ m, b $\vdots$ m và c $\vdots$ m $\Rightarrow$ (a + b + c) $\not\vdots$ m.
+Nếu chỉ có một số hạng của tổng không chia hết cho một số, còn các số hạng khác đều chia hết cho số đó thì tổng không chia hết cho số đó.
+a $\not\vdots$ m, b $\vdots$ m và c $\vdots$ m $\Rightarrow$ (a + b + c) $\not\vdots$ m
+
+?3 Không tính các tổng, các hiệu, xét xem các tổng, các hiệu sau có chia hết cho 8 không?
+80 + 16
+80 - 16
+80 + 12
+80 - 12
+32 + 40 + 24
+32 + 40 + 12
+
+?4 Cho ví dụ hai số a và b trong đó a không chia hết cho 3, b không chia hết cho 3 nhưng a + b chia hết cho 3.
+
+Bài tập
+83. Áp dụng tính chất chia hết, xét xem mỗi tổng sau có chia hết cho 8 không?
+a) 48 + 56
+b) 80 + 17.
+
+84. Áp dụng tính chất chia hết, xét xem hiệu nào chia hết cho 6:
+a) 54 - 36
+b) 60 - 14.
+
+================================================================================
+CHUNK 38/133
+================================================================================
+Page: 38
+Size: 897 chars
+Type: full_page
+
+85. Áp dụng tính chất chia hết, xét xem tổng nào chia hết cho 7:
+a) 35 + 49 + 210
+b) 42 + 50 + 140
+c) 560 + 18 + 3.
+
+86. Điền dấu "x" vào ô thích hợp trong các câu sau và giải thích điều đó:
+
+| Câu                                                              | Đúng | Sai |
+|--------------------------------------------------------------------|-------|-----|
+| a) 134 + 4 + 16 chia hết cho 4                                     |       |     |
+| b) 21 . 8 + 17 chia hết cho 8                                    |       |     |
+| c) 3 . 100 + 34 chia hết cho 6                                   |       |     |
+
+Luyện tập
+87. Cho A = 12 + 14 + 16 + x với x $\in$ N. Tìm x để:
+a) A chia hết cho 2;
+b) A không chia hết cho 2.
+
+88. Khi chia số tự nhiên a cho 12, ta được số dư là 8. Hỏi số a có chia hết cho 4 không? Có chia hết cho 6 không?
+
+89. Điền dấu "x" vào ô thích hợp trong các câu sau:
+
+| Câu
+
+================================================================================
+CHUNK 39/133
+================================================================================
+Page: 39
+Size: 1256 chars
+Type: full_page
+
+511. Dấu hiệu chia hết cho 2, cho 5 Dùng các tính chãt chia hết; có thể giải thích các dấu híệu chia hết cho 2, cho 5 1 Nhận xét mở đau Ta thấy 90 = 9 10 = 9 . 2 .5 chia hết cho 2, cho 5 610 = 61 10 = 61 2 . 5 chia hết cho 2, cho 5 1240 = 124 10 = 124 2 . 5 chia hết cho 2, cho 5. Nhân xét Các số có chữ số tận là đểu chia hết cho 2 và chia hết cho 5. 2 Dấu hiệu chia hết cho 2 Ví dụ : Xét sỐ n = 43* dấu * bởi chữ số nào thì n chia hết cho 2 ? dau * bởi chữ số nào thì n chia hết cho 2 ? Giải Ta viết 43* 430- Nếu thay dấu bởi một trong các chữ số 0, 2,4.6, 8 (túc là chữ số chẵn) thì n chia hết cho 2, vì cả hai số dèu chia hết cho 2 Kết luận 1. Số có chữ số tận cùng là chữ số chẵn thì chia hết cho 2 Nếu dấu bởi một trong các chữ số 1, 3,5, 7,9 (tức là chữ s6 le) thì không chia hết cho 2, vì một số không chia hết cho 2, số hạng còn lại chia hết cho 2 Két luận 2. Số có chữ số tận cùng là chữ số lẻ thì chia hét cho 2 Các số có chữ số tận cùng là chữ số chẵn thì chia hết cho 2 và chỉ số dó mới chia hết cho 2 cúc sỐ sau, số nào chia hết cho 2, số nào chia hết cho 2 ? 328 1437 895 1234. 3. Dấu hiệu chia hết cho 5 Ví dụ Xét sỐ n = 43* dấu * bởi chữ sỐ nào thì n chia hết cho 5 ? 37 cùng Thay Thay không + * hạng thay hang không những Trong không Thay
+
+================================================================================
+CHUNK 40/133
+================================================================================
+Page: 40
+Size: 1249 chars
+Type: full_page
+
+Thay dấu bởi chữ số nào thì n chia hết cho 5 ? Giải Ta viết 43* 430 + Nếu dau bởj chữ số 0 hoặc 5 thì n chia hết cho 5, vì cả hai số dêu chia hết cho 5. Kết luận I. Số có chữ số tÁn cùng là 0 hoặc 5 thì chia hết cho 5. Neu thay dấu bởi một trong các chữ số I, 2, 3, 4,6, 7, 8, 9 thì n chia hết cho 5. vì một số hang  chia hết cho 5, số hang còn lại chia hết cho 5 Kết luận 2. Số có chữ số tạn khác 0 và 5 thì không chia hết cho 5. Các số có chữ số tận cùng là 0 hoặc $ thì chia hết cho 5 và chỉ nhũng số dó mói chia hết cho 5. 22 Điền chữ số vào dấu để được số 37* chia hết cho 5 Bàl tập 91 Trong các số sau, số nào chia hết cho 2. số nào chia hết cho 5 ? 652 850 1546 785 6321 . 92. Cho các số 2141 1345 4620 234. Trong các sỐ đó a) $ố nào chia hết cho 2 mà không chia hết cho 5 ? b) Số nào chia hết cho 5 mà chia hết cho 2 ? c) Số nào chia hết cho cả 2 và 5 ? 93. (hiệu) sau có chia hết cho 2 không, có chia hết cho 5 không ? a) 136 + 420 b) 625 450 c) / . 2 . 3 4 . 5 .6+42 ; d) ] . 2 . 3 . 4 .5 .6 - 35 94. Không thực hiện phép chia, tìm số dư khi chia mỗi số sau đây cho 2 cho 5 813 264 736 6547. 95. Điển chữ số vào dau * để dược số 54* thoả mãn diêu kiện a) Chia hết cho 2 b) Chia hết cho 5. 38 không hạng thay khong không cùng không Tổng hãy
+
+================================================================================
+CHUNK 41/133
+================================================================================
+Page: 41
+Size: 825 chars
+Type: full_page
+
+Luyện tập 96. Điền chữ số vào dấu để được số 85 thoả mãn điều kiện 
+a) Chia hết cho 2 
+b) Chia hết cho 5.
+97. Dùng ba chữ số 4, 0, 5, ghép thành các số tự nhiên có ba chữ số khác nhau thoả mãn điều kiện 
+a) Số đó chia hết cho 2 
+b) Số đó chia hết cho 5.
+98. Đánh dấu "X" vào ô thích hợp trong các câu sau 
+Câu Đúng Sai 
+a) Số có chữ số tận cùng 4 thì chia hết cho 2 
+Số chia hết cho 2 thì có chữ số tận cùng 4. 
+Số chia hết cho 2 và chia hết cho 5 thì có chữ số tận cùng 0 
+Số chia hết cho 5 thì có chữ số tận cùng 5.
+99. Tìm số tự nhiên có hai chữ số, các chữ số giống nhau, biết số đó chia hết cho 2 và chia cho 5 thì dư 3.
+100. Ô tô đầu tiên ra đời năm nào? Ô tô đầu tiên ra đời năm abbc, trong đó a là số có một ước, b là hợp số lẻ nhỏ nhất không là số nguyên tố, không là số và b # 1; c € {1; 5; 8}; (a, b, c khác nhau).
+
+================================================================================
+CHUNK 42/133
+================================================================================
+Page: 42
+Size: 1351 chars
+Type: full_page
+
+Xét số 378, ta thấy 378 = 3 . 100 + 7 . 10 + 8. 
+Viết 100 thành 99 + 1, viết 10 thành 9 + 1 (các số 99 và 9 chia hết cho 9), ta được 
+378 = 3 . (99 + 1) + 7 . (9 + 1) + 8 = 3 . 99 + 3 + 7 . 9 + 7 + 8 = (3 + 7 + 8) + (3 . 11 . 9 + 7 . 9) 
+(tổng các chữ số) + (số chia hết cho 9).
+Như vậy, số 378 viết được dưới dạng các chữ số của nó (là 3 + 7 + 8) cộng với một số chia hết cho 9 (là 3 . 11 . 9 + 7 . 9).
+Ví dụ 
+253 = 2 . 100 + 5 . 10 + 3 = 2 . (99 + 1) + 5 . (9 + 1) + 3 = 2 . 99 + 2 + 5 . 9 + 5 + 3 = (2 + 5 + 3) + (2 . 11 . 9 + 5 . 9) 
+(tổng các chữ số) + (số chia hết cho 9).
+
+2. Dấu hiệu chia hết cho 9
+Ví dụ 
+Áp dụng nhận xét mở đầu, xét xem 
+Số 378 có chia hết cho 9 không? 
+Số 253 có chia hết cho 9 không?
+Theo nhận xét mở đầu 
+378 = (3 + 7 + 8) + (số chia hết cho 9) 
+= 18 + (số chia hết cho 9). 
+Số 378 chia hết cho 9 vì cả hai số hạng đều chia hết cho 9.
+253 = (2 + 5 + 3) + (số chia hết cho 9) 
+= 10 + (số chia hết cho 9). 
+Số 253 không chia hết cho 9 vì một số hạng không chia hết cho 9, số còn lại chia hết cho 9.
+Kết luận 
+1. Số có các chữ số chia hết cho 9 thì chia hết cho 9.
+2. Số có các chữ số không chia hết cho 9 thì không chia hết cho 9.
+Các số có tổng các chữ số chia hết cho 9 thì chia hết cho 9 và chỉ những số đó mới chia hết cho 9.
+Trong các số sau, số nào chia hết cho 9, số nào không chia hết cho 9? 
+621; 1205; 1327; 6354.
+
+================================================================================
+CHUNK 43/133
+================================================================================
+Page: 43
+Size: 1277 chars
+Type: full_page
+
+3. Dấu hiệu chia hết cho 3
+Ví dụ 
+Áp dụng nhận xét mở đầu, xét xem 
+Số 2031 có chia hết cho 3 không? 
+Số 3415 có chia hết cho 3 không?
+Theo nhận xét mở đầu 
+2031 = (2 + 0 + 3 + 1) + (số chia hết cho 9) 
+= 6 + (số chia hết cho 9) 
+= 6 + (số chia hết cho 3).
+Số 2031 chia hết cho 3 vì cả hai số hạng đều chia hết cho 3.
+3415 = (3 + 4 + 1 + 5) + (số chia hết cho 9) 
+= 13 + (số chia hết cho 9) 
+= 13 + (số chia hết cho 3).
+Số 3415 không chia hết cho 3 vì một số hạng không chia hết cho 3, số hạng còn lại chia hết cho 3.
+Kết luận 
+1. Số có tổng các chữ số chia hết cho 3 thì chia hết cho 3.
+2. Số có tổng các chữ số không chia hết cho 3 thì không chia hết cho 3.
+Các số có tổng các chữ số chia hết cho 3 thì chia hết cho 3 và chỉ những số đó mới chia hết cho 3.
+Điền chữ số vào dấu để được số 157* chia hết cho 3.
+
+Bài tập 
+101. Trong các số sau, số nào chia hết cho 3, số nào chia hết cho 9? 
+187; 1347; 2515; 6534; 93; 258.
+102. Cho các số 3564; 4352; 6531; 6570; 1248.
+a) Viết tập hợp A các số chia hết cho 3 trong các số trên.
+b) Viết tập hợp B các số chia hết cho 9 trong các số trên.
+c) Dùng kí hiệu € để thể hiện quan hệ giữa hai tập hợp A và B.
+103. (Hiệu) sau có chia hết cho 3, có chia hết cho 9 không? 
+a) 1251 + 5316 
+b) 5436 - 1324 
+c) 1 . 2 . 3 . 4 . 5 . 6 + 27. 41.
+
+================================================================================
+CHUNK 44/133
+================================================================================
+Page: 44
+Size: 981 chars
+Type: full_page
+
+104. Điền chữ số vào dấu để 
+a) 5*8 chia hết cho 3 
+b) 6*3 chia hết cho 9 
+43* chia hết cho cả 3 và 5 
+#81* chia hết cho cả 2, 3, 5, 9.
+105. Dùng ba trong bốn chữ số 4, 5, 3, 0, hãy ghép thành các số tự nhiên có ba chữ số sao cho các số đó 
+a) Chia hết cho 9 
+b) Chia hết cho 3 mà không chia hết cho 9.
+
+Luyện tập 
+106. Viết số tự nhiên nhỏ nhất có năm chữ số sao cho số đó 
+a) Chia hết cho 3 
+b) Chia hết cho 9.
+107. Điền dấu "X" vào ô thích hợp trong các câu sau 
+Câu Đúng Sai 
+a) Một số chia hết cho 9 thì số đó chia hết cho 3. 
+b) Một số chia hết cho 3 thì số đó chia hết cho 9. 
+c) Một số chia hết cho 15 thì số đó chia hết cho 3. 
+d) Một số chia hết cho 45 thì số đó chia hết cho 9.
+108. Một số có các chữ số chia cho 9 (cho 3) dư m thì số đó chia cho 9 (cho 3) dư m.
+Ví dụ 
+Số 1543 có các chữ số 1 + 5 + 4 + 3 = 13. 
+Số 13 chia cho 9 dư 4, chia cho 3 dư 1. 
+Do đó số 1543 chia cho 9 dư 4, chia cho 3 dư 1.
+Tìm số dư khi chia mỗi số sau cho 9, cho 3: 
+1546; 1527; 2468; 1011.
+
+================================================================================
+CHUNK 45/133
+================================================================================
+Page: 45
+Size: 786 chars
+Type: full_page
+
+Gọi m là số dư của a khi chia cho 9. Điền vào các ô trống 
+16; 213; 827; 468; m; 10.
+Trong phép nhân a . b = c, gọi m là số dư của a khi chia cho 9, n là số dư của b khi chia cho 9, r là số dư của tích m . n khi chia cho 9, d là số dư của c khi chia cho 9.
+42 không thay 
+Đúng tổng cũng tổng bằng 
+Điền vào các ô để so sánh r và d trong mỗi trường hợp sau 
+78; 64; 72; 6; 47; 59; 21; 3666; 3776; 1512; m; 6; n; 2; r; 3; 3.
+Có thể em chưa biết 
+PHÉP THỬ VỚI SỐ 9 
+Bài 110 cho ta một cách kiểm tra kết quả của phép nhân. 
+Chỉ cần lập luận tính m, n, r, d rồi so sánh với d. 
+Nếu r # d thì chắc chắn phép nhân làm sai. 
+Nếu d thì có nhiều khả năng phép nhân làm đúng.
+Trong thực hành, ta thường viết các số m, n, b) r, d như hình 20a.
+Hình 20 
+Với a = 78, b = 47, c = 3666, ta có hình 20b.
+
+================================================================================
+CHUNK 46/133
+================================================================================
+Page: 46
+Size: 1417 chars
+Type: full_page
+
+513. Ước và bội 
+Thêm những cách mới để diễn đạt quan hệ a chia hết cho b 
+1. Ước và bội 
+Nếu có số tự nhiên a chia hết cho số tự nhiên b thì ta nói a là bội của b, còn b gọi là ước của a.
+Số 18 có là bội của 3 không? 
+Có là bội của 4 không? 
+Số 4 có là ước của 12 không? 
+Có là ước của 15 không?
+2. Cách tìm ước và bội 
+Ta kí tập hợp các ước của a là U(a), tập hợp các bội của a là B(a).
+Ví dụ 
+Tìm các bội nhỏ hơn 30 của 7. 
+Lần lượt nhân 7 với 0, 1, 2, 3, 4, ta được các bội nhỏ hơn 30 của 7 là: 
+0; 7; 14; 21; 28.
+(Bội tiếp theo của 7 là 35 lớn hơn 30).
+Ta có thể tìm các bội của một số khác 0 cách nhân số đó lần lượt với 0, 1, 2, 3, ...
+22. Tìm các số tự nhiên x mà x € B(8) và x < 40.
+Ví dụ 2 
+Tìm tập hợp U(8) 
+Lần lượt chia 8 cho 1, 2, 3, 4, 5, 6, 7, 8, ta thấy 
+8 chia hết cho 1, 2, 4, 8. 
+Do đó U(8) = {1; 2; 4; 8}.
+Ta có thể tìm các ước của a (a > 1) cách lần lượt chia a cho các số tự nhiên từ 1 đến a để xem a chia hết cho những số nào, khi đó các số ấy là ước của a.
+23. Viết các phản tử của tập hợp U(12).
+24. Tìm các ước của 24 và tìm một vài bội của 24.
+Bài tập 
+III. 
+a) Tìm các bội của 6 trong các số: 8; 14; 20; 25. 
+b) Viết tập hợp các bội của 4 nhỏ hơn 30. 
+c) Viết dạng quát các số là bội của 4.
+112. Tìm các ước của 4, của 6, của 9, của 13 và của 26.
+113. Tìm các số tự nhiên X sao cho 
+a) x € B(12) và 20 < x < 50; 
+b) x € B(15) và 0 < X < 40; 
+c) x € U(20) và x > 8; 
+d) 16 € B(x) và x > 4.
+
+================================================================================
+CHUNK 47/133
+================================================================================
+Page: 47
+Size: 662 chars
+Type: full_page
+
+[14. Có 36 học sinh vui chơi. 
+Các bạn đó muốn chia đội 36 vào các nhóm. 
+Trong các cách chia sau, cách nào thực hiện được? 
+Hãy điền vào ô trong trường hợp chia được.
+Cách chia Số nhóm Số người ở một nhóm 
+Thứ nhất Thứ hai Thứ ba 8 
+Thứ tư 12
+Trò chơi "Đua ngựa về đích" 
+Lúc đầu, ngựa đặt ở số 1, đích ở số 8 (h.21).
+Ngựa Đích 
+2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+Hai bạn A và B lần lượt đưa ngựa về phía đích, mỗi lần đến lượt phải đi ít nhất 1 và nhiều nhất 3 ô. 
+Ngựa nào đưa về đích trước là người thắng cuộc. 
+Các em hãy chơi và tìm cách chia để thắng cuộc 
+Chú ý: Sau một số ván có thể đổi luật chơi điều kiện đi nhiều nhất 3 ô bởi 2 ô, hoặc 4 ô.
+
+================================================================================
+CHUNK 48/133
+================================================================================
+Page: 48
+Size: 1547 chars
+Type: full_page
+
+514. Số nguyên tố. Hợp số 
+Bảng số nguyên tố 
+Mỗi số trong các số 2, 3, 5, 7 có bao nhiêu ước? 
+1. Số nguyên tố. Hợp số 
+Xét sau 
+Số a 2 3 4 5 
+Các ước của a 1; 2 1; 3 1; 2; 4 1; 5 
+1; 2; 3; 6 
+Ta thấy trong các số 2, 3, 4, 5, 6, ta thấy số 2, số 3 và số 5 chỉ có hai ước là 1 và chính nó. 
+Số 4 và số 6 có nhiều hơn hai ước. 
+Ta gọi các số 2, 3, 5 là số nguyên tố, các số 4 và 6 là hợp số. 
+Số nguyên tố là số tự nhiên lớn hơn 1, chỉ có hai ước là 1 và chính nó. 
+Hợp số là số tự nhiên lớn hơn 1, có nhiều hơn hai ước.
+Trong các số 7, 8, 9, số nào là số nguyên tố, số nào là hợp số? 
+Vì sao 
+Chú ý 
+a) Số 0 và số 1 không là số nguyên tố và không là hợp số. 
+b) Các số nguyên tố nhỏ hơn 10 là 2, 3, 5, 7.
+2. Lập bảng các số nguyên tố nhỏ hơn 100 
+Trước hết ta viết các số tự nhiên từ 2 đến 99, chúng gồm các số nguyên tố và hợp số. 
+Ta sẽ loại đi các hợp số. 
+Ta đã biết các số nguyên tố nhỏ hơn 10 là 2, 3, 5, 7. 
+Giữ lại số 2, loại các số là bội của 2 mà lớn hơn 2. 
+Giữ lại số 3, loại các số là bội của 3 mà lớn hơn 3. 
+Giữ lại số 5, loại các số là bội của 5 mà lớn hơn 5. 
+Giữ lại số 7, loại các số là bội của 7 mà lớn hơn 7. 
+Các số còn lại trong chia hết cho mọi số nguyên tố nhỏ hơn 10. 
+Chúng là các số nguyên tố và được khung trong sau 
+2 3 4 5 6 8 9 10 12 13 14 15 16 18 19 20 21 22 23 24 25 26 22 28 29 30 31 32 33 34 35 36 37 38 39 40 42 43 44 45 46 47 48 42 50 51 52 53 54 55 56 52 58 59 60 61 62 63 64 65 66 67 68 62 70 22 73 14 15 16 72 28 79 80 84 82 83 84 85 86 8Z 88 89 90 91 92 92 94 95 96 97 98 92 46 cũng bảng 
+không dóng bảng
+
+================================================================================
+CHUNK 49/133
+================================================================================
+Page: 49
+Size: 683 chars
+Type: full_page
+
+Ta được 25 số nguyên tố nhỏ hơn 100 là: 
+2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97. 
+Số nguyên tố nhỏ nhất là số 2, đó là số nguyên tố chẵn duy nhất.
+Cuối sách có các số nguyên tố nhỏ hơn 1000.
+Bài 115. Số sau là số nguyên tố hay hợp số? 
+312; 213; 435; 417; 3311; 67.
+116. Gọi P là tập hợp các số nguyên tố. 
+Điền kí hiệu €, € hoặc € vào ô vuông cho 
+83 € P; 91 € P; 15 € P.
+117. Dùng số nguyên tố ở cuối sách, tìm các số nguyên tố trong các số sau 
+117; 131; 313; 469; 647.
+118. (Hiệu) sau là số nguyên tố, hợp số 
+a) 3 . 4 . 5 + 6 . 7; 
+b) 7 . 9 . 11 . 13 - 2 . 3 . 4 . 7; 
+c) 3 . 5 . 7 + 11 . 13 . 17; 
+d) 16 . 354 + 67 . 541.
+
+================================================================================
+CHUNK 50/133
+================================================================================
+Page: 50
+Size: 262 chars
+Type: full_page
+
+515. Phân tích một số ra thừa số nguyên tố 
+Làm thế nào để viết một số dưới dạng tích của nhiều thừa số nguyên tố? 
+1. Phân tích một số ra thừa số nguyên tố là gì? 
+Ví dụ 
+Viết số 300 dưới dạng tích của nhiều thừa số lớn hơn mỗi thừa số làm như vậy (nếu có thể).
+
+================================================================================
+CHUNK 51/133
+================================================================================
+Page: 51
+Size: 1088 chars
+Type: full_page
+
+Chẳng hạn có thể làm như sau:
+Hình 23 Hình 24 Hình 25
+$300 = 6 \times 50 = 2 \times 3 \times 2 \times 25 = 2 \times 3 \times 2 \times 5 \times 5$ (h.23)
+$300 = 3 \times 100 = 3 \times 10 \times 10 = 3 \times 2 \times 5 \times 2 \times 5$ (h.24).
+$300 = 3 \times 100 = 3 \times 4 \times 25 = 3 \times 2 \times 2 \times 5 \times 5$ (h.25)
+Các số 2, 3, 5 là các số nguyên tố. Ta nói 300 đã được phân tích ra thừa số nguyên tố.
+Phân tích một số tự nhiên lớn hơn 1 ra thừa số nguyên tố là viết số đó dưới dạng một tích các thừa số nguyên tố.
+Chú ý:
+a) Dạng phân tích ra thừa số nguyên tố của mỗi số nguyên tố là chính số đó.
+b) Mọi hợp số đều phân tích được ra thừa số nguyên tố.
+2. Cách phân tích một số ra thừa số nguyên tố
+Ta còn có thể phân tích số 300 ra thừa số nguyên tố "theo cột dọc":
+```
+300 | 2
+150 | 2
+75  | 3
+25  | 5
+5   | 5
+1
+```
+Do đó $300 = 2 \times 2 \times 3 \times 5 \times 5$.
+Viết gọn bằng luỹ thừa, ta được $300 = 2^2 \times 3 \times 5^2$.
+(Trong cách phân tích một số ra thừa số nguyên tố, ta thường viết các ước nguyên tố theo thứ tự từ nhỏ đến lớn).
+---TOÁN/6-T1--- 49
+
+================================================================================
+CHUNK 52/133
+================================================================================
+Page: 52
+Size: 1339 chars
+Type: full_page
+
+Nhận xét: Dù phân tích một số ra thừa số nguyên tố bằng cách nào thì cuối cùng ta được một kết quả.
+Phân tích số 420 ra thừa số nguyên tố.
+
+**Bài tập**
+125. Phân tích các số sau ra thừa số nguyên tố:
+a) 60; b) 84; c) 285; d) 1035; e) 400; g) 1 000 000.
+126. An phân tích các số 120, 306, 567 ra thừa số nguyên tố như sau:
+$120 = 2 \times 3 \times 4 \times 5$; $306 = 2 \times 3 \times 51$; $567 = 9^2 \times 7$.
+An làm như trên có đúng không? Hãy sửa lại trong trường hợp An làm không đúng.
+127. Phân tích các số sau ra thừa số nguyên tố rồi cho biết mỗi số đó chia hết cho các số nguyên tố nào?
+a) 225; b) 1800; c) 1050; d) 3060.
+128. Cho số $a = 2^3 \times 5^2 \times 11$. Mỗi số 4, 8, 16, 11, 20 có là ước của $a$ không?
+
+**Luyện tập**
+129. a) Cho số $a = 5 \times 13$. Hãy viết tất cả các ước của $a$.
+b) Cho số $b = 2^5$. Hãy viết tất cả các ước của $b$.
+c) Cho số $c = 3^2 \times 7$. Hãy viết tất cả các ước của $c$.
+130. Phân tích các số sau ra thừa số nguyên tố rồi tìm tập hợp các ước của mỗi số: 51; 75; 42; 30.
+131. a) Tích của hai số tự nhiên bằng 42. Tìm mỗi số.
+b) Tích của hai số tự nhiên $a$ và $b$ bằng 30. Tìm $a$ và $b$, biết $a < b$.
+132. Tâm có 28 viên bi. Tâm muốn xếp số bi đó vào các túi sao cho số bi ở các túi đều nhau. Hỏi Tâm có thể xếp 28 viên bi đó vào mấy túi? (kể cả hợp xếp vào một túi).
+50 ---TOÁN/6-T1---
+
+================================================================================
+CHUNK 53/133
+================================================================================
+Page: 53
+Size: 1173 chars
+Type: full_page
+
+133. a) Phân tích số 111 ra thừa số nguyên tố rồi tìm tập hợp các ước của 111.
+b) Thay bởi chữ số thích hợp: $\overline{**} \times \overline{*} = 111$.
+
+**Có thể em chưa biết**
+CÁCH XÁC ĐỊNH SỐ LƯỢNG CÁC ƯỚC CỦA MỘT SỐ
+Để tính số lượng các ước của số $m$ ($m > 1$) ta xét dạng phân tích của số $m$ ra thừa số nguyên tố:
+Nếu $m = a^x$ thì $m$ có $x + 1$ ước.
+Nếu $m = a^x \times b^y$ thì $m$ có $(x + 1)(y + 1)$ ước.
+Nếu $m = a^x \times b^y \times c^z$ thì $m$ có $(x + 1)(y + 1)(z + 1)$ ước.
+Ví dụ:
+Số $32 = 2^5$ nên số 32 có $5 + 1 = 6$ (ước).
+Số $63 = 3^2 \times 7$ nên số 63 có $(2 + 1)(1 + 1) = 6$ (ước).
+Số $60 = 2^2 \times 3 \times 5$ nên số 60 có $(2 + 1)(1 + 1)(1 + 1) = 12$ (ước).
+Em hãy thử dùng công thức trên để tính số lượng các ước của 81, 250, 126, 516.
+
+**§17. Ước chung và bội chung**
+Những số nào vừa là ước của 4, vừa là ước của 6?
+Ta chỉ xét ước chung, bội chung của các số khác 0.
+1. Ước chung
+Ví dụ: Viết tập hợp các ước của 4 và tập hợp các ước của 6, ta có:
+Ư(4) = {1; 2; 4}
+Ư(6) = {1; 2; 3; 6}
+Các số 1 và 2 vừa là ước của 4, vừa là ước của 6. Ta nói chúng là các ước chung của 4 và 6.
+Ước chung của hai hay nhiều số là ước của tất cả các số đó.
+51
+
+================================================================================
+CHUNK 54/133
+================================================================================
+Page: 54
+Size: 1106 chars
+Type: full_page
+
+Ta kí hiệu tập hợp các ước chung của 4 và 6 là ƯC(4, 6).
+Ta có ƯC(4, 6) = {1; 2}.
+$x \in ƯC(a, b)$ nếu $a \vdots x$ và $b \vdots x$.
+Tương tự ta có $x \in ƯC(a, b, c)$ nếu $a \vdots x$, $b \vdots x$ và $c \vdots x$.
+2. Khẳng định sau đúng hay sai?
+$8 \in ƯC(16, 40)$
+$8 \in ƯC(32, 28)$
+3. Bội chung
+Ví dụ: Viết tập hợp A các bội của 4 và tập hợp B các bội của 6, ta có:
+A = {0; 4; 8; 12; 16; 20; 24; 28; ...}
+B = {0; 6; 12; 18; 24; ...}
+Các số 0, 12, 24, ... vừa là bội của 4, vừa là bội của 6.
+Ta nói chúng là các bội chung của 4 và 6.
+Bội chung của hai hay nhiều số là bội của tất cả các số đó.
+Ta kí hiệu tập hợp các bội chung của 4 và 6 là BC(4, 6).
+$x \in BC(a, b)$ nếu $x \vdots a$ và $x \vdots b$.
+Tương tự ta có $x \in BC(a, b, c)$ nếu $x \vdots a$, $x \vdots b$ và $x \vdots c$.
+4. Điền số vào ô để được một khẳng định đúng:
+$6 \in BC(3, \square)$
+5. Chú ý
+Tập hợp ƯC(4, 6) = {1; 2}, tạo thành bởi các phần tử chung của hai tập hợp Ư(4) và Ư(6) là giao của hai tập Ư(4) và Ư(6) (phần gạch sọc trên hình 26).
+
+Hình 26
+Giao của hai tập hợp là một tập hợp gồm các phần tử chung của hai tập hợp đó.
+52
+
+================================================================================
+CHUNK 55/133
+================================================================================
+Page: 55
+Size: 1020 chars
+Type: full_page
+
+Ta kí hiệu giao của hai tập hợp A và B là $A \cap B$.
+Như vậy: Ư(4) $\cap$ Ư(6) = ƯC(4, 6); BC(4) $\cap$ BC(6) = BC(4, 6).
+Ví dụ: A = {3; 4; 6}; B = {4; 6}; $A \cap B$ = {4; 6} (h.27)
+X = {a; b}; Y = {c}; $X \cap Y = \emptyset$ (h.28).
+
+Hình 27 Hình 28
+
+**Bài tập**
+134. Điền kí hiệu $\in$ hoặc $\notin$ vào ô vuông cho đúng:
+a) 4 $\square$ ƯC(12, 18); b) 6 $\square$ ƯC(12, 18);
+c) 2 $\square$ ƯC(4, 6, 8); d) 4 $\square$ ƯC(4, 6, 8);
+e) 8 $\square$ BC(20, 30); g) 60 $\square$ BC(20, 30);
+h) 12 $\square$ BC(4, 6, 8); i) 24 $\square$ BC(4, 6, 8)
+135. Viết các tập hợp:
+a) Ư(6), Ư(9), ƯC(6, 9)
+b) Ư(7), Ư(8), ƯC(7, 8)
+c) ƯC(4, 6, 8)
+136. Viết tập hợp A các số tự nhiên nhỏ hơn 40 là bội của 6.
+Viết tập hợp B các số tự nhiên nhỏ hơn 40 là bội của 9.
+Gọi M là giao của hai tập hợp A và B.
+a) Viết các phần tử của tập hợp M.
+b) Dùng kí hiệu $\subset$ để thể hiện quan hệ giữa tập hợp M với mỗi tập hợp A và B.
+
+**Luyện tập**
+137. Tìm giao của hai tập hợp A và B, biết:
+a) A = {cam; táo; chanh}, B = {cam; chanh; quýt}.
+53
+
+================================================================================
+CHUNK 56/133
+================================================================================
+Page: 56
+Size: 1202 chars
+Type: full_page
+
+b) A là tập hợp các học sinh giỏi môn Văn của một lớp; B là tập hợp các học sinh giỏi môn Toán của lớp đó;
+c) A là tập hợp các số chia hết cho 5, B là tập hợp các số chia hết cho 10;
+d) A là tập hợp các số chẵn, B là tập hợp các số lẻ.
+138. Có 24 bút bi, 32 quyển vở. Cô muốn chia số bút và số vở đó thành một số phần thưởng như nhau gồm cả bút và vở. Trong các cách chia sau, cách nào thực hiện được? Điền vào ô trống trong trường hợp chia được.
+
+| Cách chia | Số phần thưởng | Số bút ở mỗi phần thưởng | Số vở ở mỗi phần thưởng |
+|---|---|---|---|
+| a | 6 |  |  |
+
+**§17. Ước chung lớn nhất**
+Có cách nào tìm ước chung của hai hay nhiều số mà không cần liệt kê các ước của mỗi số không?
+1. Ước chung lớn nhất
+Ví dụ 1: Tìm tập hợp các ước chung của 12 và 30.
+Ta lần lượt tìm được:
+Ư(12) = {1; 2; 3; 4; 6; 12}
+Ư(30) = {1; 2; 3; 5; 6; 10; 15; 30}
+Vậy ƯC(12, 30) = {1; 2; 3; 6}
+Số lớn nhất trong tập hợp các ước chung của 12 và 30 là 6. Ta nói 6 là ước chung lớn nhất (ƯCLN) của 12 và 30, kí hiệu ƯCLN(12, 30) = 6.
+Ước chung lớn nhất của hai hay nhiều số là số lớn nhất trong tập hợp các ước chung của các số đó.
+Nhận xét: Tất cả các ước chung của 12 và 30 (là 1, 2, 3, 6) đều là ước của ƯCLN(12, 30).
+54
+
+================================================================================
+CHUNK 57/133
+================================================================================
+Page: 57
+Size: 1273 chars
+Type: full_page
+
+Chú ý: Số 1 chỉ có một ước là 1. Do đó với mọi số tự nhiên a và b, ta có:
+ƯCLN(a, 1) = 1
+ƯCLN(a, b, 1) = 1.
+Ví dụ: ƯCLN(5, 1) = 1; ƯCLN(12, 30, 1) = 1.
+2. Tìm Ước chung lớn nhất bằng cách phân tích các số ra thừa số nguyên tố
+Ví dụ 2: Tìm ƯCLN(36, 84, 168).
+Trước hết ta phân tích ba số trên ra thừa số nguyên tố:
+$36 = 2^2 \times 3^2$
+$84 = 2^2 \times 3 \times 7$
+$168 = 2^3 \times 3 \times 7$.
+Chọn ra các thừa số chung, đó là 2 và 3.
+Số mũ nhỏ nhất của 2 là 2, số mũ nhỏ nhất của 3 là 1.
+Khi đó ƯCLN(36, 84, 168) = $2^2 \times 3 = 12$
+Muốn tìm ƯCLN của hai hay nhiều số lớn hơn 1, ta thực hiện ba bước sau:
+Bước 1: Phân tích mỗi số ra thừa số nguyên tố.
+Bước 2: Chọn ra các thừa số nguyên tố chung.
+Bước 3: Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ nhỏ nhất của nó. Tích đó là ƯCLN phải tìm.
+
+Tìm ƯCLN(12, 30).
+Tìm ƯCLN(8, 9).
+Tìm ƯCLN(8, 12, 15).
+Tìm ƯCLN(24, 16, 8).
+Chú ý:
+a) Nếu các số đã cho không có thừa số nguyên tố chung thì ƯCLN của chúng bằng 1. Hai hay nhiều số có ƯCLN bằng 1 gọi là các số nguyên tố cùng nhau.
+Ví dụ: 8 và 9 là hai số nguyên tố cùng nhau.
+8, 12, 15 là ba số nguyên tố cùng nhau.
+b) Trong các số đã cho, nếu số nhỏ nhất là ước của các số còn lại thì ƯCLN của các số đã cho chính là số nhỏ nhất ấy.
+Ví dụ: ƯCLN(24, 16, 8) = 8
+55
+
+================================================================================
+CHUNK 58/133
+================================================================================
+Page: 58
+Size: 1184 chars
+Type: full_page
+
+3. Cách tìm ước chung thông qua tìm ƯCLN
+Theo nhận xét ở mục 1, tất cả các ước chung của 12 và 30 đều là ước của ƯCLN(12, 30).
+Do đó để tìm các ước chung của 12 và 30, thay vì liệt kê các ước của 12 và 30 rồi chọn ra các ước chung, ta còn có thể làm như sau:
+- Tìm ƯCLN(12, 30) được 6 (xem Ví dụ 1).
+- Tìm các ước của 6, đó là: 1, 2, 3, 6.
+Vậy ƯC(12, 30) = {1; 2; 3; 6}.
+Để tìm ước chung của các số đã cho, ta có thể tìm các ước của ƯCLN của các số đó.
+
+**Bài tập**
+139. Tìm ƯCLN của:
+a) 56 và 140; b) 24, 84, 180; c) 60 và 180; d) 15 và 19.
+140. Tìm ƯCLN của:
+a) 16, 80, 176; b) 18, 30, 77.
+141. Có hai số nguyên tố nhau nào mà cả hai đều là hợp số không?
+
+**Luyện tập**
+142. Tìm ƯCLN rồi tìm các ước chung của:
+a) 16 và 24; b) 180 và 234; c) 60, 90, 135.
+143. Tìm số tự nhiên $a$ lớn nhất, biết rằng $420 \vdots a$ và $700 \vdots a$.
+144. Tìm các ước chung lớn hơn 20 của 144 và 192.
+145. Lan có một tấm bìa hình chữ nhật kích thước 75cm và 105cm. Lan muốn cắt tấm bìa thành các mảnh nhỏ hình vuông bằng nhau sao cho tấm bìa được cắt hết, không còn thừa mảnh nào. Tính độ dài lớn nhất của cạnh hình vuông (số đo cạnh của hình vuông nhỏ là một số tự nhiên với đơn vị là xentimét).
+56
+
+================================================================================
+CHUNK 59/133
+================================================================================
+Page: 59
+Size: 1408 chars
+Type: full_page
+
+**Luyện tập 2**
+146. Tìm số tự nhiên $x$, biết $112 \vdots x$, $140 \vdots x$ và $10 < x < 20$.
+147. Mai và Lan mỗi người mua cho tổ mình một số hộp bút chì màu. Mai mua 28 bút, Lan mua 36 bút. Số bút trong các hộp bút đều nhau và số bút trong mỗi hộp lớn hơn 2.
+a) Gọi số bút trong mỗi hộp là $a$. Tìm quan hệ giữa số $a$ với mỗi số 28, 36.
+b) Tìm số $a$ nói trên.
+c) Hỏi Mai mua bao nhiêu hộp bút chì màu? Lan mua bao nhiêu hộp bút chì màu?
+148. Đội văn nghệ của một trường có 48 nam và 72 nữ về một huyện để biểu diễn. Muốn phục vụ đồng thời tại nhiều địa điểm, đội dự định chia thành các tổ gồm cả nam và nữ, số nam được chia đều vào các tổ, số nữ cũng vậy. Có thể chia được nhiều nhất thành bao nhiêu tổ? Khi đó mỗi tổ có bao nhiêu nam, bao nhiêu nữ?
+
+**§18. Bội chung nhỏ nhất**
+Cách tìm bội chung nhỏ nhất có gì khác với cách tìm ước chung lớn nhất?
+1. Bội chung nhỏ nhất
+Ví dụ 1: Tìm tập hợp các bội của 4 và 6.
+Ta lần lượt tìm được:
+B(4) = {0; 4; 8; 12; 16; 20; 24; 28; 32; 36; ...}
+B(6) = {0; 6; 12; 18; 24; 30; 36; ...}
+Vậy BC(4, 6) = {0; 12; 24; 36; ...}
+Số nhỏ nhất khác 0 trong tập hợp các bội chung của 4 và 6 là 12. Ta nói 12 là bội chung nhỏ nhất (BCNN) của 4 và 6, kí hiệu BCNN(4, 6) = 12.
+Bội chung nhỏ nhất của hai hay nhiều số là số nhỏ nhất khác 0 trong tập hợp các bội chung của các số đó.
+Nhận xét: Tất cả các bội chung của 4 và 6 (là 0, 12, 24, 36, ...) đều là bội của BCNN(4, 6).
+57
+
+================================================================================
+CHUNK 60/133
+================================================================================
+Page: 60
+Size: 1245 chars
+Type: full_page
+
+Chú ý: Mọi số tự nhiên đều là bội của 1. Do đó với mọi số tự nhiên $a$ và $b$ (khác 0), ta có:
+BCNN(a, 1) = a; BCNN(a, b, 1) = BCNN(a, b).
+Ví dụ: BCNN(8, 1) = 8; BCNN(4, 6, 1) = BCNN(4, 6)
+2. Tìm bội chung nhỏ nhất bằng cách phân tích các số ra thừa số nguyên tố
+Ví dụ 2: Tìm BCNN(8, 18, 30).
+Trước hết ta phân tích ba số trên ra thừa số nguyên tố:
+$8 = 2^3$
+$18 = 2 \times 3^2$
+$30 = 2 \times 3 \times 5$.
+Chọn ra các thừa số nguyên tố chung và riêng, đó là 2, 3, 5.
+Số mũ lớn nhất của 2 là 3, số mũ lớn nhất của 3 là 2, số mũ lớn nhất của 5 là 1.
+Khi đó BCNN(8, 18, 30) = $2^3 \times 3^2 \times 5 = 360$.
+Muốn tìm BCNN của hai hay nhiều số lớn hơn 1, ta thực hiện ba bước sau:
+Bước 1: Phân tích mỗi số ra thừa số nguyên tố.
+Bước 2: Chọn ra các thừa số nguyên tố chung và riêng.
+Bước 3: Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ lớn nhất của nó. Tích đó là BCNN phải tìm.
+
+Tìm BCNN(8, 12).
+Tìm BCNN(5, 7, 8).
+Tìm BCNN(12, 16, 48).
+Chú ý:
+a) Nếu các số đã cho đôi một nguyên tố cùng nhau thì BCNN của chúng là tích của các số đó.
+Ví dụ: BCNN(5, 7, 8) = $5 \times 7 \times 8 = 280$.
+b) Trong các số đã cho, nếu số lớn nhất là bội của các số còn lại thì BCNN của các số đã cho chính là số lớn nhất ấy.
+Ví dụ: BCNN(12, 16, 48) = 48
+58
+
+================================================================================
+CHUNK 61/133
+================================================================================
+Page: 61
+Size: 1030 chars
+Type: full_page
+
+3 Cách tim bội chung thông qua tìm BCNN Ví du 3 Cho A = {x € N| x : 8, X 18, x 30, x < 1000}. Viet tập hợp A cách liệt kê các tử. Ta có x € BC(8, 18,30) và x < 1000. BCNN(8. 18, 30) = 23 . 32_ 5=360 (xem ví dụ 2) Bọi chung cúa 8 18, 30 là bội của 360. Lân lượt nhân 360 với 0, 1, 2, 3 ta dược 0, 360, 720, 1080. VAy A (0 : 360 720} . Để tìm bội chung của các số dã cho, t0 có thể tìm các bội của BCNN của các số dó. Bài tập 149. Tìm BCNN của a) 60 và 280 b) 84 và 108 13 và 15. 150. Tìm BCNN cúa a) 10, 12, 15 ; b) 8, 9, 11 c) 24,40, 168. ISL Hãy tính nhẩm BCNN của các số sau cách nhân sỐ lớn nhất lân lượt vỚi 1,2,3, cho đến khi được kết quả là một số chia hết cho các số còn lại a) 30 và 150 ; b) 40, 28, 140 10o, 120, 200. Luyện tập 1 152. Tìm sỐ tự nhiên a nhỏ nhất khác 0, biết a : 15 và a : 18. 153. Tìm các bội chung nhỏ hơn 500 của 30 và 45. 154. Học sinh lóp 6C khi xếp 2, hàng 3, 4, hàng 8 đèu vừa đủ Biết số học sinh lớp đó tong khoảng từ 35 đến 60. Tính số học sinh của lớp 6C. 59 bàng phân bằng Tằng = hàng hàng hàng
+
+================================================================================
+CHUNK 62/133
+================================================================================
+Page: 62
+Size: 985 chars
+Type: full_page
+
+155. Cho 150 28 50 20 1S 50 ƯCLN(a; b) 2 BCNN(a, b) 12 ƯCLN(a, b). BCNN(a; b) 24 b 24 a) Điền vào các 0 trống của b) So sánh tích ƯCLN(a; b). BCNN(a, b) với tích a 6. Luyện tập 2 156. Tìm số tự nhiên x, biết 12, x : 21, 28 và 150 <x < 300. 157. Hai bạn An và Bách học mỌt nhung ở hai lớp khác nhau. An cú 10 ngày lại trực nhật, Bách cứ 12 ngày lại trực nhật. Lẩn đâu cả hai bạn trục nhật vào một ngày. Hỏi sau ít nhất nhiêu ngày thì hai bạn lai trực nhật ? 158 Hai đội công nhan nhận một số cây như nhau. Mỗi nhân dôi 8 cây; mỗi công nhân dội II 9 cây. Tính số cay mỗi dội phải biết s6 cây đó trong khoảng từ 100 dến 200. Có thể em chua biết LICH CAN CHI Nhiểu nubc phuang Đông, trong đó có Việt Nam, gọi tên nám âm lich cách ghép 10 can (theo thứ tự là Giáp, Ất, Bính, Đinh, Mậu; Ki, Canh, Tân, Nhâm, Quý) vỚi 12 chi (Tí, Sủu. Dẩn, Mão Thin, Tị Ngọ, Mùi, Thân, Dậu, Tuất, Hại). Đẩu tiên 60 bảng ` bàng. rằng cùng trường cùng bao cùng trông công phải trỎng  phải trổng trỔng, rằng bằng
+
+================================================================================
+CHUNK 63/133
+================================================================================
+Page: 63
+Size: 1192 chars
+Type: full_page
+
+Giáp được ghép với TI thành năm Giáp Ti. Cứ 10 nám, Gióp lại đưọc lặp lại. Cứ 12 năm, Tí lại đưọc lặp lại Giáp Ất Binh Đinh Mậu Ki Canh Tàn Nhâm Quý Giáp Ất Binh Đinh Ti Sùu Dẩn Mão Thin Ngọ Mùi Than Dậu Tuất Hại Ti Sủu Như vậy cứ sau 60 nám (60 là BCNN của 10 và 12), năm Giáp Ti lại đuợc lặp lại. Tên cùa các nam âm lịch khác cũng được Iặp lại sau 60 nàm. ÔN TẬP CHUƠNG Các nội dung chính Các phép tính cộng, trừ, nhân, chia, nâng lên luỹ thừa. Tính chất chia hết. Dấu hiệu chia hết cho 2, 3, 5, 9 Số nguyên tố, hợp số. UCLN, BCNN. Câu hỏi ôn tập Viết dang các tính chất giao hoán, kết hợp của phép cộng. phép nhân, tính chất phân phối của phép nhân đối với phép cỘng: 2. Luỹ thừa bậc n của a là gì ? 3 Viết thức nhân hai luỹ thùa cơ số, chia hai luỹ thừa cƠ sỐ. 4 . Khi nào thì ta nói số [ự nhiên a chia hết cho số tự nhiên b ? 5 Phát biểu và viết dang hai tính chất chia hết của một tổng: 6 Phát biểu các dấu hiệu chia hết cho 2, cho 3,cho 5, cho 9. 7 . Thế nào là sô nguyên tố, hợp số ? Cho ví dụ. 8 Thế nào là hai số nguyên tố cùng nhau ? Cho ví dụ. 9 ƯCLN của hai nhiều số là gì Nêu cách tìm 10 BCNN của hai hay nhiều số là gì ? Nêu cách tìm. 61 tổng quát công cùng cùng tổng quát hay7
+
+================================================================================
+CHUNK 64/133
+================================================================================
+Page: 64
+Size: 836 chars
+Type: full_page
+
+Một số bảng hệ thống kiến thúc Các phép tính cóng, trừ; nhân, chia, lên luỹ thừa Điêu kiện dể Sđ Dấu Kết Phép tính kết là thứ nhất thứ hai phép tính phép tính sÔ tự nhien Cộng Số Số Mọi a và b a + 6 Trừ Số bị trừ SỐ trù Hiệu a 2 b a ~b Nhân a Xb Thừa số Thừa số Tich Mọi a và b a b Chia b*0 ; a = bk Số bị chia SỐố chia Thuong a : b vớị k € N lên Viết số mũ Mọi a và n Cơ số Số mú nhỏ và dưa Luỹ thừa luỹ thừa cao trừ 00 2 Dấu hiệu chia hết Chia hết cho Dấu hiệu Chữ sđ tan là chữ sỐ chẵn 5 Chữ số tận cùng là 0 hoặc 5 các chữ s6 chia hết cho 9 các chữ sđ chia hết cho 3 3 Cách tìm ƯCLN và BCNN Tìm ƯCLN Tìm BCNN Phân tích các số ra thừa số nguyên tố. 2 Chọn các thừa s6 nguyên tố chung và 3 . Lập tích các thừa số đã chọn. mỗi thừa số lay với số mũ nhỏ nhất lón nhất 62 nâng quả quả Tông hang hạng Nang lên cùng Tổng Tong 5 chung riêng
+
+================================================================================
+CHUNK 65/133
+================================================================================
+Page: 65
+Size: 1458 chars
+Type: full_page
+
+Bài tập 159. Tìm kết quả của các phép tính a) n = n ; b) n : n (n #0) ; c) n + 0 ; d) n - 0 ; e)n . 0 : g) n . 1 ; h) n : 1 . 160. Thuc hiện các phép tính a) 204 - 84 12 ; b) 15 . 23 +4 . 32 -5 . 7 ; c) 56 : 5' +23 . 22 d) 164 . 53 + 47 164 . 161. Tìm số tự nhiên x. biết a) 219 _ 7(x + 1) = 100 b) (3x - 6) . 3 = 34. 162. Để tìm sỐ tự nhiên X , biết nếu Iấy s6 dó trừ đi 3 rỒi chia cho 8 thì 12, ta có thể viết (x - 3) : 8 = 12 rổi tìm X. ta được x = 99. cách làn) như trên, hãy tìm số tự nhiên x, biết nếu nhan nó với 3 rổi tnừ đi 8, sau đó chia cho 4 thì đuợc 7. 163 . Đố. Điên các số 25, 18, 22, 33 vào chỗ và giải bài toán sau Lúc giờ, ta thấp một ngọn nến có chiêu cao cm. Đến giò ngày, ngọn nến chỉ còn cao cm Trong mỘt giờ, chiêu cao của ngọn nến giảm bao nhiêu xentimét ? 164 Thực hiện phép tính rôi phân tích kết quả ra chùa s6 nguyen tố a) (000 + 1) : 11 b) 142 +52 + 22 ; c) 29 . 31 + 144 122 333 : 3 + 225 : 152. 165. Gọi Plà tập hợp các s6 nguyên tố. Điền kí hiệu € hoặc € thích hợp vào 0 vuông a) 747DP; 235 DP; 97OP; b) a = 835 123 + 318 : aOP; c) b =5 . 7 .11 + 13 . 17 ; bOP; d) c = 2.5 .6 - 2 . 29 ; cOP 166. Viết các tập hợp sau bằng cách liệt kê các phân tử : a) A = (x € N 84 x, 180 : x và x > 6) : b) B = (x € Nlx 12, x 15, x 18 và 0 <x < 300} . 167. Một số sách nếu xếp thằnh từng bó 10 12 hoặc 15 quyến đêu vừa dú bó. Tính số sách dó biết sỐ sách trong khoảng tù 100 đến 150. 63 rằng Jược Bằng rầng ưrống người cùng quyển, quyển rằng
+
+================================================================================
+CHUNK 66/133
+================================================================================
+Page: 66
+Size: 535 chars
+Type: full_page
+
+168. Máy bay trực thăng ra đờỉ năm nào ? Máy [Tuc thăng ra đờỉ nẵm abcd Biết không là số nguyên tỐ, cũng không là sỐ ; b là số dư trong phép chia 105 cho 12 ; c là số nguyên tố lẻ nhỏ nhat d là trung bình cộng của b và c. Hình 29 169. Đố : Bé kia chẳn vịt khác Buoc di cho dươc chẵn mới ưa 2 xếp thấy chưa vừa, 3 xếp vẫn còn thừa [ con, 4 xếp chưa tròn, 5 xếp thiếu 1 con mớỉ đẩy . thành 7,đẹp thay Vịt bao nhiêu ? Tính được ngay mớí tài (Biết số vịt chua đến 200 con) Hinh 30 bay Fang hợp thường hàng Hàng Hang Hàng cúng Hàng Xếp hàng
+
+================================================================================
+CHUNK 67/133
+================================================================================
+Page: 67
+Size: 339 chars
+Type: full_page
+
+Có thể em chua biết Nguời ta chứng minh được 1) Nếu a chia hết cho m và a chia hết cho n Ihi a chia hết cho BCNN của m và n. Vi đụ : a 4 và a 6 nên a BCNN(4, 6) tức là a 12 2) Nếu tích a b chía hếl cho mà b và c là hai số nguyên 16 cùng nhau thi a chia hết cho c Vi dụ Tích a _ 3 chia hết cho 4 và UCLN(3, 4) = 1 nen a 5 ~TOANGI1-A 65 rằng
+
+================================================================================
+CHUNK 68/133
+================================================================================
+Page: 68
+Size: 1235 chars
+Type: full_page
+
+Chương II SỐ NGUYÊN Chúng ta đã biết phép cộng và phép nhân hai số tự nhiên luôn thực hiện được và cho kết quả là một số tự nhiên, còn đốỉ với phép trừ hai số tự nhiên bao cũng thực hiện được, chẳng hạn 6 = Trong chương này, chúng ta sẽ làm quen với một loại số mới (số nguyên âm). Các số nguyên âm cùng với các số tự nhiên sẽ tao thành tập các s6 nguyên, trong đó phép ưrừ luôn thực hiện được . $1. Làm quen với số nguyên âm 3 C nghĩa là gì ? Vi sao ta cẩn đến số có dấu đằng trước ? 1 . Các vÍ dụ Trong thực tế, bên cạnh các số tự nhiên; người ta còn các sỐ với dấu trước , như =1.-2-3 (doc là àm ] . âm 2 ân 3 hoặc trừ [, Irừ 2, trừ 3, -) . số như thể dược là số nguyên &m. Dưới đây là một số ví dụ minh hoạ. Ví du 1 Để do nhiệt độ. ta các nhiệt kế (xem hình 31). Nhiệt độ của nước đá đang tan là 0PC (đọc là không độ C). Nhiệt độ cua nước đang sôi là 100"C (đọc là một trẳm độ 0) Nhiệt độ dưới 0?C được viết với dấu trước . han Nhiệt độ 3 độ dưới 0PC được viết -3 C (đọc là âm ba độ C hoặc trừ ba độ C) 21 Đọc nhiệt độ ở các thành phổ dưới Hà Nội 18PC Bẳc Kinh ~2"c Huế 20€ Mát-xco-va ~7PC Đà Lat 19"C Pa-ri 0"€ TP. Hổ Chí Minh 25 C Niu-yoóc 2" Hinh 3 [ 66 TOAN6/1-B không phải gỉờ hợp dùng dàng  Nhữg gọi người dùng dang Chẳng dây
+
+================================================================================
+CHUNK 69/133
+================================================================================
+Page: 69
+Size: 1251 chars
+Type: full_page
+
+Ví dụ 2 Để do độ cao thấp ở các địa điểm khác nhau trén Trái Đất, ta lấy mực nước biển làm chuẩn, nghĩa là quy ước độ cao của mực nước biển là Om. Cao nguyên Đắc Lác có độ cao trung bình cao hơn mực nước biển 600m_ Ta nói Độ cao trung bình của cao nguyên Đắc Lắc là 60Om_ Thềm Iục địa Việt Nam có độ cao trung bình tấp hơn mực nước biển 65m. Khi dó ta có thể nói Đọ cao ưung bình của thêm lục dịa Việt Nam là = 65m. ?2 Đọc độ cao của cát dịa điển1 duới dây Độ cao cùa dính núi Phan-xi-pang là 3143 mét. Độ cao của dáy vịnh Cam Ranh là -30 mét. Ví du 3 Nếu A có 10 000 ta nói A có 10 000 Còn nếu A nợ 10 000 thì ta có thẻ nói A có -10 000 23 Đot rác câu sau Bảy có -150 00 Bà Năm có 200 000 Cô Ba có -30 000 2 Trục số Ta biểu diễn các số nguyên âm trên tia dôi cùa tia să và ghi các số -1. -2, -3, như trong hình 32. Hình 32 Như vậy ta dược một trục số. Điểm 0 (không) đuạ gọi Ià diểm gốc của trục sỐ. Trên hình 32. chiêu từ trái sang phải gọi là chiểu duong (thường được dánh dấu mũi chiêu Iừ sang tái gọi là chiểu âm của trục số, ?4 Các diển A B, C, D ở trục số trên hình 33 biểu diễn nhũng số nào Hinh 33 Chú ý : Ta cũng có thể vẽ truc só nhu hình 34 . Hình 34 67 người dông, "ông dông" ông dổng" ông dỎng. "ông Ông~ dỗng. dổng dông: bàng tên), phải
+
+================================================================================
+CHUNK 70/133
+================================================================================
+Page: 70
+Size: 893 chars
+Type: full_page
+
+Bài tập Hình 35 minh hoạ một phẩn các nhiet kể (tính theo dộ C) 2 2 a) Viết và doc nhiêt dô các nhiệt kế. b) Trong hai nhiệt kế 2 ~2 và b, nhiệt dộ nào cao hơn ? E Đọc độ cao của các dịa diêm sau a) Độ cao của dỉnh 'núi Ê-vơ-rét (thuộc Nê-pan) là 8848   mét (cao nhat Hinh 35 thế giới) b) Độ cao của đáy vực Ma-ri-an (thuộc vùng biển Phi-líp-pin) là ~11 524 mét (sâu nhất thế giới) Người ta còn số nguyên dể chỉ thời gian trước nguyên. Chẳng han; nhà toán học Pi-ta-go sinh nãm ~570 là sinh nẳm 570 trước nguyên Hãy viết số (nguyên âm) nẳm tổ chức Thể vận hội đẩu tien, biết nó diễn ra nẵm 776 trước nguyên. a) Ghi điểm gốc 0 vào trục số ở hình 36. Hinh 36 b) ghi các số nguyên âm nẳm giữa các số -10 và -5 vào truc số ở hình 37 71o Hình 37 Vẽ môt truc sỐ và vẽ Những đỉểm nằm cách đỉểm 0 ba đơn vị. Ba cặp điểm biểu diễn số nguyên cách đều điểm 0 Công dùng âm nghĩa ông Công chỉ rẳng Công Hãy
+
+================================================================================
+CHUNK 71/133
+================================================================================
+Page: 71
+Size: 1267 chars
+Type: full_page
+
+§2. Tập hợp các số nguyên
+Ta có thể dùng số nguyên để nói về các đại lượng có hai hướng ngược nhau.
+1. Số nguyên
+Các số tự nhiên khác 0 còn được gọi là các số nguyên dương (đôi khi còn viết +1, +2, +3,... dấu "+" được bỏ đi).
+Các số -1, -2, -3,... là các số nguyên âm.
+Tập hợp {…;-3;-2;-1;0;1;2;3;…} gồm các số nguyên âm, số 0 và các số nguyên dương là tập hợp các số nguyên.
+Tập hợp các số nguyên được kí hiệu là Z.
+Chú ý: Số 0 không là số nguyên âm và cũng không phải là số nguyên dương.
+
+Điểm biểu diễn số nguyên a trên trục số gọi là điểm a.
+Nhận xét: Số nguyên thường được sử dụng để biểu thị các đại lượng có hai hướng ngược nhau, như:
+
+|              | Nhiệt độ dưới 0°C | Nhiệt độ trên 0°C |
+|--------------|--------------------|--------------------|
+| Độ cao      | Độ cao dưới mực nước biển | Độ cao trên mực nước biển |
+| Tiền bạc     | Số tiền nợ        | Số tiền có        |
+| Thị lực      | Độ cận thị         | Độ viễn thị        |
+| Thời gian    | Thời gian trước    | Thời gian sau      |
+
+Ví dụ: Nếu điểm A cách điểm mốc M về phía Bắc 3km được biểu thị là +3km, thì điểm B cách M về phía Nam 2km sẽ được biểu thị là -2km (xem hình 38).
+Đọc các số biểu thị các điểm C, D, E trong hình 38.
+
+Hình 38
+Hướng thường nhưng tập không phải hướng Công nguyên.
+
+================================================================================
+CHUNK 72/133
+================================================================================
+Page: 72
+Size: 1507 chars
+Type: full_page
+
+22. Một chú ốc sên sáng sớm ở vị trí điểm A trên cây cột cách mặt đất 2m (h.39). Ban ngày chú ốc sên bò lên được 3m. Đêm đó chú ta mệt quá "ngủ nên bị "tuột" xuống dưới
+a) 2m
+b) 4m.
+Hỏi hôm sau chú ốc sên cách mặt đất bao nhiêu mét trong mỗi trường hợp a), b) ?
+23.
+a) Ta có nhận xét gì về kết quả của 22 trên đây?
+b) Nếu coi A là điểm gốc và các vị trí phía trên điểm A được biểu thị bằng số dương (mét) và các vị trí nằm phía dưới điểm A được biểu thị bằng số âm (mét) thì các đáp số của 22 là bao nhiêu?
+
+Hình 39
+2. Số đối
+Trên trục số các điểm 1 và -1, 2 và -2, 3 và -3, cách đều điểm 0 và nằm về hai phía của điểm 0. Ta nói các số 1 và -1, 2 và -2, 3 và -3, là các số đối nhau.
+-1 là số đối của 1, 1 là số đối của -1, 2 là số đối của -2, -2 là số đối của 2.
+Trường hợp đặc biệt: Số đối của 0 là 0.
+24. Tìm số đối của mỗi số sau: 7, -3.
+Bài tập
+6. Đọc những điều ghi sau đây và cho biết điều đó có đúng hay không?
+$\mathbb{N} \subset \mathbb{Z}, 4 \in \mathbb{N}, 0 \in \mathbb{Z}, 5 \in \mathbb{N}, -1 \notin \mathbb{N}, \frac{1}{2} \notin \mathbb{N}$.
+7. Khi người ta nói độ cao của đỉnh núi Phan-xi-păng là +3143m và độ cao đáy của vịnh Cam Ranh là -30m thì dấu "+" và dấu "-" biểu thị điều gì?
+8. Điền cho đủ các câu sau:
+a) Nếu -5°C biểu diễn 5 độ dưới 0°C thì +5°C biểu diễn ...
+b) Nếu -65m biểu diễn độ sâu (của thềm lục địa Việt Nam) là 65m dưới mực nước biển thì +3143m biểu diễn độ cao (của đỉnh núi Phan-xi-păng) là ...
+c) Nếu -10 000 biểu diễn số tiền nợ 10 000 đồng thì 20 000 biểu diễn ...
+
+================================================================================
+CHUNK 73/133
+================================================================================
+Page: 73
+Size: 1254 chars
+Type: full_page
+
+9. Tìm số đối của +2, 5, -6, -1, -18.
+10. Trên hình 40 điểm A cách điểm mốc M về phía Tây 3km, ta quy ước "Điểm A được biểu thị là -3km". Tìm số biểu thị các điểm B, C.
+
+Hình 40
+§3. Thứ tự trong tập hợp các số nguyên
+1. So sánh hai số nguyên
+Ta đã biết trong hai số tự nhiên khác nhau có một số nhỏ hơn số kia và trên tia số (nằm ngang) điểm ở bên trái biểu diễn số nhỏ hơn. Chẳng hạn, rõ ràng 3 < 5 và trên hình 41 điểm 3 ở bên trái điểm 5.
+Đối với các số nguyên cũng vậy:
+Trong hai số nguyên khác nhau có một số nhỏ hơn số kia.
+Số nguyên a nhỏ hơn số nguyên b kí hiệu là a < b (cũng nói b lớn hơn a, kí hiệu b > a).
+Khi biểu diễn trên trục số (nằm ngang), điểm a nằm bên trái điểm b thì số nguyên a nhỏ hơn số nguyên b.
+Xem trục số nằm ngang (h.42). Điền các từ "bên trái", "lớn hơn", "nhỏ hơn" hoặc các dấu "<", ">" vào chỗ trống dưới đây cho đúng:
+
+Hình 42
+a) Điểm -5 nằm ... điểm -3, nên -5 ... -3, và viết: -5 ... -3;
+b) Điểm 2 nằm ... điểm -3, nên 2 ... -3, và viết: 2 ... -3;
+c) Điểm -2 nằm ... điểm 0, nên -2 ... 0, và viết: -2 ... 0.
+Chú ý: Số nguyên b gọi là số liền sau của số nguyên a nếu a < b và không có số nguyên nào nằm giữa a và b (lớn hơn a và nhỏ hơn b). Khi đó, ta nói a là số liền trước của b.
+Chẳng hạn -5 là số liền trước của -4.
+
+================================================================================
+CHUNK 74/133
+================================================================================
+Page: 74
+Size: 1069 chars
+Type: full_page
+
+22. So sánh:
+a) 2 và 7;
+b) -2 và -7;
+c) -4 và 2;
+d) -6 và 0;
+e) 4 và -2;
+g) 0 và 3.
+Nhận xét:
+- Mọi số nguyên dương đều lớn hơn số 0.
+- Mọi số nguyên âm đều nhỏ hơn số 0.
+- Mọi số nguyên âm đều nhỏ hơn bất kì số nguyên dương nào.
+2. Giá trị tuyệt đối của một số nguyên
+Trên trục số (h.43)
+
+Hình 43
+Ta thấy điểm -3 cách điểm 0 một khoảng là 3 (đơn vị), điểm 3 cũng cách điểm 0 một khoảng là 3 (đơn vị).
+23. Tìm khoảng cách từ mỗi điểm 1, -1, 5, -5, -3, 2, 0 đến điểm 0.
+Khoảng cách từ điểm a đến điểm 0 trên trục số là giá trị tuyệt đối của số nguyên a.
+Giá trị tuyệt đối của số nguyên a kí hiệu là |a| (đọc là "giá trị tuyệt đối của a").
+Ví dụ: |-13| = 13, |-20| = 20, |-75| = 75, |0| = 0.
+24. Tìm giá trị tuyệt đối của mỗi số sau: 1, -1, -5, 5, -3, 2.
+Nhận xét:
+- Giá trị tuyệt đối của số 0 là số 0.
+- Giá trị tuyệt đối của một số nguyên dương là chính nó.
+- Giá trị tuyệt đối của một số nguyên âm là số đối của nó (và là một số nguyên dương).
+- Trong hai số nguyên âm, số nào có giá trị tuyệt đối nhỏ hơn thì lớn hơn.
+- Hai số đối nhau có giá trị tuyệt đối bằng nhau.
+
+================================================================================
+CHUNK 75/133
+================================================================================
+Page: 75
+Size: 1254 chars
+Type: full_page
+
+Bài tập
+11. So sánh:
+a) 30 và -30;
+b) -6 và 0;
+c) 100 và -10;
+12.
+a) Sắp xếp các số nguyên sau theo thứ tự tăng dần: 2, -17, 5, 1, -2, 0.
+b) Sắp xếp các số nguyên sau theo thứ tự giảm dần: -101, 15, 0, 7, -8, 2001.
+13. Tìm $x \in \mathbb{Z}$, biết:
+a) -5 < x < 0;
+b) -3 < x < 3.
+14. Tìm giá trị tuyệt đối của mỗi số sau: 2000, -3011, -10.
+15. So sánh:
+a) |3| và |-5|;
+b) |-4| và |0|;
+c) |2| và |-2|.
+Luyện tập
+16. Điền chữ Đ (đúng) hoặc chữ S (sai) vào ô ☐ để có một nhận xét đúng:
+7 ∈ ℕ ☐; 7 ∈ ℤ ☐; 0 ∈ ℕ ☐; 0 ∈ ℤ ☐; -9 ∈ ℤ ☐; -9 ∈ ℕ ☐; 14,2 ∈ ℤ ☐.
+17. Có thể định nghĩa tập hợp ℤ bao gồm hai bộ phận là các số nguyên dương và các số nguyên âm được không? Tại sao?
+18.
+a) Số nguyên a lớn hơn 2. Số a có chắc chắn là số nguyên dương không?
+b) Số nguyên b nhỏ hơn 3. Số b có chắc chắn là số nguyên âm không?
+c) Số nguyên c lớn hơn -1. Số c có chắc chắn là số nguyên dương không?
+d) Số nguyên d nhỏ hơn -5. Số d có chắc chắn là số nguyên âm không?
+19. Điền dấu ">" hoặc "<" vào chỗ trống để được kết quả đúng:
+a) 0 ... 2;
+b) -15 ... 0;
+c) -10 ... -6;
+d) -3 ... -9.
+(Chú ý có thể có nhiều đáp số).
+20. Tính giá trị các biểu thức:
+a) |-8| - |-4|;
+b) |-7| . |-3|;
+c) |18| : |-6|;
+d) |53| + |-53|.
+21. Tìm số đối của mỗi số nguyên sau: 4, -4, 6, |-5|, -3, |4|.
+
+================================================================================
+CHUNK 76/133
+================================================================================
+Page: 76
+Size: 1149 chars
+Type: partial_page
+
+22.
+a) Tìm số liền sau của mỗi số nguyên sau: 2; -8; 0; -1.
+b) Tìm số liền trước của mỗi số nguyên sau: -4; 0; 1; -25.
+c) Tìm số nguyên a biết số liền sau a là một số nguyên dương và số liền trước a là một số nguyên âm.
+§4. Cộng hai số nguyên cùng dấu
+Làm thế nào để tìm được tổng của hai số nguyên âm?
+1. Cộng hai số nguyên dương
+Cộng hai số nguyên dương chính là cộng hai số tự nhiên khác 0: Chẳng hạn (+4) + (+2) = 4 + 2 = 6.
+Ta có thể minh họa phép cộng đó trên trục số như sau (h.44):
+
+Hình 44
+Bắt đầu từ điểm 0 di chuyển về bên phải (chiều dương) 4 đơn vị đến điểm +4, sau đó di chuyển tiếp 2 đơn vị về bên phải đến điểm +6.
+Điều đó có nghĩa là (+4) + (+2) = +6.
+2. Cộng hai số nguyên âm
+Trước tiên ta lưu ý trong thực tế có nhiều đại lượng thay đổi theo hai hướng ngược nhau như tăng và giảm, lên cao và xuống thấp. Ta có thể dùng các số dương và âm để biểu thị sự thay đổi đó.
+Ví dụ: Nhiệt độ ở Mát-xcơ-va vào một buổi trưa là -3°C. Hỏi nhiệt độ buổi chiều ngày hôm đó là bao nhiêu độ C, biết nhiệt độ giảm 2°C so với buổi trưa?
+Nhận xét: Ta có thể coi giảm 2°C có nghĩa là tăng -2°C, nên ta cần tính (-3) + (-2) = ?
+Sử dụng trục số như sau:
+
+================================================================================
+CHUNK 77/133
+================================================================================
+Page: 76
+Size: 866 chars
+Type: partial_page
+
+Hình 45
+Bắt đầu từ điểm 0 di chuyển về bên trái (chiều âm) 3 đơn vị đến điểm -3. Sau đó, di chuyển tiếp về bên trái 2 đơn vị (cộng với số âm, ta di chuyển theo chiều âm) đến điểm -5 (h.45).
+Giải: (-3) + (-2) = -5
+Trả lời: Nhiệt độ buổi chiều cùng ngày là -5°C.
+Tính và nhận xét kết quả của (-4) + (-5) và |-4| + |-5|.
+Quy tắc:
+Muốn cộng hai số nguyên âm, ta cộng hai giá trị tuyệt đối của chúng rồi đặt dấu "-" trước kết quả.
+Ví dụ: (-17) + (-54) = -(17 + 54) = -71.
+22. Thực hiện các phép tính:
+a) (+37) + (+81);
+b) (-23) + (-17).
+Bài tập
+23. Tính:
+a) 2763 + 152;
+b) (-7) + (-14);
+c) (-35) + (-9).
+24. Tính:
+a) (-5) + (-248);
+b) 17 + |-33|;
+c) |-37| + |+15|.
+25. Điền dấu ">", "<", "=" thích hợp vào ô vuông:
+a) (-2) + (-5) ☐ (-5);
+b) (-10) ☐ (-3) + (-8).
+26. Nhiệt độ hiện tại của phòng ướp lạnh là -5°C. Nhiệt độ tại đó sẽ là bao nhiêu độ C nếu nhiệt độ giảm 7°C?
+
+================================================================================
+CHUNK 78/133
+================================================================================
+Page: 77
+Size: 1232 chars
+Type: full_page
+
+§5. Cộng hai số nguyên khác dấu
+Cộng hai số nguyên khác dấu như thế nào?
+1. Ví dụ
+Nhiệt độ trong phòng ướp lạnh vào buổi sáng là 3°C, buổi chiều ngày hôm đó đã giảm 5°C. Hỏi nhiệt độ trong phòng ướp lạnh chiều hôm đó là bao nhiêu độ C?
+
+Hình 46
+Nhận xét: Giảm 5°C có nghĩa là tăng -5°C, nên ta cần tính (+3) + (-5) = ?
+Giải: (+3) + (-5) = -2 (h.46).
+Trả lời: Nhiệt độ trong phòng ướp lạnh buổi chiều hôm đó là: -2°C.
+21. Tìm và so sánh kết quả của (-3) + (+3) và (+3) + (-3).
+22. Tìm và nhận xét kết quả của:
+a) 3 + (-6) và |-6| - |3|;
+b) (-2) + (+4) và |+4| - |-2|.
+2. Quy tắc cộng hai số nguyên khác dấu
+- Hai số nguyên đối nhau có tổng bằng 0.
+- Muốn cộng hai số nguyên khác dấu không đối nhau, ta tìm hiệu hai giá trị tuyệt đối của chúng (số lớn trừ số nhỏ) rồi đặt trước kết quả tìm được dấu của số có giá trị tuyệt đối lớn hơn.
+Ví dụ: (-273) + 55 = -(273 - 55) (vì 273 > 55) = -218.
+23. Tính:
+a) (-38) + 27;
+b) 273 + (-123).
+Bài tập
+27. Tính:
+a) 26 + (-6);
+b) (-75) + 50;
+c) 80 + (-220).
+28. Tính:
+a) (-73) + 0;
+b) |-18| + (-12);
+c) 102 + (-120).
+29. Tính và nhận xét kết quả của:
+a) 23 + (-13) và (-23) + 13;
+b) (-15) + (+15) và 27 + (-27).
+30. So sánh:
+a) 1763 + (-2) và 1763;
+b) (-105) + 5 và -105;
+c) (-29) + (-11) và -29.
+
+================================================================================
+CHUNK 79/133
+================================================================================
+Page: 78
+Size: 1024 chars
+Type: full_page
+
+Luyện tập
+31. Tính:
+a) (-30) + (-5);
+b) (-7) + (-13);
+c) (-15) + (-235).
+32. Tính:
+a) 16 + (-6);
+b) 14 + (-6);
+c) (-8) + 12.
+33. Điền số thích hợp vào ô ☐:
+
+| a    | -2  | 18  | 12  | -5  | ☐   |
+|------|-----|-----|-----|-----|-----|
+| b    | ☐   | ☐   | ☐   | ☐   | 418 |
+| a + b| -10 | ☐   | ☐   | ☐   | ☐   |
+
+34. Tính giá trị của biểu thức:
+a) x + (-16), biết x = -4;
+b) (-102) + y, biết y = 2.
+35. Số tiền của ông Nam năm nay so với năm ngoái tăng hay giảm bao nhiêu, biết:
+a) Số tiền của Nam năm nay so với năm ngoái tăng 5 triệu đồng;
+b) Số tiền của Nam năm nay so với năm ngoái giảm 2 triệu đồng.
+§6. Tính chất của phép cộng các số nguyên
+Các tính chất của phép cộng trong ℕ có còn đúng trong ℤ?
+1. Tính chất giao hoán
+31. Tính và so sánh kết quả:
+a) (-2) + (-3) và (-3) + (-2);
+b) (-5) + (+7) và (+7) + (-5);
+c) (-8) + (+4) và (+4) + (-8).
+Phép cộng các số nguyên cũng có tính chất giao hoán, nghĩa là:
+a + b = b + a
+2. Tính chất kết hợp
+32. Tính và so sánh kết quả: [(-3) + 4] + 2; (-3) + (4 + 2); [(-3) + 2] + 4.
+
+================================================================================
+CHUNK 80/133
+================================================================================
+Page: 79
+Size: 1079 chars
+Type: full_page
+
+Tính chất kết hợp của phép cộng các số nguyên:
+(a + b) + c = a + (b + c)
+Chú ý: Kết quả trên còn đúng với tổng của ba số a, b, c và ta có thể nói đến tổng của bốn, năm,... số nguyên:
+Khi thực hiện cộng nhiều số ta có thể đổi tùy ý thứ tự các số hạng, nhóm các số hạng một cách tùy ý bằng các dấu ( ), [ ], { }.
+3. Cộng với số 0
+a + 0 = 0 + a = a
+4. Cộng với số đối
+Số đối của số nguyên a được kí hiệu là -a. Khi đó số đối của (-a) là a, nghĩa là: -(-a) = a.
+Rõ ràng:
+- Nếu a là số nguyên dương thì -a là số nguyên âm, chẳng hạn a = 3 thì -a = -3.
+- Nếu a là số nguyên âm thì -a là số nguyên dương, chẳng hạn a = -5 thì -a = -(-5) = 5 (vì 5 là số đối của -5).
+Số đối của số 0 vẫn là 0, nên -0 = 0.
+Ta có: Tổng của hai số nguyên đối nhau luôn bằng 0.
+a + (-a) = 0
+Ngược lại, nếu tổng của hai số nguyên bằng 0 thì chúng là hai số đối nhau.
+Nếu a + b = 0 thì b = -a và a = -b.
+33. Tìm tổng của tất cả các số nguyên a, biết -3 < a < 3.
+Bài tập
+36. Tính:
+a) 126 + (-20) + 2004 + (-106) =
+b) (-199) + (-200) + (-201) =
+37. Tìm tất cả các số nguyên x, biết:
+a) -4 < x < 3;
+b) -5 < x < 5.
+
+================================================================================
+CHUNK 81/133
+================================================================================
+Page: 80
+Size: 1104 chars
+Type: full_page
+
+Tính chất kết hợp của phép cộng các số nguyên (a + b) + c =a + (b + c) Chúý : Kết Iren còn là của ba số à, b, C và 1 + b + c. tu, ta có thể nói dén tổng của bốn, năm, số nguyên: Khi thực hiện cộng nhiểu số ta có thể đổi tuỳ ý thứ tự các số hạng. nhóm các số hạng một cách tuỳ ý các dấu ( ) [ ], ( } 3 Cộng với số 0 9 + 0 = 0 +a =a 4 Cộng với số đối Số đối của số nguyên a được kí hiệu là ~a. Khi đó số đối của (~a) là a nghĩa là : ~~a) = a. Rõ Nẽu a là số nguyên dương thì ~a là số nguyên âm, chẳng hạn 3 thì ~a = -3 Nếu a là số nguyên âm thì =a là số nguyên dương, chẳng hạn a = -5 thì ~a =- (-5)=5 (vì 5 là s6 đối của ~5). SỐ dối của số 0 vẫn là 0, nen = 0 =0. Ta có : Tổng cùa hui số nguyên đối nhau luôn 0. 9 + (-a) = 0 Nguợc lại, neu của hai số nguyên 0 thì là hai số đối nhav Nếu a + b = 0 thì b = -a và a = -b_ 23 Tìm của 1ấ tả các số nguyên a, hiết -3 < a < 3. Bài tập 36. Tính a) 126 + (~20) + 2004 + (-106) = b) (-199) + (~200) + (~20/) 37 . Tìm tất cả các số nguyên x, biết a) - 4 < X < 3 ; b) -5 < x < 5. 78 qua tong viji Tuung gọi thay bằng cũng ràng - a = bằng  tổng bàng' chúng tổng - 16ng
+
+================================================================================
+CHUNK 82/133
+================================================================================
+Page: 81
+Size: 523 chars
+Type: full_page
+
+38. Chiếc diều của bạn Minh cao 15m (so với mặt đất). Sau một lúc, độ cao của chiếc diều tăng 2m, rồi sau đó lại tăng 3m. Hỏi chiếc diều ở độ cao bao nhiêu (so với mặt đất) sau hai lần đổi (h.47)?
+Hình 47
+39. Tính
+a) 1 + (-3) + 5 + (-7) + 9 + (-11) ;
+b) (-2) + 4 + (-6) + 8 + (-10) + 12
+40. Điền số thích hợp vào ô trống:
+|a| = 22 15
+Luyện tập
+41. Tính
+a) (-38) + 28 ;
+b) 273 + (-123) ;
+c) 99 + (-100) + 101 .
+42. Tính nhanh
+a) 217 + [43 + (-217) + (-23)] ;
+b) Tổng của tất cả các số nguyên có giá trị tuyệt đối nhỏ hơn 10.
+
+================================================================================
+CHUNK 83/133
+================================================================================
+Page: 82
+Size: 959 chars
+Type: full_page
+
+43. Hai ca nô cùng xuất phát từ C đi về A hoặc B (h.48). Ta quy ước chiều từ C đến B là chiều dương (nghĩa là vận tốc và quãng đường đi từ C về B được biểu thị bằng số dương và theo chiều ngược lại là số âm).
+Hỏi sau một giờ hai ca nô cách nhau bao nhiêu kilômét nếu vận tốc của chúng lần lượt là:
+a) 10km/h và 7km/h ?
+b) 10km/h và -7km/h ?
+Hình 48
+44. Hình 49 biểu diễn một người đi từ C đến A rồi quay về B. Đặt một bài toán với hình đó.
+Hình 49
+45. Đố vui
+Hai bạn Hùng và Vân tranh luận với nhau. Hùng nói: "Không thể có hai số nguyên mà tổng của chúng nhỏ hơn mỗi số". Vân lại nói: "Có thể có được". Theo bạn ai đúng? Nêu một ví dụ.
+46. Sử dụng máy tính bỏ túi
+Nút +/- để đổi dấu thành + và ngược lại.
+
+| Phép tính | Nút ấn | Kết quả |
+|---|---|---|
+| 25 + (-13) | 25 + 13 +/- = | 12 |
+| (-76) + 20 | 76 +/- + 20 = | -56 |
+| (-135) + (-65) | 135 +/- + 65 +/- = | -200 |
+
+Dùng máy tính bỏ túi để tính:
+a) 187 + (-54) ;
+b) (-203) + 349 ;
+c) (-175) + (-213).
+
+================================================================================
+CHUNK 84/133
+================================================================================
+Page: 83
+Size: 1144 chars
+Type: full_page
+
+S7. Phép trừ hai số nguyên
+1. Hiệu của hai số nguyên
+Ta đã biết phép trừ hai số tự nhiên (số bị trừ lớn hơn hoặc bằng số trừ). Còn phép trừ hai số nguyên sẽ như thế nào ?
+Hãy quan sát ba dòng đầu và dự đoán kết quả tương tự ở hai dòng cuối:
+a) 3 - 1 = 3 + (-1)
+3 - 2 = 3 + (-2)
+3 - 3 = 3 + (-3)
+3 - 4 = ?
+3 - 5 = ?
+
+b) 2 - 2 = 2 + (-2)
+2 - 1 = 2 + (-1)
+2 - 0 = 2 + 0
+2 - (-1) = ?
+2 - (-2) = ?
+
+Ta có quy tắc:
+Muốn trừ số nguyên a cho số nguyên b, ta cộng a với số đối của b.
+Như vậy, hiệu của hai số nguyên a và b là tổng của a và số đối của b.
+Hiệu của hai số nguyên a và b vẫn kí hiệu là a - b và đọc là a trừ b.
+a - b = a + (-b)
+Ví dụ:
+3 - 8 = 3 + (-8) = -5
+(-3) - (-8) = (-3) + (+8) = +5.
+Nhận xét:
+Ở §4 ta đã quy ước nhiệt độ giảm 3°C nghĩa là nhiệt độ tăng -3°C. Điều đó hoàn toàn phù hợp với quy tắc trừ trên đây.
+2. Ví dụ
+Nhiệt độ ở Sa Pa hôm qua là 3°C, hôm nay nhiệt độ giảm 4°C. Hỏi nhiệt độ hôm nay ở Sa Pa là bao nhiêu độ C ?
+Giải
+Do nhiệt độ giảm 4°C, nên ta có:
+3 - 4 = 3 + (-4) = -1
+Trả lời: Vậy nhiệt độ hôm nay ở Sa Pa là -1°C.
+Nhận xét
+Phép trừ trong N không phải bao giờ cũng thực hiện được, còn trong Z luôn thực hiện được.
+
+================================================================================
+CHUNK 85/133
+================================================================================
+Page: 84
+Size: 745 chars
+Type: full_page
+
+Bài tập
+47. Tính:
+2 - 7 = ? ;
+1 - (-2) = ?
+(-3) - 4 = ? ;
+(-3) - (-4) = ?
+48. 0 - 7 = ? ;
+7 - 0 = ? ;
+a - 0 = ? ;
+0 - a = ?
+49. Điền số thích hợp vào ô trống:
+-(-3) = 15
+50. Đố
+Dùng các số 2, 3, 9 và các phép toán điền vào các ô trống trong bảng sau đây để được tính đúng. Ở mỗi hàng hoặc mỗi cột, mỗi số và phép tính chỉ được dùng một lần.
+
+|   |   |   | = 4 |
+|---|---|---|---|
+|   | x | 3 | = 15 |
+| x |   |   | = 27 |
+| 25 | 29 | 10 |   |
+
+Luyện tập
+51. Tính
+a) 5 - (7 - 9) ;
+b) (-3) - (4 - 6).
+52. Tính tuổi thọ của nhà bác học Ác-si-mét, biết sinh năm -287 và mất năm -212.
+53. Điền số thích hợp vào ô trống:
+
+| 72 | 9 | 3 |
+|---|---|---|
+| 21 | 8 | 15 |
+| x | = | y |
+
+54. Tìm số nguyên x, biết
+a) 2 + x = 3 ;
+b) x + 6 = 0 ;
+c) x + 7 = 1.
+
+================================================================================
+CHUNK 86/133
+================================================================================
+Page: 85
+Size: 829 chars
+Type: full_page
+
+55. Đố vui
+Ba bạn Hoa, Lan tranh luận với nhau. Hoa nói rằng: "Không thể tìm được hai số nguyên mà hiệu của chúng lớn hơn số bị trừ". Lan lại nói: "Còn có thể tìm được hai số nguyên mà hiệu của chúng lớn hơn cả số bị trừ và số trừ". Bạn đồng ý với ý kiến của ai ? Vì sao ? Cho ví dụ.
+56. Sử dụng máy tính bỏ túi
+
+| Phép tính | Nút ấn | Kết quả |
+|---|---|---|
+| 37 - 105 | 37 - 105 = | -68 |
+| 102 - (-5) | 102 - 5 +/- = | 107 |
+| 69 - (-9) | 69 - 9 +/- = | 78 |
+
+Dùng máy tính bỏ túi để tính
+a) 169 - 733 ;
+b) 53 - (-478) ;
+c) -135 - (-1936)
+S8. Quy tắc dấu ngoặc
+Hãy cẩn thận khi dấu "-" đứng trước dấu ngoặc !
+1. Quy tắc dấu ngoặc
+a) Tìm số đối của 2, (-5), 2 + (-5) ;
+b) So sánh số đối của 2 + (-5) với các số đối của 2 và (-5).
+2. Tính và so sánh kết quả của
+a) 7 + (5 - 13) và 7 + 5 + (-13) ;
+b) 12 - (4 - 6) và 12 - 4 + 6.
+
+================================================================================
+CHUNK 87/133
+================================================================================
+Page: 86
+Size: 1414 chars
+Type: full_page
+
+Các kết quả trên đã minh họa cho quy tắc sau:
+* Khi bỏ dấu ngoặc có dấu "-" trước, ta phải đổi dấu tất cả các số hạng trong dấu ngoặc: dấu "+" thành dấu "-" và dấu "-" thành dấu "+".
+* Khi bỏ dấu ngoặc có dấu "+" trước thì dấu của các số hạng trong ngoặc vẫn giữ nguyên.
+Ví dụ:
+Tính nhanh
+a) 324 + [112 - (112 + 324)]
+b) (-257) - [(-257 + 156) - 56].
+Giải
+a) 324 + [112 - (112 + 324)]
+= 324 + [112 - 112 - 324]
+= 324 - 324 = 0
+
+b) (-257) - [(-257 + 156) - 56]
+= -257 - (-257 + 156) + 56
+= -257 + 257 - 156 + 56
+= -100.
+2.3 Tính nhanh
+a) (768 - 39) - 768
+b) (-1579) - (12 - 1579).
+2.4 Đại số
+Vì phép trừ có thể diễn tả thành phép cộng (cộng với số đối của số trừ) nên một dãy các phép tính cộng, trừ các số nguyên được gọi là một tổng đại số.
+Khi viết một tổng đại số, để cho đơn giản sau khi chuyển các phép trừ thành phép cộng (với số đối) ta có thể bỏ tất cả các dấu "+" của phép cộng và dấu ngoặc.
+Chẳng hạn:
+5 + (-3) - (-6) - (+7) = 5 + (-3) + (+6) + (-7) = 5 - 3 + 6 - 7.
+Nhờ các tính chất giao hoán, kết hợp và quy tắc dấu ngoặc ta có các kết luận sau:
+* Trong một tổng đại số, ta có thể:
+    * Thay đổi tuỳ ý vị trí các số hạng kèm theo dấu của chúng:
+        Chẳng hạn: a - b - c = -b + a - c = -b - c + a
+        97 + 150 - 47 = 97 - 47 + 150 = 50 + 150 = -100
+    * Đặt dấu ngoặc để nhóm các số hạng một cách tuỳ ý với chú ý nếu trước dấu ngoặc là dấu "-" thì phải đổi dấu tất cả các số hạng trong ngoặc.
+
+================================================================================
+CHUNK 88/133
+================================================================================
+Page: 87
+Size: 677 chars
+Type: full_page
+
+Chẳng hạn:
+a - b - c = (a - b) - c = a - (b + c)
+284 - 75 - 25 = 284 - (75 + 25) = 284 - 100 = 184.
+Chú ý: Nếu không sợ nhầm lẫn, ta có thể nói gọn tổng đại số là tổng.
+Bài tập
+57. Tính
+a) (-17) + 5 + 8 + 17 ;
+b) 30 + 12 + (-20) + (-12) ;
+c) (-4) + (-440) + (-6) + 440 ;
+d) (-5) + (-10) + 16 + (-1).
+58. Đơn giản biểu thức
+a) x + 22 + (-14) + 52 ;
+b) (-90) - (p + 10) + 100.
+59. Tính nhanh các tổng sau
+a) (2736 - 75) - 2736
+b) (-2002) - (57 - 2002)
+60. Bỏ dấu ngoặc rồi tính
+a) (27 + 65) + (346 - 27 - 65)
+b) (42 - 69 + 17) - (42 + 17).
+S9. Quy tắc chuyển vế
+A + B + C = D => A + B = D - C
+1. Tính chất của đẳng thức
+Từ hình 50 dưới đây ta có thể rút ra nhận xét gì ?
+
+Hình 50
+
+================================================================================
+CHUNK 89/133
+================================================================================
+Page: 88
+Size: 891 chars
+Type: full_page
+
+Khi biến đổi các đẳng thức, ta áp dụng các tính chất sau:
+* Nếu a = b thì a + c = b + c
+* Nếu a + c = b + c thì a = b
+* Nếu a = b thì b = a.
+2. Ví dụ
+Tìm số nguyên x, biết
+x - 2 = -3 ;
+Giải
+x - 2 = -3
+x - 2 + 2 = -3 + 2
+x = -3 + 2
+x = -1
+2.2 Tìm số nguyên x, biết:
+x + 4 = -2
+3. Quy tắc chuyển vế
+Khi chuyển một số hạng từ vế này sang vế kia của một đẳng thức, ta phải đổi dấu số hạng đó: dấu "+" đổi thành dấu "-" và dấu "-" đổi thành dấu "+".
+Ví dụ
+Tìm số nguyên x, biết
+a) x - 2 = -6 ;
+b) x + (-4) = 1.
+Giải
+a) x - 2 = -6
+x = -6 + 2
+x = -4
+
+b) x + (-4) = 1
+x + 4 = 1
+x = 1 - 4
+x = -3.
+2.3 Tìm số nguyên x, biết:
+x + 8 = (-5) + 4.
+Nhận xét
+Ta đã biết a - b = a + (-b) nên (a - b) + b = a + [(-b) + b] = a + 0 = a.
+Ngược lại, nếu x + b = a thì sau khi chuyển vế, ta được x = a - b.
+Vì hiệu a - b là số mà khi cộng số đó với b sẽ được a, có thể nói phép trừ là phép toán ngược của phép cộng.
+
+================================================================================
+CHUNK 90/133
+================================================================================
+Page: 89
+Size: 1203 chars
+Type: full_page
+
+Bài tập
+61. Tìm số nguyên x, biết
+a) 7 - x = 8 - (-7) ;
+b) x - 8 = (-3) - 8
+62. Tìm số nguyên a, biết
+a) | a | = 2;
+b) | a + 2 | = 0.
+63. Tìm số nguyên x, biết tổng của ba số: 3, -2 và x bằng 5.
+64. Cho a ∈ Z. Tìm số nguyên x, biết
+a) a + x = 5 ;
+b) a - x = 2
+65. Cho a, b ∈ Z. Tìm số nguyên x, biết
+a) a + x = b ;
+b) a - x = b.
+Luyện tập
+66. Tìm số nguyên x, biết
+4 - (27 - 3) = x - (13 - 4).
+67. Tính
+a) (-37) + (-112) ;
+b) (-42) + 52 ;
+c) 13 - 31 ;
+d) 14 - 24 - 12 ;
+e) (-25) + 30 - 15.
+68. Một đội bóng đá năm ngoái ghi được 27 bàn và để thủng lưới 48 bàn. Năm nay đội ghi được 39 bàn và để thủng lưới 24 bàn. Tính hiệu số bàn thắng - thua của đội đó trong mỗi mùa giải.
+69. Trong bảng dưới đây có nhiệt độ cao nhất và nhiệt độ thấp nhất của một số thành phố vào một ngày nào đó. Hãy ghi vào cột bên số độ chênh lệch (nhiệt độ cao nhất trừ nhiệt độ thấp nhất) trong ngày đó của mỗi thành phố.
+
+| Thành phố | Nhiệt độ cao nhất | Nhiệt độ thấp nhất | Chênh lệch nhiệt độ |
+|---|---|---|---|
+| Hà Nội | 25°C | 16°C |   |
+| Bắc Kinh | -1°C | -7°C |   |
+| Mát-xcơ-va | -2°C | -16°C |   |
+| Pa-ri | 12°C | 2°C |   |
+| Tô-ky-ô | 8°C | 4°C |   |
+| Tô-rôn-tô | 2°C | -5°C |   |
+| Niu-yoóc | 12°C | -1°C |   |
+
+================================================================================
+CHUNK 91/133
+================================================================================
+Page: 90
+Size: 790 chars
+Type: full_page
+
+70. Tính các tổng sau một cách hợp lí:
+a) 3784 + 23 - 3785 - 15 ;
+b) 21 + 22 + 23 + 24 - 11 - 12 - 13 - 14
+71. Tính nhanh
+a) -2001 + (1999 + 2001)
+b) (43 - 863) - (137 - 57)
+72. Đố
+Cho chín tấm bìa có ghi số và chia thành ba nhóm như hình 51. Hãy chuyển một tấm bìa từ nhóm này sang nhóm khác sao cho các số trong mỗi nhóm đều bằng nhau.
+Hình 51
+S10. Nhân hai số nguyên khác dấu
+Hãy nhớ:
+Số âm x Số dương = Số âm
+Nhận xét mở đầu
+1. Hoàn thành phép tính
+(-3) . 4 = (-3) + (-3) + (-3) + (-3) = ...
+2. Theo cách trên, hãy tính
+(-5) . 3 = ...
+2 . (-6) = ...
+3. Em có nhận xét gì về giá trị tuyệt đối và về dấu của tích hai số nguyên khác dấu ?
+Quy tắc nhân hai số nguyên khác dấu
+Muốn nhân hai số nguyên khác dấu, ta nhân hai giá trị tuyệt đối của chúng rồi đặt dấu "-" trước kết quả nhận được.
+
+================================================================================
+CHUNK 92/133
+================================================================================
+Page: 91
+Size: 1316 chars
+Type: full_page
+
+Chú ý: Tích của một số nguyên $a$ với số 0 bằng 0.
+
+Ví dụ: Một công ty hưởng lương theo sản phẩm. Làm ra một sản phẩm đúng quy cách được 20 000, làm ra một sản phẩm sai quy cách bị phạt 10 000. Tháng vừa qua công nhân A làm ra được 40 sản phẩm đúng quy cách và 10 sản phẩm sai quy cách. Hỏi lương của công nhân vừa qua là bao nhiêu tiền?
+
+Giải:
+Khi một sản phẩm sai quy cách bị trừ 10 000, điều đó có nghĩa là được thêm -10 000.
+Vì vậy, lương của công nhân vừa qua là:
+$40 . 20 000 + 10 . (-10 000) = 700 000$ (đồng)
+
+24. Tính:
+a) $5 . (-14)$;
+b) $(-25) . 12$
+
+Bài tập
+73. Thực hiện phép tính:
+a) $(-5) . 6$;
+b) $9 . (-3)$;
+c) $(-10) . 11$;
+d) $150 . (-4)$
+
+74. Tính $125 . 4$. Từ đó suy ra kết quả của:
+a) $(-125) . 4$;
+b) $(-4) . 125$;
+c) $4 . (-125)$.
+
+75. So sánh:
+a) $(-67) . 8$ với 0;
+b) $15 . (-3)$ với 15;
+c) $(-7) . 2$ với -7.
+
+76. Điền vào ô trống:
+
+| x    | 6   | 4   | 18  | -25 | -7  | 10  | -10 |
+| ---- | --- | --- | --- | ---- | --- | --- | ---- |
+| y    |     |     |     |      |     |     |      |
+| x.y  |     | 180 |     | 1000 |     |     |      |
+
+77. Một xí nghiệp may mỗi ngày được 250 bộ áo. Khi may theo một mốt mới, chiều dài của vải để may một bộ áo tăng $x$ dm (khổ vải như cũ). Hỏi chiều dài của vải dùng để may 250 bộ áo mỗi ngày tăng bao nhiêu đêximét, biết:
+a) $x = 3$?
+b) $x = -2$?
+
+================================================================================
+CHUNK 93/133
+================================================================================
+Page: 92
+Size: 778 chars
+Type: full_page
+
+§11. Nhân hai số nguyên cùng dấu
+
+Số âm $\times$ Số âm = Số dương
+Thật là dễ nhớ!
+
+1. Nhân hai số nguyên dương
+Ta đã biết nhân hai số nguyên dương (hai số tự nhiên khác 0).
+Tính:
+a) $12 . 3$;
+b) $5 . 120$.
+
+2. Nhân hai số nguyên âm
+?2 Hãy quan sát kết quả bốn tích đầu và dự đoán kết quả của hai tích cuối:
+$3 . (-4) = -12$
+$2 . (-4) = -8$
+$1 . (-4) = -4$
+$0 . (-4) = 0$
+$(-1) . (-4) = ?$
+$(-2) . (-4) = ?$
+
+Quy tắc:
+Muốn nhân hai số nguyên âm, ta nhân hai giá trị tuyệt đối của chúng.
+
+Ví dụ:
+Tính $(-4) . (-25)$.
+Giải:
+$(-4) . (-25) = 4 . 25 = 100$
+
+Nhận xét:
+Tích của hai số nguyên âm là một số nguyên dương.
+
+23. Tính:
+a) $5 . 17$;
+b) $(-15) . (-6)$
+
+3. Kết luận
+$a . 0 = 0 . a = 0$
+Nếu $a, b$ cùng dấu thì $a . b = |a| . |b|$
+Nếu $a, b$ khác dấu thì $a . b = - (|a| . |b|)$
+
+================================================================================
+CHUNK 94/133
+================================================================================
+Page: 93
+Size: 1080 chars
+Type: full_page
+
+Chú ý:
+Cách nhận biết dấu của tích:
+(+) . (+) $\rightarrow$ (+)
+(-) . (-) $\rightarrow$ (+)
+(+) . (-) $\rightarrow$ (-)
+(-) . (+) $\rightarrow$ (-)
+
+Nếu $a . b = 0$ thì hoặc $a = 0$ hoặc $b = 0$.
+Khi đổi dấu một thừa số thì tích đổi dấu.
+Khi đổi dấu hai thừa số thì tích không thay đổi.
+
+24. Cho $a$ là một số nguyên dương. Hỏi $b$ là số nguyên dương hay nguyên âm nếu:
+a) Tích $a . b$ là một số nguyên dương?
+b) Tích $a . b$ là một số nguyên âm?
+
+Bài tập
+78. Tính:
+a) $(+3) . (+9)$;
+b) $(-3) . 7$;
+c) $13 . (-5)$;
+d) $(-150) . (-4)$;
+e) $(+7) . (-5)$.
+
+79. Tính $27 . (-5)$. Từ đó suy ra các kết quả:
+$(+27) . (+5)$;
+$(-27) . (+5)$;
+$(-27) . (-5)$;
+$(+5) . (-27)$
+
+80. Cho $a$ là một số nguyên âm. Hỏi $b$ là số nguyên âm hay số nguyên dương nếu biết:
+a) $a . b$ là một số nguyên dương?
+b) $a . b$ là một số nguyên âm?
+
+81. Trong trò chơi bắn bi vào các hình tròn vẽ trên mặt đất (h.52), bạn Sơn bắn được ba viên điểm 5, một viên 10 điểm, một viên 0 điểm và hai viên điểm -2; bạn Dũng bắn được hai viên điểm 10, một viên điểm -2 và ba viên điểm -4. Hỏi bạn nào được điểm cao hơn?
+
+================================================================================
+CHUNK 95/133
+================================================================================
+Page: 94
+Size: 1540 chars
+Type: full_page
+
+82. So sánh:
+a) $(-7) . (-5)$ với 0;
+b) $(-17) . 5$ với $(-5) . (-2)$;
+c) $(+19) . (+6)$ với $(-17) . (-10)$.
+
+83. Giá trị của biểu thức $(x - 2) (x + 4)$ khi $x = -1$ là số nào trong bốn đáp số A, B, C, D dưới đây:
+A. 9
+B. -9
+C. 5
+D. -5
+
+Có thể em chưa biết
+SỐ ÂM: CUỘC HÀNH TRÌNH 20 THẾ KỈ
+Các số âm xuất hiện từ thế kỉ III trước Công nguyên trong bộ sách "Toán thư cửu chương" của Trung Quốc. Khi đó, số dương được hiểu như số "tiền lãi", số "tiền có", còn số âm được hiểu như số "tiền lỗ", số "tiền nợ". Tác giả đã nêu quy tắc cộng hai số âm như sau: "Một món nợ thêm một món nợ khác nữa, thì kết quả là một món nợ". Khi đó còn chưa có dấu, người Trung Quốc dùng màu mực khác để viết các số chỉ số tiền nợ, tiền lỗ để phân biệt với các số chỉ số tiền có, tiền lãi.
+Mặc dù các nhà toán học thời cổ cố tránh số âm, nhưng thực tế đời sống đã đặt ra hết bài toán này đến bài toán khác mà đáp số nhận được là các số âm. Vậy, các số âm vẫn phải trải qua nhiều khó khăn trong một thời gian dài mới khẳng định được địa vị của mình. Mãi đến thế kỉ XVII, Đê-các (Descartes 1596 - 1650) (nhà toán học người Pháp) mới đề nghị biểu diễn số âm trên trục số vào bên trái điểm 0 và từ đó số âm mới dần dần có quyền bình đẳng với số dương.
+
+Luyện tập
+84. Điền các dấu thích hợp vào ô trống:
+
+| Dấu của a | Dấu của b | Dấu của a . b |
+| ---------- | ---------- | ------------- |
+| +          | +          |               |
+| -          | -          |               |
+| +          | -          |               |
+| -          | +          |               |
+
+================================================================================
+CHUNK 96/133
+================================================================================
+Page: 95
+Size: 1199 chars
+Type: full_page
+
+85. Tính:
+a) $(-25) . 8$;
+b) $18 . (-15)$;
+c) $(-1500) . (-100)$;
+d) $(-13) . 8$
+
+86. Điền số vào ô trống:
+
+| a    | 4   | 15  | 13  | -7  | -8  |
+| ---- | --- | --- | --- | --- | --- |
+| b    |     |     |     |     |     |
+| a.b  | -39 | 28  | -36 | 8   |     |
+
+87. Biết rằng $3^2 = 9$. Có còn số nguyên nào khác mà bình phương của nó bằng 9?
+
+88. Cho $x \in \mathbb{Z}$, so sánh $(-5) . x$ với 0.
+
+89. Sử dụng máy tính bỏ túi
+
+| Phép tính        | Nút ấn                               | Kết quả |
+| ---------------- | ------------------------------------- | ------- |
+| $(-21) . (-3)$  | $(-)$ 21 $\times$ $(-)$ 3              | 63      |
+| $(-7) . 8$       | $(-)$ 7 $\times$ 8                     | -56     |
+| $(-5) . 8$       | $(-)$ 5 $\times$ 8                     | -40     |
+| $255 . (-17)$   | 255 $\times$ $(-)$ 17                 | -4335   |
+| $(-17) . (-15)$ | $(-)$ 17 $\times$ $(-)$ 15              | 255     |
+
+Dùng máy tính bỏ túi để tính:
+a) $(-1356) . 17$;
+b) $39 . (-152)$;
+c) $(-1909) . (-75)$.
+
+§12. Tính chất của phép nhân
+Các tính chất của phép nhân trong $\mathbb{N}$ có còn đúng trong $\mathbb{Z}$?
+Phép nhân các số nguyên có các tính chất như phép nhân các số tự nhiên.
+
+================================================================================
+CHUNK 97/133
+================================================================================
+Page: 96
+Size: 1165 chars
+Type: full_page
+
+1. Tính chất giao hoán
+$a . b = b . a$
+
+Ví dụ:
+$2 . (-3) = (-3) . 2 = (-6)$;
+$(-7) . (-4) = (-4) . (-7) = 28$.
+
+2. Tính chất kết hợp
+$(a . b) . c = a . (b . c)$
+
+Ví dụ:
+$[9 . (-5)] . 2 = 9 . [(-5) . 2] = -90$.
+
+Chú ý:
+Nhờ tính chất kết hợp, ta có thể nói đến tích của ba, bốn, năm,... số nguyên:
+Chẳng hạn: $a . b . c = a . (b . c) = (a . b) . c$.
+Khi thực hiện phép nhân nhiều số nguyên, ta có thể dựa vào các tính chất giao hoán và kết hợp để thay đổi vị trí các thừa số, đặt dấu ngoặc để nhóm các thừa số một cách tuỳ ý.
+
+Ta gọi tích của $n$ số nguyên $a$ là lũy thừa $n$ của số nguyên $a$ (cách đọc và kí hiệu như đối với số tự nhiên).
+Ví dụ: $(-2) . (-2) . (-2) = (-2)^3$.
+
+?1 Tích một số chẵn các thừa số nguyên âm có dấu gì?
+?2 Tích một số lẻ các thừa số nguyên âm có dấu gì?
+
+Nhận xét:
+Trong một tích các số nguyên khác 0:
+a) Nếu có một số chẵn thừa số nguyên âm thì tích mang dấu (+).
+b) Nếu có một số lẻ thừa số nguyên âm thì tích mang dấu (-).
+
+3. Nhân với số 1
+$a . 1 = 1 . a = a$
+?3 $a . (-1) = (-1) . a = ?$
+
+24. Đố:
+Bình nói bạn ấy đã nghĩ ra được hai số nguyên khác nhau nhưng bình phương của chúng lại bằng nhau. Bạn Bình nói có đúng không? Vì sao?
+
+================================================================================
+CHUNK 98/133
+================================================================================
+Page: 97
+Size: 986 chars
+Type: full_page
+
+4. Tính chất phân phối của phép nhân đối với phép cộng
+$a(b + c) = ab + ac$
+
+Chú ý:
+Tính chất trên cũng đúng đối với phép trừ:
+$a(b - c) = ab - ac$
+
+?5 Tính hai cách và so sánh kết quả:
+a) $(-8) . (5 + 3)$;
+b) $(-3 + 3) . (-5)$.
+
+Bài tập
+90. Thực hiện các phép tính:
+a) $15 . (-2) . (-5) . (-6)$;
+b) $4 . 7 . (-11) . (-2)$
+
+91. Thay một thừa số để tính:
+a) $-57 . 11$;
+b) $75 . (-21)$.
+
+92. Tính:
+a) $(37 - 17) . (-5) + 23 . (-13 - 17)$;
+b) $(-57) . (67 - 34) - 67 . (34 - 57)$.
+
+93. Tính nhanh:
+a) $(-4) . (+125) . (-25) . (-6) . (-8)$;
+b) $(-98) . (1 - 246) - 246 . 98$.
+
+94. Viết các tích sau dưới dạng một lũy thừa:
+a) $(-5) . (-5) . (-5) . (-5) . (-5) = $
+b) $(-2) . (-2) . (-2) . (-3) . (-3) . (-3) = $
+
+Luyện tập
+95. Giải thích vì sao $(-1)^3 = -1$. Có còn số nguyên nào khác mà lập phương của nó chính nó?
+
+96. Tính:
+a) $237 . (-26) + 26 . 137$;
+b) $63 . (-25) + 25 . (-23)$.
+
+97. So sánh:
+a) $(-16) . 125^3 . (-8) . (-4) . (-3)$ với 0;
+b) $13 . (-24) . (-15) . (-8) . 4$ với 0.
+
+================================================================================
+CHUNK 99/133
+================================================================================
+Page: 98
+Size: 1271 chars
+Type: full_page
+
+98. Tính giá trị của biểu thức:
+a) $(-125) . (-13) . (-a)$, với $a = 8$;
+b) $(-1) . (-2) . (-3) . (-4) . (-5) . b$, với $b = 20$.
+
+99. Áp dụng tính chất $a(b + c) = ab + ac$, điền số thích hợp vào ô trống:
+a) $(-7) . (-13) + 8 . (-13) = (-7+8) . (-13) = $
+b) $(-5) . (-4 - 14) = (-5) . (-4) - (-5) . (-14) = $
+
+100. Giá trị của tích $m . n$, với $m = 2, n = -3$ là số nào trong bốn đáp số A, B, C, D dưới đây:
+A. -18
+B. 18
+C. -36
+D. 36
+
+§13. Bội và ước của một số nguyên
+Bội và ước của một số nguyên có những tính chất gì?
+
+1. Bội và ước của một số nguyên
+?1 Viết các số 6, -6 thành tích của hai số nguyên.
+
+?2 Cho hai số tự nhiên $a, b$ với $b \ne 0$. Khi nào thì ta nói $a$ chia hết cho $b$ ($a \vdots b$)?
+
+Cho $a, b \in \mathbb{Z}$ và $b \ne 0$. Nếu có số nguyên $q$ sao cho $a = bq$ thì ta nói $a$ chia hết cho $b$. Ta còn nói $a$ là bội của $b$ và $b$ là ước của $a$.
+
+Ví dụ 1:
+-9 là bội của 3 vì -9 = 3 . (-3).
+
+23 Tìm hai bội và hai ước của 6.
+
+Chú ý:
+Nếu $a = bq$ ($b \ne 0$) thì ta còn nói $a$ chia cho $b$ được $q$ và viết $a : b = q$.
+Số 0 là bội của mọi số nguyên khác 0.
+Số 0 không phải là ước của bất kì số nguyên nào.
+Các số 1 và -1 là ước của mọi số nguyên.
+Nếu $c$ vừa là ước của $a$ vừa là ước của $b$ thì $c$ cũng được gọi là ước chung của $a$ và $b$.
+
+================================================================================
+CHUNK 100/133
+================================================================================
+Page: 99
+Size: 1407 chars
+Type: full_page
+
+Ví dụ 2:
+a) Các ước của 8 là 1, -1, 2, -2, 4, -4, 8, -8.
+b) Các bội của 3 là 0, 3, -3, 6, -6, 9, -9,...
+
+2. Tính chất
+Nếu $a$ chia hết cho $b$ và $b$ chia hết cho $c$ thì $a$ cũng chia hết cho $c$.
+$a \vdots b$ và $b \vdots c \Rightarrow a \vdots c$
+Nếu $a$ chia hết cho $b$ thì bội của $a$ cũng chia hết cho $b$.
+$a \vdots b \Rightarrow am \vdots b (m \in \mathbb{Z})$
+Nếu hai số $a, b$ chia hết cho $c$ thì tổng và hiệu của chúng cũng chia hết cho $c$.
+$a \vdots c$ và $b \vdots c \Rightarrow (a + b) \vdots c$ và $(a - b) \vdots c$
+
+Ví dụ 3:
+a) (-16) $\vdots$ 8 và 8 $\vdots$ 4 nên (-16) $\vdots$ 4.
+b) (-3) $\vdots$ 3 nên 2 . (-3) $\vdots$ 3, (-2) . (-3) $\vdots$ 3
+c) 12 $\vdots$ 4 và (-8) $\vdots$ 4 nên [12 + (-8)] $\vdots$ 4 và [12 - (-8)] $\vdots$ 4
+
+?4
+a) Tìm ba bội của -5;
+b) Tìm các ước của -10
+
+Bài tập
+101. Tìm năm bội của -3.
+
+102. Tìm tất cả các ước của: 1; -1; 6; 11; -1.
+
+103. Cho hai tập hợp số: $A = \{2; 3; 4; 5; 6\}$, $B = \{21; 22; 23\}$.
+a) Có thể lập được bao nhiêu tổng dạng $(a + b)$ với $a \in A$ và $b \in B$?
+b) Trong các tổng trên có bao nhiêu tổng chia hết cho 2?
+
+104. Tìm số nguyên $x$, biết:
+a) $15x = -75$;
+b) $3 |x| = 18$.
+
+105. Điền số vào ô trống:
+
+| a    | 42  | -26 | 23  | 45  |
+| ---- | --- | ---- | --- | --- |
+| b    |     |      |     | -13 |
+| a : b | 7   | -13  |     |     |
+
+106. Có hai số nguyên $a, b$ khác nhau nào mà $a \vdots b$ và $b \vdots a$ không?
+
+================================================================================
+CHUNK 101/133
+================================================================================
+Page: 100
+Size: 1193 chars
+Type: full_page
+
+ÔN TẬP CHƯƠNG II
+Câu hỏi ôn tập
+1. Viết tập hợp $\mathbb{Z}$ các số nguyên.
+2. a) Viết số đối của số nguyên $a$.
+b) Số đối của số nguyên $a$ có thể là số nguyên dương? Số nguyên âm? Số 0?
+c) Số nguyên nào là số đối của nó?
+3. a) Giá trị tuyệt đối của một số nguyên $a$ là gì?
+b) Giá trị tuyệt đối của một số nguyên $a$ có thể là số nguyên dương? Số nguyên âm? Số 0?
+4. Phát biểu các quy tắc cộng, trừ, nhân hai số nguyên.
+5. Viết dưới dạng công thức các tính chất của phép cộng, phép nhân các số nguyên.
+
+Bài tập
+107. Trên trục số cho hai điểm $a, b$ (h.53). Hãy:
+a) Xác định các điểm $-a, -b$ trên trục số.
+b) Xác định các điểm $|a|, |b|, |-a|, |-b|$ trên trục số.
+So sánh các số $a, b, -a, -b, |a|, |b|, |-a|, |-b|$ với 0.
+
+108. Cho số nguyên $a$ khác 0. So sánh $-a$ với $a$, $-a$ với 0.
+
+109. Dưới đây là tên và năm sinh của một số nhà toán học:
+
+| Tên             | Năm sinh |
+| --------------- | -------- |
+| Lương Thế Vinh  | 1441     |
+| Đê-các          | 1596     |
+| Pi-ta-go        | -570     |
+| Gau-xơ          | 1777     |
+| Ác-si-mét       | -287     |
+| Ta-lét          | -624     |
+| Cô-va-lép-xkai-a | 1850     |
+
+Sắp xếp các năm sinh trên đây theo thứ tự thời gian tăng dần.
+
+================================================================================
+CHUNK 102/133
+================================================================================
+Page: 101
+Size: 1340 chars
+Type: full_page
+
+110. Trong các câu sau đây, câu nào đúng, câu nào sai? Cho ví dụ minh hoạ đối với các câu sai.
+a) Tích của hai số nguyên âm là một số nguyên âm.
+b) Tích của hai số nguyên dương là một số nguyên dương.
+c) Tích của hai số nguyên âm là một số nguyên âm.
+d) Tích của hai số nguyên dương là một số nguyên dương.
+
+111. Tính các tổng sau:
+a) $[(-13) + (-15)] + (-8)$
+b) $500 - (-200) - 210 - 100$
+c) $(-129) + (-119) - 301 + 12$
+d) $777 - (-111) - (-222) + 20$
+
+112. Đố vui: Bạn đã tìm hai số nguyên, số thứ nhất (2a) bằng hai lần số thứ hai (a) nhưng số thứ hai trừ đi 10 lại bằng số thứ nhất trừ đi 5 (tức là $a - 10 = 2a - 5$). Hỏi đó là hai số nào?
+
+113. Đố: Hãy điền các số 1, -1, 2, -2, 3, -3 vào các ô ở hình vuông bên (mỗi số vào một ô) sao cho tổng ba số trên mỗi cột hoặc mỗi đường chéo đều bằng nhau.
+
+114. Liệt kê và tính tổng tất cả các số nguyên x thoả mãn:
+a) $-8 < x < 8$
+b) $-6 < x < 4$
+c) $-20 < x < 21$
+
+115. Tìm $a \in \mathbb{Z}$, biết:
+a) $|a| = 5$
+b) $|a| = 0$
+c) $|a| = -3$
+d) $|a| = |-5|$
+e) $-11|a| = -22$
+
+116. Tính:
+a) $(-4) \cdot (-5) \cdot (-6)$
+b) $(-3 + 6) \cdot (-4)$
+c) $(-3 - 5) \cdot (-3 + 5)$
+d) $(-5 - 13) : (-6)$
+
+117. Tính:
+a) $(-7)^3 \cdot 2^4$
+b) $5^4 \cdot (-4)^2$
+
+118. Tìm số nguyên x, biết:
+a) $2x - 35 = 15$
+b) $3x + 17 = 2$
+c) $|x - 1| = 0$
+
+Tổng các dòng bằng tổng các cột bằng tổng các đường chéo.
+
+================================================================================
+CHUNK 103/133
+================================================================================
+Page: 102
+Size: 534 chars
+Type: full_page
+
+119. Tính bằng hai cách:
+a) $15 - 12 : 3 \cdot 5 - 10$
+b) $45 : (9 \cdot 5)$
+c) $29 \cdot (19 - 13) = 19 \cdot (29 - 13)$
+
+120. Cho hai tập hợp $A = \{3; -5; 7\}$; $B = \{-2; 4; -6; 8\}$.
+a) Có bao nhiêu tích $ab$ (với $a \in A$ và $b \in B$) được tạo thành?
+b) Có bao nhiêu tích lớn hơn 0, bao nhiêu tích nhỏ hơn 0?
+c) Có bao nhiêu tích là bội của 6?
+d) Có bao nhiêu tích là ước của 20?
+
+121. Đố: Hãy điền các số nguyên thích hợp vào các ô trong bảng dưới sao cho tích của ba số ở ba ô liên nhau đều bằng 120.
+
+| 6 |   | 10 |   |   |
+
+================================================================================
+CHUNK 104/133
+================================================================================
+Page: 103
+Size: 13 chars
+Type: full_page
+
+Phần HÌNH HỌC
+
+================================================================================
+CHUNK 105/133
+================================================================================
+Page: 104
+Size: 338 chars
+Type: full_page
+
+Chương I. ĐOẠN THẲNG
+
+Mỗi hình phẳng là một tập hợp điểm của mặt phẳng. Ở lớp 6, ta sẽ gặp một số hình phẳng như đoạn thẳng, tia, góc, tam giác, đường tròn,... Hình học phẳng nghiên cứu các tính chất của hình phẳng. Dưới đây là các hình hình học trong bức tranh lụa nổi của Héc-banh (Auguste HERBIN), hoạ sĩ Pháp (1882-1960), vẽ năm 1951.
+
+================================================================================
+CHUNK 106/133
+================================================================================
+Page: 105
+Size: 825 chars
+Type: full_page
+
+§1. Điểm. Đường thẳng
+
+1. Điểm
+Chấm nhỏ trên trang giấy là hình ảnh của điểm. Người ta dùng các chữ cái in hoa A, B, C,... để đặt tên cho điểm.
+Trên hình 1, ta có ba điểm phân biệt: điểm A, điểm B, điểm M.
+Trên hình 2, ta có hai điểm A và C trùng nhau.
+Từ nay về sau (ở lớp 6) khi nói hai điểm mà không nói gì thêm, ta hiểu đó là hai điểm phân biệt.
+Với những điểm, ta xây dựng các hình. Bất cứ hình nào cũng là một tập hợp các điểm. Một điểm cũng là một hình.
+
+2. Đường thẳng
+Sợi chỉ căng mép bàn cho ta hình ảnh của đường thẳng. Đường thẳng không bị hạn chế về hai phía. Với bút và thước ta vẽ được một vạch thẳng. Ta dễ dàng biểu diễn một đường thẳng. Người ta dùng các chữ cái thường a, b, m, p,... để đặt tên cho các đường thẳng.
+Trên hình 3 ta có đường thẳng p.
+
+3. Điểm thuộc đường thẳng. Điểm không thuộc đường thẳng.
+
+================================================================================
+CHUNK 107/133
+================================================================================
+Page: 106
+Size: 1078 chars
+Type: full_page
+
+Nhìn hình 4 ta nói:
+Điểm A thuộc đường thẳng d và kí hiệu là $A \in d$. Ta còn nói điểm A nằm trên đường thẳng d, hoặc đường thẳng d đi qua điểm A, hoặc đường thẳng d chứa điểm A.
+Điểm B không thuộc đường thẳng d và kí hiệu là $B \notin d$. Ta còn nói điểm B không nằm trên đường thẳng d, hoặc đường thẳng d không đi qua điểm B, hoặc đường thẳng d không chứa điểm B.
+
+Nhìn hình 5:
+a) Xét xem các điểm C, E thuộc hay không thuộc đường thẳng a.
+b) Điền kí hiệu $\in$ hoặc $\notin$ thích hợp vào ô trống: $C \Box a$; $E \Box a$
+c) Vẽ thêm hai điểm khác thuộc a và hai điểm khác nữa không thuộc đường thẳng a.
+
+Bài tập
+1. Đặt tên cho các điểm và các đường thẳng còn lại ở hình 6.
+2. Vẽ ba điểm A, B, C và ba đường thẳng a, b, c.
+3. Xem hình 7 để trả lời các câu hỏi sau:
+a) Điểm A thuộc đường thẳng nào? Điểm B thuộc đường thẳng nào? Viết câu trả lời bằng ngôn ngữ thông thường và kí hiệu.
+b) Những đường thẳng nào đi qua điểm B? Đường thẳng nào đi qua điểm C? Ghi kết quả bằng kí hiệu.
+c) Điểm D nằm trên đường thẳng nào và không nằm trên đường thẳng nào? Ghi kết quả bằng kí hiệu.
+
+================================================================================
+CHUNK 108/133
+================================================================================
+Page: 107
+Size: 852 chars
+Type: full_page
+
+4. Vẽ hình theo các cách diễn đạt sau:
+a) Điểm C nằm trên đường thẳng a.
+b) Điểm B không nằm trên đường thẳng b.
+
+5. Vẽ hình theo các kí hiệu sau: $A \in p$; $B \notin q$
+
+6. Cho đường thẳng m, điểm A thuộc đường thẳng m và điểm B không thuộc đường thẳng m.
+a) Vẽ hình và viết kí hiệu.
+b) Có những điểm khác điểm A mà cũng thuộc đường thẳng m không? Hãy vẽ hai điểm như thế và viết kí hiệu.
+c) Có những điểm không thuộc đường thẳng m mà khác với điểm B không? Hãy vẽ hai điểm như thế và viết kí hiệu.
+
+Đố: Hãy gấp một tờ giấy. Trải tờ giấy lên mặt bàn rồi quan sát xem nếp gấp có phải là hình ảnh một đường thẳng không?
+
+§2. Ba điểm thẳng hàng
+
+1. Thế nào là ba điểm thẳng hàng?
+Khi ba điểm A, C, D thuộc cùng một đường thẳng, ta nói chúng thẳng hàng (h.8a).
+Khi ba điểm A, B, C không thuộc bất kì đường thẳng nào, ta nói chúng không thẳng hàng (h.8b).
+
+================================================================================
+CHUNK 109/133
+================================================================================
+Page: 108
+Size: 710 chars
+Type: full_page
+
+2. Quan hệ giữa ba điểm thẳng hàng
+Với ba điểm A, C, B như trên hình 9 ta có thể nói:
+Hai điểm C và B nằm cùng phía đối với điểm A.
+Hai điểm A và C nằm cùng phía đối với điểm B.
+Hai điểm A và B nằm khác phía đối với điểm C.
+Điểm C nằm giữa hai điểm A và B.
+
+Nhận xét: Trong ba điểm thẳng hàng có một điểm và chỉ một điểm nằm giữa hai điểm còn lại.
+
+Bài tập
+8. Xem hình 10 thì ba điểm A, B, C hay ba điểm A, M, N có thẳng hàng không? Lấy thước thẳng để kiểm tra.
+
+9. Xem hình 11 và gọi tên:
+a) Tất cả các bộ ba điểm thẳng hàng.
+b) Hai bộ ba điểm không thẳng hàng.
+
+10. Vẽ:
+a) Ba điểm M, N, P thẳng hàng.
+b) Ba điểm C, E, D thẳng hàng sao cho điểm E nằm giữa hai điểm C và D.
+c) Ba điểm T, Q, R không thẳng hàng.
+
+================================================================================
+CHUNK 110/133
+================================================================================
+Page: 109
+Size: 850 chars
+Type: full_page
+
+11. Xem hình 12 và điền vào chỗ trống các phát biểu sau:
+a) Điểm ... nằm giữa hai điểm M và N.
+b) Hai điểm R và N nằm ... đối với điểm M.
+c) Hai điểm ... nằm khác phía đối với điểm M.
+
+12. Xem hình 13 và gọi tên các điểm:
+a) Nằm giữa hai điểm M và P.
+b) Không nằm giữa hai điểm N và Q.
+c) Nằm giữa hai điểm M và Q.
+
+13. Vẽ hình theo các cách diễn đạt sau:
+a) Điểm M nằm giữa hai điểm A và B; điểm N nằm giữa hai điểm A và B (ba điểm N, A, B không thẳng hàng).
+b) Điểm B nằm giữa hai điểm A và N; điểm M nằm giữa hai điểm A và B.
+
+14. Đố: Theo hình 14 thì ta có thể trồng 12 cây thành 6 hàng, mỗi hàng 4 cây. Hãy vẽ sơ đồ trồng 10 cây thành 5 hàng, mỗi hàng 4 cây.
+
+§3. Đường thẳng đi qua hai điểm
+
+1. Vẽ đường thẳng
+Muốn vẽ đường thẳng đi qua hai điểm A và B ta làm như sau (h.15):
+Đặt cạnh thước đi qua hai điểm A và B; đầu chì vạch theo cạnh thước.
+
+================================================================================
+CHUNK 111/133
+================================================================================
+Page: 110
+Size: 948 chars
+Type: full_page
+
+Nhận xét:
+Có một và chỉ một đường thẳng đi qua hai điểm A và B.
+
+2. Tên đường thẳng
+Ta đã biết cách đặt tên đường thẳng bằng một chữ cái thường. Vì đường thẳng được xác định bởi hai điểm nên ta còn lấy tên hai điểm đó để đặt tên cho đường thẳng, chẳng hạn ta gọi đường thẳng đi qua hai điểm A và B là đường thẳng AB hoặc đường thẳng BA (h.16).
+
+Ta còn đặt tên đường thẳng bằng hai chữ cái thường, ví dụ xy hoặc yx (h.17).
+
+Nếu đường thẳng chứa ba điểm A, B, C thì gọi tên đường thẳng đó như thế nào (h.18)?
+Có sáu cách gọi, hai cách gọi đường thẳng AB, CB, hãy nêu bốn cách gọi còn lại.
+
+3. Đường thẳng trùng nhau, cắt nhau, song song
+Nhìn hình 18, ta nói: Các đường thẳng AB và CB trùng nhau.
+
+Trên hình 19, hai đường thẳng AB và AC chỉ có một điểm chung A. Ta nói chúng cắt nhau và A là giao điểm của hai đường thẳng đó.
+
+Hai đường thẳng xy và zt ở hình 20 không có điểm chung nào (dù có kéo dài mãi về hai phía), ta nói chúng song song với nhau.
+
+================================================================================
+CHUNK 112/133
+================================================================================
+Page: 111
+Size: 1596 chars
+Type: full_page
+
+Chú ý: Hai đường thẳng không trùng nhau còn được gọi là hai đường thẳng phân biệt. Hai đường thẳng phân biệt hoặc chỉ có một điểm chung hoặc không có điểm nào. Từ nay về sau (ở lớp 6), khi nói hai đường thẳng mà không nói gì thêm, ta hiểu đó là hai đường thẳng phân biệt.
+**Bài tập**
+15. Quan sát hình 21 và cho biết những nhận xét sau đúng hay sai:
+a) Có nhiều đường thẳng đi qua hai điểm A và B.
+b) Chỉ có một đường thẳng đi qua hai điểm A và B.
+
+Hình 21
+16.
+a) Tại sao không nói "Hai điểm thẳng hàng"?
+b) Cho ba điểm A, B, C trên trang giấy và một thước thẳng (không chia khoảng). Phải kiểm tra như thế nào để biết được ba điểm đó có thẳng hàng không?
+17. Lấy bốn điểm A, B, C, D trong đó không có ba điểm nào thẳng hàng. Kẻ các đường thẳng đi qua các cặp điểm. Có tất cả bao nhiêu đường thẳng? Đó là những đường nào?
+18. Lấy bốn điểm M, N, P, Q trong đó ba điểm M, N, P thẳng hàng và điểm Q không nằm trên đường thẳng đó. Kẻ các đường thẳng đi qua các cặp điểm. Có bao nhiêu đường thẳng (phân biệt)? Viết tên các đường thẳng đó.
+19. Vẽ hình 22 vào vở rồi tìm điểm Z trên đường thẳng $d_1$ và điểm T trên đường thẳng $d_2$ sao cho X, Z, T thẳng hàng và Y, Z, T thẳng hàng.
+20. Vẽ hình theo các cách diễn đạt sau:
+a) M là giao điểm của hai đường thẳng p và q.
+b) Hai đường thẳng m và n cắt nhau tại A, đường thẳng p cắt n tại B và cắt m tại C.
+c) Đường thẳng MN và đường thẳng RQ cắt nhau tại O.
+
+Hình 22
+
+*109*
+*đường thẳng*
+*điểm chung*
+*thẳng hàng*
+*đúng hay sai*
+*không thẳng hàng*
+*đường thẳng*
+*thẳng hàng hay không thẳng hàng*
+*ngoài đường thẳng*
+*đường thẳng*
+*thẳng hàng*
+*đường thẳng*
+
+================================================================================
+CHUNK 113/133
+================================================================================
+Page: 112
+Size: 841 chars
+Type: full_page
+
+21. Xem hình 23 rồi điền vào chỗ trống:
+a) ... giao điểm
+b) ... giao điểm
+c) ... giao điểm
+d) ... giao điểm
+
+Hình 23
+**§4. Thực hành: Trồng cây thẳng hàng**
+1. **Nhiệm vụ**
+a) Chôn các cọc rào nằm giữa hai cột mốc A và B.
+b) Đào hố cây thẳng hàng với hai cây A và B đã có bên lề đường.
+2. **Chuẩn bị**
+Mỗi nhóm hai học sinh chuẩn bị:
+- Ba cọc tiêu; đó là những cây cọc tre hoặc gỗ dài chừng 1,5m có một đầu nhọn. Thân cọc được sơn hai màu xen kẽ nhau để dễ nhìn thấy cọc từ xa.
+- Một dây dọi để kiểm tra xem cọc tiêu có thẳng đứng với mặt đất không.
+3. **Hướng dẫn cách làm**
+Bước 1: Cắm cọc tiêu thẳng đứng với mặt đất tại hai điểm A và B.
+Bước 2: Em thứ nhất đứng ở A, em thứ hai cắm cọc tiêu thẳng đứng ở một điểm C (h.24, h.25).
+
+*110*
+*trồng cây thẳng hàng*
+*thẳng hàng*
+*bằng*
+*đường thẳng*
+*trồng cây*
+*thẳng hàng*
+*bằng*
+*thẳng đứng*
+
+================================================================================
+CHUNK 114/133
+================================================================================
+Page: 113
+Size: 797 chars
+Type: full_page
+
+Bước 3: Em thứ nhất ra hiệu để em thứ hai điều chỉnh vị trí cọc tiêu cho đến khi em thứ nhất thấy cọc tiêu A (chỗ mình đứng) che lấp hai cọc tiêu ở B và C. Khi đó ba điểm A, B, C thẳng hàng.
+
+Hình 24
+
+Hình 25
+**§5. Tia. Nửa đường thẳng**
+1. **Tia**
+Trên đường thẳng xy ta lấy một điểm O nào đó. Ta thấy điểm O chia đường thẳng xy thành hai phần (h.26). Hình gồm điểm O và một phần đường thẳng bị chia ra bởi điểm O được gọi là một tia gốc O (còn được gọi là một nửa đường thẳng gốc O).
+Trên hình 26, ta có tia Ox và tia Oy. Khi đọc (hay viết) tên một tia, đọc (hay viết) tên gốc trước. Ta dùng một vạch để biểu diễn một tia, gốc tia được vẽ rõ. Trên hình 27, tia Ax không bị giới hạn về phía x.
+
+Hình 26
+
+Hình 27
+
+*111*
+*thẳng hàng*
+*đường thẳng*
+*thẳng*
+*đường thẳng*
+*gọi là*
+*thẳng*
+*phải dùng*
+
+================================================================================
+CHUNK 115/133
+================================================================================
+Page: 114
+Size: 1132 chars
+Type: full_page
+
+2. **Hai tia đối nhau**
+Hai tia chung gốc Ox và Oy tạo thành đường thẳng xy (h.26) được gọi là hai tia đối nhau.
+**Nhận xét:** Mỗi điểm trên đường thẳng là gốc chung của hai tia đối nhau.
+21. Trên đường thẳng xy lấy hai điểm A và B.
+a) Tại sao hai tia Ax và By không phải là hai tia đối nhau?
+b) Trên hình 28 có những tia nào đối nhau?
+
+Hình 28
+3. **Hai tia trùng nhau**
+Lấy điểm B khác A thuộc tia Ax. Tia Ax còn có tên là tia AB. Trên hình 29, tia Ax và tia AB là hai tia trùng nhau.
+
+Hình 29
+**Chú ý:** Hai tia không trùng nhau còn được gọi là hai tia phân biệt. Từ nay về sau (ở lớp 6), khi nói hai tia mà không nói gì thêm, ta hiểu đó là hai tia phân biệt.
+22. Trên hình 30:
+a) Ta thấy hai tia Ox và OA trùng nhau, còn tia OB trùng với tia nào?
+b) Hai tia Ox và Ax có trùng nhau không? Vì sao?
+c) Tại sao hai tia chung gốc Ox, Oy không đối nhau?
+
+Hình 30
+**Bài tập**
+22. Điền vào chỗ trống trong các phát biểu sau:
+a) Hình tạo thành bởi điểm O và một phần đường thẳng bị chia ra bởi điểm O được gọi là một ...
+*112*
+*gọi là*
+*đường thẳng*
+*trùng nhau*
+*không trùng nhau*
+*trùng nhau*
+*không đối nhau*
+*đường thẳng*
+*là một tia*
+
+================================================================================
+CHUNK 116/133
+================================================================================
+Page: 115
+Size: 1406 chars
+Type: full_page
+
+b) Điểm R bất kì nằm trên đường thẳng xy là gốc chung của ...
+c) Nếu điểm A nằm giữa hai điểm B và C thì:
+- Hai tia đối nhau là: ...
+- Hai tia CA và ... trùng nhau.
+- Hai tia BA và BC ...
+23. Trên đường thẳng a cho bốn điểm M, N, P, Q như hình 31. Hãy trả lời các câu hỏi sau:
+
+Hình 31
+a) Trong các tia MN, MP, MQ, NP, NQ có những tia nào trùng nhau?
+b) Trong các tia MN, NM, MP có tia nào đối nhau?
+c) Nêu tên hai tia gốc P đối nhau.
+24. Cho hai tia Ox, Oy đối nhau, điểm A thuộc tia Ox, các điểm B và C thuộc tia Oy (B nằm giữa O và C). Hãy kể tên:
+a) Tia trùng với tia BC.
+b) Tia đối của tia BC.
+25. Cho hai điểm A và B, hãy vẽ:
+a) Đường thẳng AB.
+b) Tia AB.
+c) Tia BA.
+**Luyện tập**
+26. Vẽ tia AB. Lấy điểm M thuộc tia AB. Hỏi:
+a) Hai điểm B và M nằm cùng phía hay khác phía đối với điểm A?
+b) Điểm M nằm giữa hai điểm A và B hay điểm B nằm giữa hai điểm A và M?
+27. Điền vào chỗ trống trong các biểu sau:
+a) Tia AB là hình gồm điểm A và tất cả các điểm nằm cùng phía với B đối với A.
+b) Hình tạo thành bởi điểm A và phần đường thẳng chứa tất cả các điểm nằm cùng phía đối với A là một tia gốc A.
+28. Vẽ đường thẳng xy. Lấy điểm O trên đường thẳng xy. Lấy điểm M thuộc tia Oy. Lấy điểm N thuộc tia Ox.
+a) Viết tên hai tia đối nhau gốc O.
+b) Trong ba điểm M, O, N thì điểm nào nằm giữa hai điểm còn lại?
+
+*113*
+*đường thẳng*
+*những tia đối nhau*
+*trùng nhau*
+*cùng phía*
+*đường thẳng*
+*cùng phía*
+*giữa*
+
+================================================================================
+CHUNK 117/133
+================================================================================
+Page: 116
+Size: 1117 chars
+Type: full_page
+
+29. Cho hai tia đối nhau AB và AC.
+a) Gọi M là một điểm thuộc tia AB. Trong ba điểm M, A, C thì điểm nào nằm giữa hai điểm còn lại?
+b) Gọi N là một điểm thuộc tia AC. Trong ba điểm N, A, B thì điểm nào nằm giữa hai điểm còn lại?
+30. Điền vào chỗ trống trong các phát biểu sau:
+Nếu điểm O nằm trên đường thẳng xy thì:
+a) Điểm O là gốc chung của ...
+b) Điểm O nằm giữa một điểm bất kì khác O của tia Ox và một điểm bất kì khác O của tia Oy.
+31. Lấy ba điểm thẳng hàng A, B, C. Vẽ hai tia AB, AC.
+a) Vẽ tia Ax cắt đường thẳng BC tại điểm M nằm giữa B và C.
+b) Vẽ tia Ay cắt đường thẳng BC tại điểm N không nằm giữa B và C.
+32. Trong các câu sau, em hãy chọn câu đúng:
+a) Hai tia Ox và Oy chung gốc thì đối nhau.
+b) Hai tia Ox và Oy cùng nằm trên một đường thẳng thì đối nhau.
+c) Hai tia Ox và Oy tạo thành đường thẳng xy thì đối nhau.
+**§6. Đoạn thẳng**
+1. **Đoạn thẳng AB là gì?**
+Đặt cạnh của thước đi qua hai điểm A, B rồi lấy đầu chì vạch theo cạnh thước từ A đến B (h.32a). Nét chì trên trang giấy là hình ảnh của đoạn thẳng AB (h.32b).
+
+a)
+
+b)
+Hình 32
+
+*114*
+*đường thẳng*
+*những tia đối nhau*
+*đường thẳng*
+*đúng*
+
+================================================================================
+CHUNK 118/133
+================================================================================
+Page: 117
+Size: 939 chars
+Type: full_page
+
+Trong khi vẽ đoạn thẳng AB, ta thấy đầu C của bút chì hoặc trùng A, hoặc trùng B, hoặc nằm giữa hai điểm A và B.
+Đoạn thẳng AB là hình gồm điểm A, điểm B và tất cả các điểm nằm giữa A và B.
+Đoạn thẳng AB còn gọi là đoạn thẳng BA.
+Hai điểm A, B là hai mút (hoặc hai đầu) của đoạn thẳng AB.
+2. **Đoạn thẳng cắt đoạn thẳng, cắt tia, cắt đường thẳng**
+Hình 33 biểu diễn hai đoạn thẳng AB và CD cắt nhau, giao điểm là điểm I.
+
+Hình 33
+Hình 34 biểu diễn đoạn thẳng AB và tia Ox cắt nhau, giao điểm là điểm K.
+
+Hình 34
+Hình 35 biểu diễn đoạn thẳng AB và đường thẳng xy cắt nhau, giao điểm là điểm H.
+
+Hình 35
+Các trường hợp thường gặp đã được vẽ ở hình 33, 34, 35. Ngoài ra còn có các trường hợp khác: giao điểm có thể trùng với mút của đoạn thẳng, hoặc trùng với gốc của tia.
+**Bài tập**
+33. Điền vào chỗ trống trong các phát biểu sau:
+a) Hình gồm hai điểm và tất cả các điểm nằm giữa hai điểm đó được gọi là đoạn thẳng RS.
+*115*
+*giữa*
+*gọi là*
+
+================================================================================
+CHUNK 119/133
+================================================================================
+Page: 118
+Size: 1231 chars
+Type: full_page
+
+Hai điểm R và S được gọi là hai mút của đoạn thẳng RS.
+b) Đoạn thẳng RQ là hình gồm ...
+34. Trên đường thẳng a lấy ba điểm A, B, C. Hỏi có mấy đoạn thẳng tất cả? Hãy gọi tên các đoạn thẳng ấy.
+35. Gọi M là một điểm bất kì của đoạn thẳng AB. Điểm M nằm ở đâu? Em chọn câu trả lời đúng trong bốn câu sau:
+a) Điểm M trùng với điểm A.
+b) Điểm M phải nằm giữa hai điểm A và B.
+c) Điểm M phải trùng với điểm B.
+d) Điểm M hoặc trùng với điểm A, hoặc nằm giữa hai điểm A và B, hoặc trùng với điểm B.
+36. Xét ba đường thẳng $l_1$, $l_2$, $l_3$ trên hình 36 và trả lời các câu hỏi sau:
+a) Đường thẳng $l_1$ có đi qua mút của đoạn thẳng nào không?
+b) Đường thẳng $l_2$ cắt đoạn thẳng nào?
+c) Đường thẳng $l_3$ không cắt đoạn thẳng nào?
+
+Hình 36
+37. Lấy ba điểm không thẳng hàng A, B, C. Vẽ hai tia AB và AC, sau đó vẽ tia Ax cắt đoạn thẳng BC tại điểm K nằm giữa hai điểm B và C.
+38. Vẽ hình 37 vào vở rồi tô đoạn thẳng BM, tia MT, đường thẳng BT bằng ba màu khác nhau.
+
+Hình 37
+
+Hình 38
+39. Vẽ hình 38 vào vở rồi vẽ tiếp các đoạn thẳng AE, BD cắt nhau tại I. Vẽ các đoạn thẳng AF, CD cắt nhau tại K. Vẽ các đoạn thẳng BF, CE cắt nhau tại L. Kiểm tra xem các điểm I, K, L có thẳng hàng không.
+
+*116*
+*gọi là*
+*đường thẳng*
+*đúng*
+*thẳng hàng*
+
+================================================================================
+CHUNK 120/133
+================================================================================
+Page: 119
+Size: 1059 chars
+Type: full_page
+
+**§7. Độ dài đoạn thẳng**
+AB = 2cm
+CD = 1 inch (1 inh-sơ)
+1. **Đo đoạn thẳng**
+Để đo đoạn thẳng AB người ta dùng thước có chia khoảng (thước milimét) (thước đo độ dài) và làm như sau:
+Đặt cạnh của thước đi qua hai điểm A và B sao cho điểm A trùng với vạch số 0 và giả sử điểm B trùng với vạch 17 (mm) (h.39).
+
+Hình 39
+Ta nói độ dài đoạn thẳng AB là 17mm và kí hiệu AB = 17mm, hoặc BA = 17mm.
+**Nhận xét:** Mỗi đoạn thẳng có một độ dài. Độ dài là một số lớn hơn 0.
+Ta còn nói khoảng cách giữa hai điểm A và B là 17mm (hoặc A cách B một khoảng 17mm).
+Khi hai điểm A và B trùng nhau, ta nói khoảng cách giữa hai điểm A và B bằng 0.
+2. **So sánh hai đoạn thẳng**
+Ta có thể so sánh hai đoạn thẳng bằng cách so sánh độ dài của chúng:
+Giả sử ta có AB = 3cm, CD = 3cm, EG = 4cm (h.40).
+
+Hình 40
+Ta nói:
+- Hai đoạn thẳng AB và CD bằng nhau hay có cùng độ dài và kí hiệu AB = CD.
+- Đoạn thẳng EG dài hơn (lớn hơn) đoạn thẳng CD và kí hiệu EG > CD.
+- Đoạn thẳng AB ngắn hơn (nhỏ hơn) đoạn thẳng EG và kí hiệu AB < EG.
+
+*117*
+*dùng*
+*trùng nhau*
+*bằng*
+*bằng nhau*
+*bằng*
+
+================================================================================
+CHUNK 121/133
+================================================================================
+Page: 120
+Size: 556 chars
+Type: full_page
+
+21. Cho các đoạn thẳng trong hình 41a.
+
+Hình 41
+a) Hãy đo và chỉ ra các đoạn thẳng có cùng độ dài rồi đánh dấu giống nhau cho các đoạn thẳng bằng nhau.
+b) So sánh hai đoạn thẳng EF và CD.
+22. Sau đây là một số dụng cụ đo độ dài (hình 42a, b, c). Hãy nhận dạng các dụng cụ đó theo tên gọi của thước gấp, thước dây, thước kẻ.
+
+a)
+
+b)
+
+c)
+Hình 42
+23. Hình 43 là thước đo độ dài mà học sinh châu Mỹ thường dùng. Đơn vị độ dài là inh-sơ (inch). Hãy kiểm tra xem 1 inh-sơ khoảng bao nhiêu milimét.
+
+Hình 43
+
+*118*
+*đoạn thẳng*
+*bằng nhau*
+*dụng cụ*
+*dùng*
+*bằng*
+
+================================================================================
+CHUNK 122/133
+================================================================================
+Page: 121
+Size: 665 chars
+Type: full_page
+
+Bài tập 40. Đo độ dài một số dụng cụ học tập (bút chì, thước kẻ, hộp bút,...).
+41. Đo kích thước của nền nhà lớp học (hoặc bàn giáo viên), rồi điền vào chỗ trống:
+Chiều dài: ...
+Chiều rộng: ...
+42. So sánh hai đoạn thẳng AB và AC trong hình 44 rồi đánh dấu giống nhau cho các đoạn thẳng bằng nhau.
+
+Hình 44
+43. Sắp xếp độ dài các đoạn thẳng AB, BC, CA trong hình 45 theo thứ tự tăng dần.
+
+Hình 45
+
+Hình 46
+44. a) Sắp xếp độ dài các đoạn thẳng AB, BC, CD, DA trong hình 46 theo thứ tự giảm dần.
+b) Tính chu vi hình ABCD (tức là tính AB + BC + CD + DA).
+45. Đố: Nhìn hình 47a, b, đoán xem hình nào có chu vi lớn hơn? Hãy đo để kiểm tra dự đoán:.
+
+b)
+Hình 47
+1/9 bảng.
+
+================================================================================
+CHUNK 123/133
+================================================================================
+Page: 122
+Size: 803 chars
+Type: full_page
+
+46. Khi nào thì AM + MB = AB ?
+1. Khi nào thì tổng độ dài hai đoạn thẳng AM và MB bằng độ dài đoạn AB ?
+2. Cho điểm M nằm giữa hai điểm A và B. Đo độ dài các đoạn AM, MB, AB. So sánh AM + MB với AB ở hình 48a và 48b (độ dài đoạn AB không đổi).
+
+Hình 48
+Nhận xét:
+Nếu điểm M nằm giữa hai điểm A và B thì AM + MB = AB.
+Ngược lại, nếu AM + MB = AB thì điểm M nằm giữa hai điểm A và B.
+Ví dụ:
+Cho M là điểm nằm giữa A và B. Biết AM = 3cm, AB = 8cm. Tính MB.
+Giải:
+Vì M nằm giữa A và B nên AM + MB = AB.
+AM = 3cm, AB = 8cm, ta có:
+3 + MB = 8
+MB = 8 - 3
+MB = 5 (cm)
+2. Một vài dụng cụ đo khoảng cách giữa hai điểm trên mặt đất
+Muốn đo khoảng cách giữa hai điểm trên mặt đất, trước hết phải gióng đường thẳng đi qua hai điểm ấy rồi dùng thước cuộn vải (h.49) hoặc thước cuộn kim loại (h.50) để đo.
+
+Hình 49
+120
+
+================================================================================
+CHUNK 124/133
+================================================================================
+Page: 123
+Size: 1009 chars
+Type: full_page
+
+Hình 50
+Nếu khoảng cách giữa hai điểm trên mặt đất nhỏ hơn độ dài của thước cuộn thì chỉ cần giữ cố định một đầu thước tại một điểm rồi căng thước đi qua điểm thứ hai.
+Nếu khoảng cách trên mặt đất lớn hơn độ dài của thước cuộn thì sử dụng liên tiếp thước cuộn nhiều lần.
+Đôi khi người ta còn dùng thước chữ A (h.51) có khoảng cách giữa hai chân khoảng 2m.
+
+Hình 51
+Bài tập
+46. Gọi N là một điểm của đoạn IK. Biết IN = 3cm, NK = 6cm. Tính độ dài đoạn IK.
+47. Gọi M là một điểm của đoạn EF. Biết EM = 4cm, EF = 8cm. So sánh hai đoạn thẳng EM và MF.
+48. Em Hà có sợi dây dài 1,25m, em dùng sợi dây đó đo chiều rộng của lớp học. Sau bốn lần căng dây đo liên tiếp thì khoảng cách giữa đầu dây và mép tường còn lại bằng 1/5 độ dài sợi dây. Hỏi chiều rộng lớp học là bao nhiêu mét?
+49. Gọi M và N là hai điểm nằm giữa hai mút của đoạn thẳng AB. Biết AN = BM. So sánh AM và BN. Xét cả hai trường hợp (h.52).
+50. Cho ba điểm T, V, A. Điểm nào nằm giữa hai điểm còn lại nếu:
+a) TV + VA = TA
+b) TV + VA = AT
+
+Hình 52
+121
+
+================================================================================
+CHUNK 125/133
+================================================================================
+Page: 124
+Size: 755 chars
+Type: full_page
+
+51. Trên một đường thẳng, hãy vẽ ba điểm V, A, T sao cho TA = 1cm, VA = 2cm, VT = 3cm. Hỏi điểm nào nằm giữa hai điểm còn lại ?
+52. Đố : Quan sát hình 53 và cho biết nhận xét sau hay sai: Đi từ A đến B thì đi theo đoạn thẳng là ngắn nhất.
+
+Hình 53
+§9. Vẽ đoạn thẳng cho biết độ dài
+a. Vẽ đoạn thẳng trên tia
+Ví dụ 1 : Trên tia Ox, hãy vẽ đoạn OM có độ dài 2cm.
+Cách vẽ:
+Mút O đã biết. Ta vẽ mút M như sau:
+Đặt cạnh của thước nằm trên tia Ox sao cho vạch số 0 của thước trùng với gốc O của tia (h.54).
+
+Hình 54
+Vạch số 2 (cm) của thước sẽ cho ta điểm M. Đoạn OM là đoạn thẳng cần vẽ.
+Nhận xét: Trên tia Ox bao giờ cũng vẽ được một và chỉ một điểm M sao cho OM = a (đơn vị dài).
+Ví dụ 2: Cho đoạn AB (h.55), vẽ đoạn CD sao cho CD = AB.
+
+Hình 55
+
+Hình 56
+122
+
+================================================================================
+CHUNK 126/133
+================================================================================
+Page: 125
+Size: 745 chars
+Type: full_page
+
+Cách vẽ:
+Vẽ một tia Cy bất kì (h.56). Khi đó, ta đã biết mút C của đoạn CD. Ta vẽ mút D như sau:
+Đặt compa sao cho một mũi nhọn trùng với mút A, mũi kia trùng với mút B của đoạn AB cho trước (h.57).
+
+Hình 57
+
+Hình 58
+Giữ độ mở của compa không đổi, đặt compa sao cho một mũi nhọn trùng với gốc C của tia Cy, mũi kia nằm trên tia sẽ cho ta mút D (h.58) và CD là đoạn thẳng cần vẽ.
+b. Vẽ hai đoạn trên tia
+Ví dụ: Trên tia Ox, hãy vẽ hai đoạn OM và ON biết OM = 2cm, ON = 3cm. Trong ba điểm O, M, N điểm nào nằm giữa hai điểm còn lại ?
+
+Hình 59
+Giải:
+Sau khi vẽ hai điểm M và N (h.59) ta thấy điểm M nằm giữa hai điểm O và N (vì 2cm < 3cm)
+Nhận xét: Trên tia Ox, OM = a, ON = b (h.60), nếu 0 < a < b thì điểm M nằm giữa hai điểm O và N.
+
+Hình 60
+123
+
+================================================================================
+CHUNK 127/133
+================================================================================
+Page: 126
+Size: 1077 chars
+Type: full_page
+
+Bài tập
+53. Trên tia Ox, vẽ hai đoạn OM và ON sao cho OM = 3cm, ON = 6cm. Tính MN. So sánh OM và MN.
+54. Trên tia Ox, vẽ ba đoạn OA, OB, OC sao cho OA = 2cm, OB = 5cm, OC = 8cm. So sánh BC và BA.
+55. Gọi A, B là hai điểm trên tia Ox. Biết OA = 8cm, AB = 2cm. Tính OB. Bài toán có mấy đáp số ?
+56. Cho đoạn AB dài 4 cm: Trên tia AB lấy điểm C sao cho AC = 1cm
+a) Tính CB.
+b) Lấy điểm D thuộc tia đối của tia BC sao cho BD = 2cm. Tính CD.
+57. Đoạn thẳng AC dài 8cm. Điểm B nằm giữa A và C sao cho BC = 3cm.
+a) Tính AB
+b) Trên tia đối của tia BA lấy điểm D sao cho BD = 5cm. So sánh AB và CD.
+58. Vẽ đoạn thẳng AB dài 3,5cm. Nói cách vẽ.
+59. Trên tia Ox, cho ba điểm M, N, P biết OM = 2cm, ON = 3cm, OP = 3,5cm. Hỏi trong ba điểm M, N, P thì điểm nào nằm giữa hai điểm còn lại ? Vì sao ?
+§10. Trung điểm của đoạn thẳng
+1. Trung điểm của đoạn thẳng
+Trong hình 61, điểm M là trung điểm của đoạn thẳng AB.
+Trung điểm M của đoạn AB là điểm nằm giữa A, B và cách đều A, B (MA = MB).
+Điểm M là trung điểm của đoạn thẳng AB còn được gọi là điểm chính giữa của đoạn thẳng AB.
+
+Hình 61
+124
+
+================================================================================
+CHUNK 128/133
+================================================================================
+Page: 127
+Size: 686 chars
+Type: full_page
+
+2. Cách vẽ trung điểm của đoạn thẳng
+Ví dụ: Đoạn thẳng AB có độ dài 5cm. Hãy vẽ trung điểm M của đoạn ấy.
+Ta có: MA + MB = AB
+MA = MB = AB/2 = 5/2 = 2,5cm
+
+Hình 62
+Cách 1: Trên tia AB, vẽ điểm M sao cho AM = 2,5cm (h.62)
+Cách 2: Gấp giấy.
+Vẽ đoạn AB trên giấy can (giấy trong). Gấp giấy sao cho điểm B trùng vào điểm A. Nếp gấp cắt đoạn thẳng AB tại trung điểm M cần xác định (h.63).
+
+Hình 63
+Nếu một sợi dây dễ "chia" một thanh gỗ thẳng thành hai đoạn dài bằng nhau thì làm thế nào?
+Bài tập
+60. Trên tia Ox, vẽ hai điểm A, B sao cho OA = 2cm, OB = 4cm.
+a) Điểm A có nằm giữa hai điểm O và B không ?
+b) So sánh OA và AB.
+c) Điểm A có là trung điểm của đoạn thẳng OB không ? Vì sao ?
+125
+
+================================================================================
+CHUNK 129/133
+================================================================================
+Page: 128
+Size: 1082 chars
+Type: full_page
+
+61. Cho hai tia đối nhau Ox, Ox'. Trên tia Ox vẽ điểm A sao cho OA = 2cm. Trên tia Ox' vẽ điểm B sao cho OB = 2cm. Hỏi O có là trung điểm của đoạn AB không ? Vì sao ?
+62. Gọi O là giao điểm của hai đường thẳng xx' và yy'. Trên xx' vẽ đoạn CD dài 3cm, trên yy' vẽ đoạn thẳng EF dài 5cm sao cho O là trung điểm của mỗi đoạn thẳng ấy.
+63. Khi nào ta kết luận được điểm I là trung điểm của đoạn AB ? Em hãy chọn những câu trả lời đúng trong các câu trả lời sau:
+Điểm I là trung điểm của đoạn AB khi:
+a) IA = IB.
+b) AI + IB = AB
+c) AI + IB = AB và IA = IB
+d) IA = IB = AB/2
+64. Cho đoạn thẳng AB dài 6cm. Gọi C là trung điểm của AB. Lấy D và E là hai điểm thuộc đoạn thẳng AB sao cho AD = BE = 2cm. Vì sao C là trung điểm của DE ?
+65. Xem hình 64. Đo các đoạn AB, BC, CD, CA rồi điền vào chỗ trống trong các phát biểu sau:
+a) Điểm C là trung điểm của ... vì ...
+b) Điểm C không là trung điểm của ... vì C không thuộc đoạn thẳng AB.
+c) Điểm ... không là trung điểm của BC vì ...
+
+Hình 64
+ÔN TẬP PHẦN HÌNH HỌC
+I. Các hình:
+Điểm
+Đường thẳng
+Tia
+Đoạn thẳng
+Trung điểm của một đoạn thẳng.
+126
+
+================================================================================
+CHUNK 130/133
+================================================================================
+Page: 129
+Size: 1339 chars
+Type: full_page
+
+II. Các tính chất
+1. Trong ba điểm thẳng hàng: có một và chỉ một điểm nằm giữa hai điểm còn lại.
+2. Có một và chỉ một đường thẳng đi qua hai điểm phân biệt.
+3. Mỗi điểm trên đường thẳng là gốc chung của hai tia đối nhau.
+4. Nếu điểm M nằm giữa hai điểm A và B thì AM + MB = AB.
+III. Câu hỏi và bài tập
+1. Đoạn thẳng AB là gì ?
+2. Cho ba điểm A, B, C không thẳng hàng. Vẽ AB, tia AC, đoạn thẳng BC, điểm M nằm giữa B và C.
+3. a) Đánh dấu hai điểm M, N. Vẽ đường thẳng a và đường thẳng xy cắt nhau tại M và đều không đi qua N. Vẽ điểm A khác M trên tia My.
+b) Xác định điểm S trên đường thẳng a sao cho S, A, N thẳng hàng. Trong trường hợp đường thẳng AN song song với đường thẳng a thì có vẽ được điểm S không? Vì sao?
+4. Vẽ bốn đường thẳng phân biệt. Đặt tên cho các giao điểm (nếu có).
+5. Cho ba điểm A, B, C sao cho B nằm giữa A và C. Làm thế nào để đo hai lần, mà biết được độ dài của cả ba đoạn AB, BC, AC ? Hãy nêu các cách làm khác nhau.
+6. Cho đoạn AB dài 6cm. Trên tia AB lấy điểm M sao cho AM = 3cm
+a) Điểm M có nằm giữa hai điểm A và B không ? Vì sao ?
+b) So sánh AM và MB.
+c) M có là trung điểm của AB không ?
+7. Cho đoạn thẳng AB dài 7cm. Vẽ trung điểm của đoạn AB.
+8. Vẽ hai đường thẳng xy và zt cắt nhau tại O. Lấy A thuộc tia Ox, B thuộc tia Ot, C thuộc tia Oy, D thuộc tia Oz sao cho OA = OC = 3cm, OB = 2cm, OD = 2 OB.
+127
+
+================================================================================
+CHUNK 131/133
+================================================================================
+Page: 130
+Size: 679 chars
+Type: full_page
+
+BẢNG SỐ NGUYÊN TỐ (nhỏ hơn 1000)
+2	79	191	311	439	577	709	857
+3	83	193	313	443	587	719	859
+5	89	197	317	449	593	727	863
+7	97	199	331	457	599	733	877
+11	101	211	337	461	601	739	881
+13	103	223	347	463	607	743	883
+17	107	227	349	467	613	751	887
+19	109	229	353	479	617	757	907
+23	113	233	359	487	619	761	911
+29	127	239	367	491	631	769	919
+31	131	241	373	499	641	773	929
+37	137	251	379	503	643	787	937
+41	139	257	383	509	647	797	941
+43	149	263	389	521	653	809	947
+47	151	269	397	523	659	811	953
+53	157	271	401	541	661	821	967
+59	163	277	409	547	673	823	971
+61	167	281	419	557	677	827	977
+67	173	283	421	563	683	829	983
+71	179	293	431	569	691	839	991
+73	181	307	433	571	701	853	997
+128
+
+================================================================================
+CHUNK 132/133
+================================================================================
+Page: 131
+Size: 1623 chars
+Type: full_page
+
+MỤC LỤC PHẦN SỐ HỌC
+Chương I. ÔN TẬP VÀ BỔ TÚC
+Chương II. SỐ NGUYÊN
+§1. Làm quen với số nguyên âm 66
+§2. Tập hợp các số tự nhiên 52
+§3. Ghi số tự nhiên 53
+§4. Số phần tử của một tập hợp. Tập hợp con 12
+§5. Phép cộng và phép nhân 15
+§6. Phép trừ và phép chia 20
+§7. Luỹ thừa với số mũ tự nhiên 26
+§8. Chia hai luỹ thừa cùng cơ số 29
+§9. Thứ tự thực hiện các phép tính 31
+§10. Tính chất chia hết của một tổng 34
+§11. Dấu hiệu chia hết cho 2, cho 5 37
+§12. Dấu hiệu chia hết cho 3, cho 9 39
+§13. Ước và bội 43
+§14. Số nguyên tố. Hợp số 45
+Bảng số nguyên tố
+§15. Phân tích một số ra thừa số nguyên tố 48
+Ước chung và bội chung 51
+§16. Ước chung lớn nhất 54
+§17. Bội chung nhỏ nhất 57
+Ôn tập chương I 61
+
+VỀ SỐ TỰ NHIÊN
+1. Tập hợp - Phần tử của tập hợp
+2. Tập hợp các số nguyên 69
+3. Thứ tự trong tập hợp các số nguyên
+4. Trục số. Hai số nguyên đối nhau 74
+5. Phép cộng hai số nguyên 75
+6. Cộng hai số nguyên khác dấu 75
+7. Tính chất của phép cộng các số nguyên 77
+8. Nhân hai luỹ thừa có cùng cơ số 81
+9. Phép trừ hai số nguyên 81
+10. Quy tắc dấu ngoặc 83
+11. Quy tắc chuyển vế 85
+12. Nhân hai số nguyên khác dấu 88
+13. Nhân hai số nguyên cùng dấu 90
+14. Tính chất của phép nhân 93
+15. Bội và ước của một số nguyên 96
+Ôn tập chương II 98
+
+PHẦN HÌNH HỌC
+Chương I. ĐOẠN THẲNG
+§1. Điểm 103
+§2. Ba điểm thẳng hàng 105
+§3. Đường thẳng đi qua hai điểm 107
+§4. Thực hành: Trồng cây thẳng hàng 110
+§5. Tia 111
+§6. Đoạn thẳng 114
+§7. Độ dài đoạn thẳng 117
+§8. Khi nào thì AM + MB = AB? 120
+§9. Vẽ đoạn thẳng cho biết độ dài 122
+§10. Trung điểm của đoạn thẳng 124
+Ôn tập phần hình học 126
+
+Trang
+Công cung
+Quy tắc
+Trang
+Trang
+Đường thẳng
+
+================================================================================
+CHUNK 133/133
+================================================================================
+Page: 132
+Size: 400 chars
+Type: full_page
+
+Quality CRo W Oc (0o VuoNG MieN KiM CUONG HUAN CHUONG HO CHI MiNH CHaT LUONG QUÒC TE
+SÁCH GIÁO KHOA LỚP 6
+1. Ngữ văn 6 (tập một, tập hai) 8. Sinh học 6
+2. Lịch sử 6 9. Âm nhạc và Mĩ thuật 6
+3. Địa lí 6 10. Giáo dục công dân 6
+4. Tiếng Anh 6 Tiếng Nga 6
+5. Toán 6 (tập một, tập hai) Tiếng Pháp 6
+6. Vật lí 6 Tiếng Trung 6
+7. Công nghệ 6 Tiếng Nhật 6
+
+ISBN 978-604-0-00067-8
+8/934994 018944
+Giá: 6.400đ
+
