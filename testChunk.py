@@ -15,60 +15,30 @@ from chunkers.page_aware_chunker import PageAwareChunker
 from chunkers.semantic_chunker import SemanticChunker
 
 
+# === HÀM parse_pages_correctly() ===
 def parse_pages_correctly(file_path):
-    """
-    Parse đúng format:
-
-    ================================================================================
-    PAGE 1 | GROQ
-    ================================================================================
-    [Text của page 1]
-    ================================================================================
-    PAGE 2 | GROQ
-    ================================================================================
-    [Text của page 2]
-    """
     content = Path(file_path).read_text(encoding='utf-8')
-
-    separator = '='*80
-
-    # Split by separator
+    separator = '=' * 80
     blocks = content.split(separator)
-
     pages = []
     current_page_num = None
 
-    for i, block in enumerate(blocks):
-        if not block.strip():
-            continue
-
+    for block in blocks:
+        if not block.strip(): continue
         lines = block.strip().split('\n')
-
-        # Check if this block contains PAGE marker
         page_match = None
         for line in lines:
             match = re.match(r'PAGE\s+(\d+)', line)
             if match:
                 page_match = match
                 break
-
         if page_match:
-            # This block has PAGE marker
             page_num = int(page_match.group(1))
-
-            # Text of this page is in NEXT block(s)
-            # Save current page_num for next iterations
             current_page_num = page_num
-
-            # Initialize page
             pages.append({'page_num': page_num, 'text': ''})
-
         else:
-            # This block is content
             text = block.strip()
-
             if text and current_page_num is not None:
-                # Find the page dict and append text
                 for page in pages:
                     if page['page_num'] == current_page_num:
                         if page['text']:
@@ -76,11 +46,7 @@ def parse_pages_correctly(file_path):
                         else:
                             page['text'] = text
                         break
-
-    # Remove empty pages
-    pages = [p for p in pages if p['text'].strip()]
-
-    return pages
+    return [p for p in pages if p['text'].strip()]
 
 
 def show_chunks(chunks, name, max_show=3):

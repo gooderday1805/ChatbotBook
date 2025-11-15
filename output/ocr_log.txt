@@ -1,155 +1,155 @@
-[04:09:33] EasyOCR initialized with GPU: NVIDIA GeForce RTX 3050 Laptop GPU
-[04:09:33] ================================================================================
-[04:09:33] Processing: toanlop6tap1.pdf
-[04:09:33] Device: GPU
-[04:09:33] ================================================================================
-[04:09:40] Extracted 132 pages
-[04:09:41] Page 1: SUCCESS - text=0 chars, images=1, final=85 chars
-[04:09:41] Page 2: SUCCESS - text=0 chars, images=1, final=179 chars
-[04:09:42] Page 3: SUCCESS - text=0 chars, images=1, final=681 chars
-[04:09:43] Page 4: SUCCESS - text=0 chars, images=1, final=11 chars
-[04:09:45] Page 5: SUCCESS - text=0 chars, images=1, final=740 chars
-[04:09:46] Page 6: SUCCESS - text=0 chars, images=1, final=1190 chars
-[04:09:48] Page 7: SUCCESS - text=0 chars, images=1, final=792 chars
-[04:09:50] Page 8: SUCCESS - text=0 chars, images=1, final=1275 chars
-[04:09:51] Page 9: SUCCESS - text=0 chars, images=1, final=895 chars
-[04:09:53] Page 10: SUCCESS - text=0 chars, images=1, final=1259 chars
-[04:09:53] GPU cache cleared at page 10
-[04:09:55] Page 11: SUCCESS - text=0 chars, images=1, final=1117 chars
-[04:09:57] Page 12: SUCCESS - text=0 chars, images=1, final=992 chars
-[04:09:58] Page 13: SUCCESS - text=0 chars, images=1, final=1180 chars
-[04:10:00] Page 14: SUCCESS - text=0 chars, images=1, final=1437 chars
-[04:10:02] Page 15: SUCCESS - text=0 chars, images=1, final=1436 chars
-[04:10:04] Page 16: SUCCESS - text=0 chars, images=1, final=1143 chars
-[04:10:05] Page 17: SUCCESS - text=0 chars, images=1, final=1157 chars
-[04:10:07] Page 18: SUCCESS - text=0 chars, images=1, final=1184 chars
-[04:10:08] Page 19: SUCCESS - text=0 chars, images=1, final=961 chars
-[04:10:10] Page 20: SUCCESS - text=0 chars, images=1, final=930 chars
-[04:10:10] GPU cache cleared at page 20
-[04:10:12] Page 21: SUCCESS - text=0 chars, images=1, final=1605 chars
-[04:10:14] Page 22: SUCCESS - text=0 chars, images=1, final=1103 chars
-[04:10:15] Page 23: SUCCESS - text=0 chars, images=1, final=1024 chars
-[04:10:17] Page 24: SUCCESS - text=0 chars, images=1, final=1116 chars
-[04:10:18] Page 25: SUCCESS - text=0 chars, images=1, final=798 chars
-[04:10:20] Page 26: SUCCESS - text=0 chars, images=1, final=1116 chars
-[04:10:22] Page 27: SUCCESS - text=0 chars, images=1, final=1160 chars
-[04:10:24] Page 28: SUCCESS - text=0 chars, images=1, final=1504 chars
-[04:10:26] Page 29: SUCCESS - text=0 chars, images=1, final=727 chars
-[04:10:28] Page 30: SUCCESS - text=0 chars, images=1, final=969 chars
-[04:10:28] GPU cache cleared at page 30
-[04:10:29] Page 31: SUCCESS - text=0 chars, images=1, final=818 chars
-[04:10:31] Page 32: SUCCESS - text=0 chars, images=1, final=1013 chars
-[04:10:33] Page 33: SUCCESS - text=0 chars, images=1, final=1316 chars
-[04:10:35] Page 34: SUCCESS - text=0 chars, images=1, final=941 chars
-[04:10:37] Page 35: SUCCESS - text=0 chars, images=1, final=1318 chars
-[04:10:39] Page 36: SUCCESS - text=0 chars, images=1, final=1091 chars
-[04:10:41] Page 37: SUCCESS - text=0 chars, images=1, final=1227 chars
-[04:10:43] Page 38: SUCCESS - text=0 chars, images=1, final=1153 chars
-[04:10:45] Page 39: SUCCESS - text=0 chars, images=1, final=1256 chars
-[04:10:46] Page 40: SUCCESS - text=0 chars, images=1, final=1249 chars
-[04:10:46] GPU cache cleared at page 40
-[04:10:48] Page 41: SUCCESS - text=0 chars, images=1, final=1011 chars
-[04:10:50] Page 42: SUCCESS - text=0 chars, images=1, final=1325 chars
-[04:10:52] Page 43: SUCCESS - text=0 chars, images=1, final=1255 chars
-[04:10:54] Page 44: SUCCESS - text=0 chars, images=1, final=1304 chars
-[04:10:56] Page 45: SUCCESS - text=0 chars, images=1, final=763 chars
-[04:10:58] Page 46: SUCCESS - text=0 chars, images=1, final=1105 chars
-[04:10:59] Page 47: SUCCESS - text=0 chars, images=1, final=903 chars
-[04:11:01] Page 48: SUCCESS - text=0 chars, images=1, final=1311 chars
-[04:11:04] Page 49: SUCCESS - text=0 chars, images=1, final=1480 chars
-[04:11:05] Page 50: SUCCESS - text=0 chars, images=1, final=1048 chars
-[04:11:05] GPU cache cleared at page 50
-[04:11:07] Page 51: SUCCESS - text=0 chars, images=1, final=941 chars
-[04:11:09] Page 52: SUCCESS - text=0 chars, images=1, final=1245 chars
-[04:11:11] Page 53: SUCCESS - text=0 chars, images=1, final=1016 chars
-[04:11:13] Page 54: SUCCESS - text=0 chars, images=1, final=1031 chars
-[04:11:14] Page 55: SUCCESS - text=0 chars, images=1, final=885 chars
-[04:11:16] Page 56: SUCCESS - text=0 chars, images=1, final=1168 chars
-[04:11:18] Page 57: SUCCESS - text=0 chars, images=1, final=1195 chars
-[04:11:19] Page 58: SUCCESS - text=0 chars, images=1, final=1137 chars
-[04:11:21] Page 59: SUCCESS - text=0 chars, images=1, final=1381 chars
-[04:11:24] Page 60: SUCCESS - text=0 chars, images=1, final=1167 chars
-[04:11:24] GPU cache cleared at page 60
-[04:11:26] Page 61: SUCCESS - text=0 chars, images=1, final=1030 chars
-[04:11:28] Page 62: SUCCESS - text=0 chars, images=1, final=985 chars
-[04:11:30] Page 63: SUCCESS - text=0 chars, images=1, final=1192 chars
-[04:11:31] Page 64: SUCCESS - text=0 chars, images=1, final=836 chars
-[04:11:34] Page 65: SUCCESS - text=0 chars, images=1, final=1458 chars
-[04:11:35] Page 66: SUCCESS - text=0 chars, images=1, final=535 chars
-[04:11:35] Page 67: SUCCESS - text=0 chars, images=1, final=339 chars
-[04:11:37] Page 68: SUCCESS - text=0 chars, images=1, final=1235 chars
-[04:11:40] Page 69: SUCCESS - text=0 chars, images=1, final=1251 chars
-[04:11:41] Page 70: SUCCESS - text=0 chars, images=1, final=893 chars
-[04:11:41] GPU cache cleared at page 70
-[04:11:43] Page 71: SUCCESS - text=0 chars, images=1, final=1072 chars
-[04:11:45] Page 72: SUCCESS - text=0 chars, images=1, final=1391 chars
-[04:11:47] Page 73: SUCCESS - text=0 chars, images=1, final=1273 chars
-[04:11:49] Page 74: SUCCESS - text=0 chars, images=1, final=1067 chars
-[04:11:51] Page 75: SUCCESS - text=0 chars, images=1, final=1156 chars
-[04:11:54] Page 76: SUCCESS - text=0 chars, images=1, final=1248 chars
-[04:11:56] Page 77: SUCCESS - text=0 chars, images=1, final=1026 chars
-[04:11:59] Page 78: SUCCESS - text=0 chars, images=1, final=1016 chars
-[04:12:00] Page 79: SUCCESS - text=0 chars, images=1, final=875 chars
-[04:12:02] Page 80: SUCCESS - text=0 chars, images=1, final=1104 chars
-[04:12:02] GPU cache cleared at page 80
-[04:12:03] Page 81: SUCCESS - text=0 chars, images=1, final=534 chars
-[04:12:05] Page 82: SUCCESS - text=0 chars, images=1, final=910 chars
-[04:12:07] Page 83: SUCCESS - text=0 chars, images=1, final=1161 chars
-[04:12:08] Page 84: SUCCESS - text=0 chars, images=1, final=634 chars
-[04:12:10] Page 85: SUCCESS - text=0 chars, images=1, final=793 chars
-[04:12:12] Page 86: SUCCESS - text=0 chars, images=1, final=1328 chars
-[04:12:13] Page 87: SUCCESS - text=0 chars, images=1, final=680 chars
-[04:12:15] Page 88: SUCCESS - text=0 chars, images=1, final=875 chars
-[04:12:17] Page 89: SUCCESS - text=0 chars, images=1, final=1089 chars
-[04:12:18] Page 90: SUCCESS - text=0 chars, images=1, final=788 chars
-[04:12:18] GPU cache cleared at page 90
-[04:12:20] Page 91: SUCCESS - text=0 chars, images=1, final=1147 chars
-[04:12:22] Page 92: SUCCESS - text=0 chars, images=1, final=746 chars
-[04:12:24] Page 93: SUCCESS - text=0 chars, images=1, final=958 chars
-[04:12:26] Page 94: SUCCESS - text=0 chars, images=1, final=1300 chars
-[04:12:27] Page 95: SUCCESS - text=0 chars, images=1, final=617 chars
-[04:12:29] Page 96: SUCCESS - text=0 chars, images=1, final=1124 chars
-[04:12:31] Page 97: SUCCESS - text=0 chars, images=1, final=968 chars
-[04:12:32] Page 98: SUCCESS - text=0 chars, images=1, final=1148 chars
-[04:12:34] Page 99: SUCCESS - text=0 chars, images=1, final=1072 chars
-[04:12:36] Page 100: SUCCESS - text=0 chars, images=1, final=1005 chars
-[04:12:36] GPU cache cleared at page 100
-[04:12:38] Page 101: SUCCESS - text=0 chars, images=1, final=1227 chars
-[04:12:39] Page 102: SUCCESS - text=0 chars, images=1, final=496 chars
-[04:12:39] Page 103: SUCCESS - text=0 chars, images=1, final=17 chars
-[04:12:40] Page 104: SUCCESS - text=0 chars, images=1, final=369 chars
-[04:12:42] Page 105: SUCCESS - text=0 chars, images=1, final=841 chars
-[04:12:44] Page 106: SUCCESS - text=0 chars, images=1, final=1133 chars
-[04:12:45] Page 107: SUCCESS - text=0 chars, images=1, final=895 chars
-[04:12:47] Page 108: SUCCESS - text=0 chars, images=1, final=726 chars
-[04:12:49] Page 109: SUCCESS - text=0 chars, images=1, final=927 chars
-[04:12:51] Page 110: SUCCESS - text=0 chars, images=1, final=1013 chars
-[04:12:51] GPU cache cleared at page 110
-[04:12:53] Page 111: SUCCESS - text=0 chars, images=1, final=1419 chars
-[04:12:55] Page 112: SUCCESS - text=0 chars, images=1, final=792 chars
-[04:12:56] Page 113: SUCCESS - text=0 chars, images=1, final=734 chars
-[04:12:58] Page 114: SUCCESS - text=0 chars, images=1, final=978 chars
-[04:13:00] Page 115: SUCCESS - text=0 chars, images=1, final=1319 chars
-[04:13:02] Page 116: SUCCESS - text=0 chars, images=1, final=1069 chars
-[04:13:03] Page 117: SUCCESS - text=0 chars, images=1, final=894 chars
-[04:13:06] Page 118: SUCCESS - text=0 chars, images=1, final=1157 chars
-[04:13:08] Page 119: SUCCESS - text=0 chars, images=1, final=982 chars
-[04:13:09] Page 120: SUCCESS - text=0 chars, images=1, final=519 chars
-[04:13:09] GPU cache cleared at page 120
-[04:13:10] Page 121: SUCCESS - text=0 chars, images=1, final=647 chars
-[04:13:12] Page 122: SUCCESS - text=0 chars, images=1, final=852 chars
-[04:13:14] Page 123: SUCCESS - text=0 chars, images=1, final=1020 chars
-[04:13:15] Page 124: SUCCESS - text=0 chars, images=1, final=817 chars
-[04:13:17] Page 125: SUCCESS - text=0 chars, images=1, final=768 chars
-[04:13:19] Page 126: SUCCESS - text=0 chars, images=1, final=1113 chars
-[04:13:21] Page 127: SUCCESS - text=0 chars, images=1, final=710 chars
-[04:13:23] Page 128: SUCCESS - text=0 chars, images=1, final=1074 chars
-[04:13:26] Page 129: SUCCESS - text=0 chars, images=1, final=1355 chars
-[04:13:29] Page 130: SUCCESS - text=0 chars, images=1, final=674 chars
-[04:13:29] GPU cache cleared at page 130
-[04:13:32] Page 131: SUCCESS - text=0 chars, images=1, final=1527 chars
-[04:13:33] Page 132: SUCCESS - text=0 chars, images=1, final=429 chars
-[04:13:33] Summary: 132 success, 0 errors, 0 text chars, 34189 OCR words
-[04:13:33] Processing completed: 132 success, 0 errors
-[04:13:33] Total time: 233s
-[04:13:33] Output size: 165,779 bytes
+[00:42:10] EasyOCR initialized with GPU: NVIDIA GeForce RTX 3050 Laptop GPU
+[00:42:10] ================================================================================
+[00:42:10] Processing: temp.pdf
+[00:42:10] Device: GPU
+[00:42:10] ================================================================================
+[00:42:15] Extracted 132 pages
+[00:42:16] Page 1: SUCCESS - text=0 chars, images=1, final=85 chars
+[00:42:16] Page 2: SUCCESS - text=0 chars, images=1, final=179 chars
+[00:42:17] Page 3: SUCCESS - text=0 chars, images=1, final=681 chars
+[00:42:18] Page 4: SUCCESS - text=0 chars, images=1, final=11 chars
+[00:42:18] Page 5: SUCCESS - text=0 chars, images=1, final=740 chars
+[00:42:20] Page 6: SUCCESS - text=0 chars, images=1, final=1190 chars
+[00:42:21] Page 7: SUCCESS - text=0 chars, images=1, final=792 chars
+[00:42:22] Page 8: SUCCESS - text=0 chars, images=1, final=1275 chars
+[00:42:23] Page 9: SUCCESS - text=0 chars, images=1, final=895 chars
+[00:42:24] Page 10: SUCCESS - text=0 chars, images=1, final=1259 chars
+[00:42:24] GPU cache cleared at page 10
+[00:42:26] Page 11: SUCCESS - text=0 chars, images=1, final=1117 chars
+[00:42:27] Page 12: SUCCESS - text=0 chars, images=1, final=992 chars
+[00:42:28] Page 13: SUCCESS - text=0 chars, images=1, final=1180 chars
+[00:42:30] Page 14: SUCCESS - text=0 chars, images=1, final=1437 chars
+[00:42:31] Page 15: SUCCESS - text=0 chars, images=1, final=1436 chars
+[00:42:32] Page 16: SUCCESS - text=0 chars, images=1, final=1143 chars
+[00:42:34] Page 17: SUCCESS - text=0 chars, images=1, final=1157 chars
+[00:42:35] Page 18: SUCCESS - text=0 chars, images=1, final=1184 chars
+[00:42:36] Page 19: SUCCESS - text=0 chars, images=1, final=961 chars
+[00:42:37] Page 20: SUCCESS - text=0 chars, images=1, final=930 chars
+[00:42:37] GPU cache cleared at page 20
+[00:42:39] Page 21: SUCCESS - text=0 chars, images=1, final=1605 chars
+[00:42:40] Page 22: SUCCESS - text=0 chars, images=1, final=1103 chars
+[00:42:41] Page 23: SUCCESS - text=0 chars, images=1, final=1024 chars
+[00:42:43] Page 24: SUCCESS - text=0 chars, images=1, final=1116 chars
+[00:42:44] Page 25: SUCCESS - text=0 chars, images=1, final=798 chars
+[00:42:45] Page 26: SUCCESS - text=0 chars, images=1, final=1116 chars
+[00:42:46] Page 27: SUCCESS - text=0 chars, images=1, final=1160 chars
+[00:42:48] Page 28: SUCCESS - text=0 chars, images=1, final=1504 chars
+[00:42:49] Page 29: SUCCESS - text=0 chars, images=1, final=727 chars
+[00:42:50] Page 30: SUCCESS - text=0 chars, images=1, final=969 chars
+[00:42:50] GPU cache cleared at page 30
+[00:42:51] Page 31: SUCCESS - text=0 chars, images=1, final=818 chars
+[00:42:52] Page 32: SUCCESS - text=0 chars, images=1, final=1013 chars
+[00:42:53] Page 33: SUCCESS - text=0 chars, images=1, final=1316 chars
+[00:42:55] Page 34: SUCCESS - text=0 chars, images=1, final=941 chars
+[00:42:56] Page 35: SUCCESS - text=0 chars, images=1, final=1318 chars
+[00:42:58] Page 36: SUCCESS - text=0 chars, images=1, final=1091 chars
+[00:42:59] Page 37: SUCCESS - text=0 chars, images=1, final=1227 chars
+[00:43:00] Page 38: SUCCESS - text=0 chars, images=1, final=1153 chars
+[00:43:01] Page 39: SUCCESS - text=0 chars, images=1, final=1256 chars
+[00:43:03] Page 40: SUCCESS - text=0 chars, images=1, final=1249 chars
+[00:43:03] GPU cache cleared at page 40
+[00:43:04] Page 41: SUCCESS - text=0 chars, images=1, final=1011 chars
+[00:43:05] Page 42: SUCCESS - text=0 chars, images=1, final=1325 chars
+[00:43:07] Page 43: SUCCESS - text=0 chars, images=1, final=1255 chars
+[00:43:08] Page 44: SUCCESS - text=0 chars, images=1, final=1304 chars
+[00:43:09] Page 45: SUCCESS - text=0 chars, images=1, final=763 chars
+[00:43:10] Page 46: SUCCESS - text=0 chars, images=1, final=1105 chars
+[00:43:12] Page 47: SUCCESS - text=0 chars, images=1, final=903 chars
+[00:43:13] Page 48: SUCCESS - text=0 chars, images=1, final=1311 chars
+[00:43:15] Page 49: SUCCESS - text=0 chars, images=1, final=1480 chars
+[00:43:16] Page 50: SUCCESS - text=0 chars, images=1, final=1048 chars
+[00:43:16] GPU cache cleared at page 50
+[00:43:17] Page 51: SUCCESS - text=0 chars, images=1, final=941 chars
+[00:43:18] Page 52: SUCCESS - text=0 chars, images=1, final=1245 chars
+[00:43:20] Page 53: SUCCESS - text=0 chars, images=1, final=1016 chars
+[00:43:21] Page 54: SUCCESS - text=0 chars, images=1, final=1031 chars
+[00:43:22] Page 55: SUCCESS - text=0 chars, images=1, final=885 chars
+[00:43:23] Page 56: SUCCESS - text=0 chars, images=1, final=1168 chars
+[00:43:24] Page 57: SUCCESS - text=0 chars, images=1, final=1195 chars
+[00:43:26] Page 58: SUCCESS - text=0 chars, images=1, final=1137 chars
+[00:43:27] Page 59: SUCCESS - text=0 chars, images=1, final=1381 chars
+[00:43:28] Page 60: SUCCESS - text=0 chars, images=1, final=1167 chars
+[00:43:28] GPU cache cleared at page 60
+[00:43:29] Page 61: SUCCESS - text=0 chars, images=1, final=1030 chars
+[00:43:31] Page 62: SUCCESS - text=0 chars, images=1, final=985 chars
+[00:43:32] Page 63: SUCCESS - text=0 chars, images=1, final=1192 chars
+[00:43:33] Page 64: SUCCESS - text=0 chars, images=1, final=836 chars
+[00:43:35] Page 65: SUCCESS - text=0 chars, images=1, final=1458 chars
+[00:43:36] Page 66: SUCCESS - text=0 chars, images=1, final=535 chars
+[00:43:36] Page 67: SUCCESS - text=0 chars, images=1, final=339 chars
+[00:43:38] Page 68: SUCCESS - text=0 chars, images=1, final=1235 chars
+[00:43:39] Page 69: SUCCESS - text=0 chars, images=1, final=1251 chars
+[00:43:40] Page 70: SUCCESS - text=0 chars, images=1, final=893 chars
+[00:43:40] GPU cache cleared at page 70
+[00:43:41] Page 71: SUCCESS - text=0 chars, images=1, final=1072 chars
+[00:43:43] Page 72: SUCCESS - text=0 chars, images=1, final=1391 chars
+[00:43:44] Page 73: SUCCESS - text=0 chars, images=1, final=1273 chars
+[00:43:46] Page 74: SUCCESS - text=0 chars, images=1, final=1067 chars
+[00:43:48] Page 75: SUCCESS - text=0 chars, images=1, final=1156 chars
+[00:43:50] Page 76: SUCCESS - text=0 chars, images=1, final=1248 chars
+[00:43:51] Page 77: SUCCESS - text=0 chars, images=1, final=1026 chars
+[00:43:52] Page 78: SUCCESS - text=0 chars, images=1, final=1016 chars
+[00:43:53] Page 79: SUCCESS - text=0 chars, images=1, final=875 chars
+[00:43:55] Page 80: SUCCESS - text=0 chars, images=1, final=1104 chars
+[00:43:55] GPU cache cleared at page 80
+[00:43:56] Page 81: SUCCESS - text=0 chars, images=1, final=534 chars
+[00:43:57] Page 82: SUCCESS - text=0 chars, images=1, final=910 chars
+[00:43:58] Page 83: SUCCESS - text=0 chars, images=1, final=1161 chars
+[00:43:59] Page 84: SUCCESS - text=0 chars, images=1, final=634 chars
+[00:44:00] Page 85: SUCCESS - text=0 chars, images=1, final=793 chars
+[00:44:02] Page 86: SUCCESS - text=0 chars, images=1, final=1328 chars
+[00:44:03] Page 87: SUCCESS - text=0 chars, images=1, final=680 chars
+[00:44:04] Page 88: SUCCESS - text=0 chars, images=1, final=875 chars
+[00:44:05] Page 89: SUCCESS - text=0 chars, images=1, final=1089 chars
+[00:44:06] Page 90: SUCCESS - text=0 chars, images=1, final=788 chars
+[00:44:06] GPU cache cleared at page 90
+[00:44:08] Page 91: SUCCESS - text=0 chars, images=1, final=1147 chars
+[00:44:08] Page 92: SUCCESS - text=0 chars, images=1, final=746 chars
+[00:44:10] Page 93: SUCCESS - text=0 chars, images=1, final=958 chars
+[00:44:11] Page 94: SUCCESS - text=0 chars, images=1, final=1300 chars
+[00:44:12] Page 95: SUCCESS - text=0 chars, images=1, final=617 chars
+[00:44:13] Page 96: SUCCESS - text=0 chars, images=1, final=1124 chars
+[00:44:14] Page 97: SUCCESS - text=0 chars, images=1, final=968 chars
+[00:44:16] Page 98: SUCCESS - text=0 chars, images=1, final=1148 chars
+[00:44:17] Page 99: SUCCESS - text=0 chars, images=1, final=1072 chars
+[00:44:18] Page 100: SUCCESS - text=0 chars, images=1, final=1005 chars
+[00:44:18] GPU cache cleared at page 100
+[00:44:20] Page 101: SUCCESS - text=0 chars, images=1, final=1227 chars
+[00:44:20] Page 102: SUCCESS - text=0 chars, images=1, final=496 chars
+[00:44:21] Page 103: SUCCESS - text=0 chars, images=1, final=17 chars
+[00:44:21] Page 104: SUCCESS - text=0 chars, images=1, final=369 chars
+[00:44:22] Page 105: SUCCESS - text=0 chars, images=1, final=841 chars
+[00:44:24] Page 106: SUCCESS - text=0 chars, images=1, final=1133 chars
+[00:44:25] Page 107: SUCCESS - text=0 chars, images=1, final=895 chars
+[00:44:26] Page 108: SUCCESS - text=0 chars, images=1, final=726 chars
+[00:44:27] Page 109: SUCCESS - text=0 chars, images=1, final=927 chars
+[00:44:29] Page 110: SUCCESS - text=0 chars, images=1, final=1013 chars
+[00:44:29] GPU cache cleared at page 110
+[00:44:30] Page 111: SUCCESS - text=0 chars, images=1, final=1419 chars
+[00:44:31] Page 112: SUCCESS - text=0 chars, images=1, final=792 chars
+[00:44:32] Page 113: SUCCESS - text=0 chars, images=1, final=734 chars
+[00:44:34] Page 114: SUCCESS - text=0 chars, images=1, final=978 chars
+[00:44:35] Page 115: SUCCESS - text=0 chars, images=1, final=1319 chars
+[00:44:36] Page 116: SUCCESS - text=0 chars, images=1, final=1069 chars
+[00:44:37] Page 117: SUCCESS - text=0 chars, images=1, final=894 chars
+[00:44:39] Page 118: SUCCESS - text=0 chars, images=1, final=1157 chars
+[00:44:40] Page 119: SUCCESS - text=0 chars, images=1, final=982 chars
+[00:44:41] Page 120: SUCCESS - text=0 chars, images=1, final=519 chars
+[00:44:41] GPU cache cleared at page 120
+[00:44:42] Page 121: SUCCESS - text=0 chars, images=1, final=647 chars
+[00:44:43] Page 122: SUCCESS - text=0 chars, images=1, final=852 chars
+[00:44:44] Page 123: SUCCESS - text=0 chars, images=1, final=1020 chars
+[00:44:45] Page 124: SUCCESS - text=0 chars, images=1, final=817 chars
+[00:44:46] Page 125: SUCCESS - text=0 chars, images=1, final=768 chars
+[00:44:48] Page 126: SUCCESS - text=0 chars, images=1, final=1113 chars
+[00:44:49] Page 127: SUCCESS - text=0 chars, images=1, final=710 chars
+[00:44:50] Page 128: SUCCESS - text=0 chars, images=1, final=1074 chars
+[00:44:52] Page 129: SUCCESS - text=0 chars, images=1, final=1355 chars
+[00:44:53] Page 130: SUCCESS - text=0 chars, images=1, final=674 chars
+[00:44:53] GPU cache cleared at page 130
+[00:44:55] Page 131: SUCCESS - text=0 chars, images=1, final=1527 chars
+[00:44:56] Page 132: SUCCESS - text=0 chars, images=1, final=429 chars
+[00:44:56] Summary: 132 success, 0 errors, 0 text chars, 34189 OCR words
+[00:44:56] Processing completed: 132 success, 0 errors
+[00:44:56] Total time: 161s
+[00:44:56] Output size: 165,779 bytes
