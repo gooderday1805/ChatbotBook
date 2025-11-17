@@ -1,9 +1,9 @@
 {
-  "num_chunks": 576,
+  "num_chunks": 556,
   "embedding_dim": 1024,
   "strategy": "bge-m3",
   "device": "cuda",
   "batch_size": 32,
-  "time_seconds": 30.44274401664734,
+  "time_seconds": 28.688260316848755,
   "chunk_file": "C:\\Users\\taipv\\PycharmProjects\\ChatbotBook\\output\\chunks_bge-m3.txt"
 }
