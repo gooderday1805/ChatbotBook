@@ -4,6 +4,6 @@
   "strategy": "minilm",
   "device": "cuda",
   "batch_size": 64,
-  "time_seconds": 6.473850727081299,
+  "time_seconds": 0.4923121929168701,
   "chunk_file": "C:\\Users\\taipv\\PycharmProjects\\ChatbotBook\\output\\chunks_minilm.txt"
 }

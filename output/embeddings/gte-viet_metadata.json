@@ -4,6 +4,6 @@
   "strategy": "gte-viet",
   "device": "cuda",
   "batch_size": 48,
-  "time_seconds": 70.96987557411194,
+  "time_seconds": 48.69405961036682,
   "chunk_file": "C:\\Users\\taipv\\PycharmProjects\\ChatbotBook\\output\\chunks_gte-viet.txt"
 }
